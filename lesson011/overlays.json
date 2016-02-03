@@ -1,0 +1,4 @@
+*  __`QUESTIONS`__
+  * What is a command to attack Ogre named Brak?
+      * this.attack(Brak);
+      * this.attack("Brak");

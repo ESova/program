@@ -1,0 +1,17 @@
+*  __`QUESTIONS`__
+  * What type of special characters are used in a while(true) loop to wrap the code in the loop that repeats forever?
+      * curly braces - {}
+      while(true){
+        // here comes the code that repeats
+      }
+
+      * square brackets - []
+      while(true)[
+        // here comes the code that repeats
+      ]
+
+
+
+#Note to the translator:
+please when translating, tell also the english expression,
+because it's a meta language for programming and it's nice they know also english expression (curly braces, square brackets).

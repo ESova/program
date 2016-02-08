@@ -1,0 +1,6 @@
+*  __`QUESTIONS`__
+  * How do you attack an enemy twice?
+
+      * this.attack(enemy) x 2
+      * this.attack(enemy)
+        this.attack(enemy)

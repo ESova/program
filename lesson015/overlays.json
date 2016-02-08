@@ -1,0 +1,6 @@
+*  __`QUESTIONS`__
+  * What is the right form for using moveDown method in Code Combat?
+      * this.moveDown()
+      * this.moveDown
+      * this.moveDown();
+      * this.moveDown!

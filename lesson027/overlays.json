@@ -1,0 +1,12 @@
+*  __`QUESTIONS`__
+  * How do you make one-line comments in Javascript code?
+
+      * you start a line with //
+      * you start a line with /*
+
+  * What here is a string?
+
+      * 1
+      * "123"
+      * "Hello"
+      * 'Hello'

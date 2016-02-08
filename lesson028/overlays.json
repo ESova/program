@@ -1,0 +1,21 @@
+*  __`QUESTIONS`__
+  * What is the result of this concatenation "Hello" + ", " + "Ana!" ?
+
+      * "Hello,Ana"
+      * "Hello , Ana!"
+      * "Hello" + "," + " Ana!"
+      * "Hello, Ana!"
+
+  * What here is a string?
+
+      * 1
+      * "123"
+      * "Hello"
+      * 'Hello'
+
+  * What is a result of "esova" === "esova"?
+
+      * "esova"
+      * true
+      * false
+      * "esovaesova"

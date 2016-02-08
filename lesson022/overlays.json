@@ -1,0 +1,18 @@
+*  __`QUESTIONS`__
+  * How can we attack unlimited amount of enemies?
+
+      * we have to know the number of enemies so we can write attack method for each enemy
+        var enemy = this.findNearestEnemy();
+        this.attack(enemy);
+        this.attack(enemy);
+        this.attack(enemy);
+        this.attack(enemy);
+        this.attack(enemy);
+        .
+        .
+        .
+      * we can create a loop that repeats the code to attack
+        while(true) {
+          var enemy = this.findNearestEnemy();
+          this.attack(enemy);
+        }

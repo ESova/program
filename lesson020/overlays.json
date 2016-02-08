@@ -1,0 +1,13 @@
+*  __`QUESTIONS`__
+  * What is a name of the variable we create in this statement?
+  var enemy1 = findNearestEnemy();
+
+      * enemy2
+      * enemy3
+      * enemy1
+      * enemy4
+
+  * What is the correct way to use variable enemy1 with method attack?
+
+      * this.attack("enemy1");
+      * this.attack(enemy1);

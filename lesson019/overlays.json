@@ -1,0 +1,8 @@
+*  __`QUESTIONS`__
+  * Is a) and b) the same?
+a) self.attack("Kratt");
+b) var enemy = "Kratt";
+   self.attack(enemy);
+
+      * yes, in example a) we use nametag and in example b) we are using variable enemy instead of a nametag
+      * no

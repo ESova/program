@@ -1,0 +1,7 @@
+*  __`QUESTIONS`__
+  * How do we create a new variable called enemy?
+
+      * v enemy = this.findNearestEnemy();
+      * var enemy = this.findNearestEnemy(); 
+      * enemy = this.findNearestEnemy();
+      * variable enemy = this.findNearestEnemy();

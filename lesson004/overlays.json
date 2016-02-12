@@ -36,7 +36,7 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "What is the name of a famous social network page for programmers?",
+    "question": "Kako se zove poznata društvena mreža za programere?",
     "options": [
       "Github",
       "Gigi",
@@ -47,10 +47,10 @@
     }, {
       "type": "challenge",
       "time": "2:32",
-      "text": "Click here to create Github and eSova account.",
+      "text": "Click here to create Github and eSova accountPritisnite ovde kako biste napravili Github i Esova nalog.",
       "link": {
         "url": "http://www.esova.rs",
-        "title": "Sign up now"
+        "title": "Prijavite se"
       }
       }]
     }

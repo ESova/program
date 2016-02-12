@@ -1,3 +1,7 @@
+##########################
+#     ENGLISH VERSION    #
+##########################
+
 {
 "slides": [{
   "type": "question",
@@ -36,3 +40,47 @@
   "button": "Complete the lesson"
 }]
 }
+
+
+##########################
+#     SERBIAN VERSION    #
+##########################
+
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "What is the result of this concatenation 'Hello' + ', ' + 'Ana!' ?",
+    "options": [
+      "Hello,Ana!",
+      "Hello , Ana!",
+      "'Hello' + ', ' + 'Ana!'",
+      "Hello, Ana!"
+    ],
+    "answer": [3]
+    },{
+      "type": "question",
+      "time": "2:32",
+      "question": "What is a result of 'esova' === 'esova' ?",
+      "options": [
+        "esova",
+        "true",
+        "false",
+        "esovaesova"
+      ],
+      "answer": [1]
+      },{
+        "type": "challenge",
+        "time": "2:32",
+        "text": "Learn to use Developer Tools (Console), then edit your Javascript Cheatsheet Gist and save the content from this lesson to it.",
+        "link": {
+          "url": "https://gist.github.com/",
+          "title": "Try out the console"
+        }
+        },{
+          "type": "solution",
+          "time": "2:32",
+          "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
+          "button": "Complete the lesson"
+          }]
+        }

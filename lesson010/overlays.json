@@ -1,3 +1,8 @@
+##########################
+#     ENGLISH VERSION    #
+##########################
+
+
 {
 "slides": [{
   "type": "question",
@@ -25,3 +30,37 @@
   "button": "Complete the lesson"
 }]
 }
+
+
+
+##########################
+#     SERBIAN VERSION    #
+##########################
+
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "Which are the basic commands in CodeCombat that you get with the boots?",
+    "options": [
+      "moveLeft",
+      "moveBack",
+      "moveUp",
+      "moveDown"
+    ],
+    "answer": [0,2,3]
+    },{
+      "type": "challenge",
+      "time": "2:32",
+      "text": "Play Code Combat and learn new tricks",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Play now"
+      }
+      },{
+        "type": "solution",
+        "time": "2:32",
+        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+        "button": "Complete the lesson"
+        }]
+      }

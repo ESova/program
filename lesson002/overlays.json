@@ -1,3 +1,7 @@
+##########################
+#     ENGLISH VERSION    #
+##########################
+
 {
 "slides": [{
   "type": "question",
@@ -36,3 +40,48 @@
   "button": "Complete the lesson"
 }]
 }
+
+
+
+##########################
+#     SERBIAN VERSION    #
+##########################
+
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "How long does the password for creating Google e-mail account (Gmail) have to be?",
+    "options": [
+      "3 characters",
+      "It doesn't matter",
+      "At least 8 characters",
+      "24 characters"
+    ],
+    "answer": [2]
+    },{
+      "type": "question",
+      "time": "2:32",
+      "question": "What kind of account will we create?",
+      "options": [
+        "Facebook",
+        "Gmail (Google e-mail)",
+        "Instagram",
+        "Snapchat"
+      ],
+      "answer": "1"
+      }, {
+        "type": "challenge",
+        "time": "2:32",
+        "text": "Go and create your Chrome profile now. Don't forget, you have to have Chrome browser opened to do that.",
+        "link": {
+          "url": "",
+          "title": "Create your Chrome profile"
+        }
+        }, {
+          "type": "solution",
+          "time": "2:32",
+          "text": "If you managed to create your Chrome profile, you can click here to complete the lesson.",
+          "button": "Complete the lesson"
+          }]
+        }

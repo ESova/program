@@ -1,3 +1,7 @@
+##########################
+#     ENGLISH VERSION    #
+##########################
+
 {
 "slides": [{
   "type": "question",
@@ -23,3 +27,35 @@
   "button": "Complete the lesson"
 }]
 }
+
+
+
+##########################
+#     SERBIAN VERSION    #
+##########################
+
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "What type of special characters are used in a while(true) loop to wrap the code in the loop that repeats forever?",
+    "options": [
+      "curly braces - {}",
+      "square brackets - []"
+    ],
+    "answer": [0]
+    },{
+      "type": "challenge",
+      "time": "2:32",
+      "text": "Play Code Combat and learn new tricks",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Play now"
+      }
+      },{
+        "type": "solution",
+        "time": "2:32",
+        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+        "button": "Complete the lesson"
+        }]
+      }

@@ -1,3 +1,7 @@
+##########################
+#     ENGLISH VERSION    #
+##########################
+
 {
 "slides": [{
   "type": "question",
@@ -34,3 +38,46 @@
   "button": "Complete the lesson"
 }]
 }
+
+
+
+##########################
+#     SERBIAN VERSION    #
+##########################
+
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "How do you make one-line comments in Javascript code?",
+    "options": [
+      "you start a line with //",
+      "you start a line with /*"
+    ],
+    "answer": [0]
+    },{
+      "type": "question",
+      "time": "2:32",
+      "question": "What here is a string?",
+      "options": [
+        "1",
+        "'123'",
+        "'Brak'",
+        "enemy"
+      ],
+      "answer": [1,2]
+      },{
+        "type": "challenge",
+        "time": "2:32",
+        "text": "Repeat what you've learned about JavaScript and create a new Gist, call it Javascript cheatsheet and save the content from the video in it.",
+        "link": {
+          "url": "https://gist.github.com/",
+          "title": "Repeat Javascript"
+        }
+        },{
+          "type": "solution",
+          "time": "2:32",
+          "text": "If you successfuly finished saved and bookmarked JavaScript Cheatsheet gist, click to complete the lesson.",
+          "button": "Complete the lesson"
+          }]
+        }

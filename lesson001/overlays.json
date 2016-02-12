@@ -1,3 +1,7 @@
+
+##########################
+#     ENGLISH VERSION    #
+##########################
 {
 "slides": [{
   "type": "question",
@@ -25,3 +29,37 @@
   "button": "Complete the lesson"
 }]
 }
+
+
+
+##########################
+#     SERBIAN VERSION    #
+##########################
+
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "What is not a browser?",
+    "options": [
+      "Google Chrome",
+      "Mozilla Firefox",
+      "Microsoft Windows",
+      "Internet Explorer"
+    ],
+    "answer": [2]
+    },{
+      "type": "challenge",
+      "time": "2:32",
+      "text": "Click to check your browser and if you don't have Google Chrome browser on your computer, install it now",
+      "link": {
+        "url": "http://www.whatbrowser.org/intl/sr/",
+        "title": "Click to check your browser"
+      }
+      }, {
+        "type": "solution",
+        "time": "2:32",
+        "text": "If you now have Chrome browser on your computer, you can click here to complete the lesson.",
+        "button": "Complete the lesson"
+        }]
+      }

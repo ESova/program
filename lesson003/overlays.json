@@ -1,6 +1,27 @@
-*  __`QUESTIONS`__
-  * What you don't do when you bookmark a page?
-      * create a shortcut to you favourite pages
-      * save links to your selected pages
-      * delete a link
-      * create little icons that bring you to certain pages
+{
+"slides": [{
+  "type": "question",
+  "time": "2:32",
+  "question": "What you don't do when you bookmark a page?",
+  "options": [
+    "create a shortcut to you favourite pages",
+    "save links to your selected pages",
+    "delete a link",
+    "create little icons that bring you to certain pages"
+  ],
+  "answer": [2]
+},{
+  "type": "challenge",
+  "time": "2:32",
+  "text": "Click here to create your first bookmark folder and save the link to your Gmail account.",
+  "link": {
+    "url": "http://www.gmail.com",
+    "title": "Create your bookmark"
+  }
+}, {
+  "type": "solution",
+  "time": "2:32",
+  "text": "If managed to add Gmail to your bookmarks, you can click here to complete the lesson.",
+  "button": "Complete the lesson"
+}]
+}

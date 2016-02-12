@@ -1,6 +1,27 @@
-*  __`QUESTIONS`__
-  * Which programming language will we learn with eSova?
-      * Ruby
-      * JavaScript
-      * Java
-      * Python
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "Which programming language will we learn with eSova?",
+    "options": [
+      "Ruby",
+      "JavaScript",
+      "Java",
+      "Python"
+    ],
+    "answer": [2]
+  },{
+    "type": "challenge",
+    "time": "2:32",
+    "text": "Create a Code Combat account and play first 3 rooms",
+    "link": {
+      "url": "http://codecombat.com/play/dungeon",
+      "title": "Join Code Combat"
+    }
+}, {
+    "type": "solution",
+    "time": "2:32",
+    "text": "If you successfuly completed first 3 rooms in Code Combat, press complete and continue to the new lesson.",
+    "button": "Complete the lesson"
+  }]
+}

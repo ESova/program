@@ -1,6 +1,27 @@
-*  __`QUESTIONS`__
-  * What is a graphical representation of the user or the user's alter ego or character?
-      * Name
-      * Avatar
-      * Email
-      * Password
+{
+"slides": [{
+  "type": "question",
+  "time": "2:32",
+  "question": "What is a graphical representation of the user or the user's alter ego or character?",
+  "options": [
+    "Name",
+    "Avatar",
+    "Email",
+    "Password"
+  ],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "2:32",
+  "text": "Create your unique avatar and update your Github profile",
+  "link": {
+    "url": "http://www.buildyourwildself.com/",
+    "title": "Create your avatar"
+  }
+}, {
+  "type": "solution",
+  "time": "2:32",
+  "text": "If your Github profile is now updated with a great new wild avatar, then you are ready to go to the next lesson.",
+  "button": "Complete the lesson"
+}]
+}

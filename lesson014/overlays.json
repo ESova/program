@@ -1,17 +1,35 @@
-*  __`QUESTIONS`__
-  * In the written form of many languages, an indentation is an empty space at the beginning of a line
-  to signal the start of a new paragraph. Many computer languages have adopted this technique
-  to designate "paragraphs" or other logical blocks in the program.
-
-  Example
-  while(true) {
-    // indented code here
+{
+"slides": [{
+  "type": "question",
+  "time": "2:32",
+  "question":
+  [
+    "In the written form of many languages, an indentation is an empty space at the beginning of a line to signal the start of a new paragraph. Many computer languages have adopted this technique to designate 'paragraphs' or other logical blocks in the program.",
+    "",
+    "Example",
+    "while(true) {",
+    "  // indented code here",
+    "}",
+    "",
+    "So what is indentation?"
+  ],
+  "options": [
+    "empty space at the beginning of a line",
+    "empty space at the end of a line"
+  ],
+  "answer": [0]
+},{
+  "type": "challenge",
+  "time": "2:32",
+  "text": "Play Code Combat and learn new tricks",
+  "link": {
+    "url": "http://codecombat.com/play/dungeon",
+    "title": "Play now"
   }
-
-  So what is indentation?
-      * empty space at the beginning of a line
-      * empty space at the end of a line
-
-#Note to the translator:
-please when translating, tell also the english expression,
-because it's a meta language for programming and it's nice they know also english expression (indentation).
+},{
+  "type": "solution",
+  "time": "2:32",
+  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "button": "Complete the lesson"
+}]
+}

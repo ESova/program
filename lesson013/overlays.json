@@ -1,17 +1,25 @@
-*  __`QUESTIONS`__
-  * What type of special characters are used in a while(true) loop to wrap the code in the loop that repeats forever?
-      * curly braces - {}
-      while(true){
-        // here comes the code that repeats
-      }
-
-      * square brackets - []
-      while(true)[
-        // here comes the code that repeats
-      ]
-
-
-
-#Note to the translator:
-please when translating, tell also the english expression,
-because it's a meta language for programming and it's nice they know also english expression (curly braces, square brackets).
+{
+"slides": [{
+  "type": "question",
+  "time": "2:32",
+  "question": "What type of special characters are used in a while(true) loop to wrap the code in the loop that repeats forever?",
+  "options": [
+    "curly braces - {}",
+    "square brackets - []"
+  ],
+  "answer": [0]
+},{
+  "type": "challenge",
+  "time": "2:32",
+  "text": "Play Code Combat and learn new tricks",
+  "link": {
+    "url": "http://codecombat.com/play/dungeon",
+    "title": "Play now"
+  }
+},{
+  "type": "solution",
+  "time": "2:32",
+  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "button": "Complete the lesson"
+}]
+}

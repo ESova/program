@@ -1,5 +1,25 @@
-*  __`QUESTIONS`__
-  * Which variable did we create to count our gems(diamonds)?
-
-      * enemy
-      * count
+{
+"slides": [{
+  "type": "question",
+  "time": "2:32",
+  "question": "Which variable did we create to count our gems(diamonds)?",
+  "options": [
+    "enemy",
+    "count"
+  ],
+  "answer": [1]
+},{
+  "type": "challenge",
+  "time": "2:32",
+  "text": "Play Code Combat and learn new tricks",
+  "link": {
+    "url": "http://codecombat.com/play/dungeon",
+    "title": "Play now"
+  }
+},{
+  "type": "solution",
+  "time": "2:32",
+  "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
+  "button": "Complete the lesson"
+}]
+}

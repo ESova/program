@@ -40,7 +40,7 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "What is not a browser?",
+    "question": "Šta nije pretraživač?",
     "options": [
       "Google Chrome",
       "Mozilla Firefox",
@@ -51,15 +51,15 @@
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Click to check your browser and if you don't have Google Chrome browser on your computer, install it now",
+      "text": "Pritisnite ovde da biste proverili svoj pretraživač i ako  nemate Google Chrome pretraživač, instalirajte ga",
       "link": {
         "url": "http://www.whatbrowser.org/intl/sr/",
-        "title": "Click to check your browser"
+        "title": "Pritisnite ovde da biste proverili pretraživač"
       }
       }, {
         "type": "solution",
         "time": "2:32",
-        "text": "If you now have Chrome browser on your computer, you can click here to complete the lesson.",
-        "button": "Complete the lesson"
+        "text": "Ako imate Chrome pretraživač na kompijuteru, pritisnite ovde da biste završili lekciju.",
+        "button": "Završite lekciju"
         }]
       }

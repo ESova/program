@@ -51,18 +51,17 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "How long does the password for creating Google e-mail account (Gmail) have to be?",
+    "question": "Koliko karaktera treba da ima lozinka za Google e-mail (Gmail) nalog?",
     "options": [
-      "3 characters",
-      "It doesn't matter",
-      "At least 8 characters",
-      "24 characters"
+      "3 karaktera",
+      "Nije važno",
+      "Minimum 8 karaktera",
+      "24 karaktera"
     ],
     "answer": [2]
     },{
       "type": "question",
-      "time": "2:32",
-      "question": "What kind of account will we create?",
+      "time": "2:32"Koju vrsu naloga ćemo napraviti?",
       "options": [
         "Facebook",
         "Gmail (Google e-mail)",
@@ -73,15 +72,15 @@
       }, {
         "type": "challenge",
         "time": "2:32",
-        "text": "Go and create your Chrome profile now. Don't forget, you have to have Chrome browser opened to do that.",
+        "text": "Idute i napravite svoj Google nalog sad. , Ne zaboravite, za to vam je potreban Google pretraživač.",
         "link": {
           "url": "",
-          "title": "Create your Chrome profile"
+          "title": "Napravite svoj Chrome nalog"
         }
         }, {
           "type": "solution",
           "time": "2:32",
-          "text": "If you managed to create your Chrome profile, you can click here to complete the lesson.",
-          "button": "Complete the lesson"
+          "text": "Ako ste uspeli na napravite Chrome nalog, pritisnite ovde da završite lekciju.",
+          "button": "Završite lekciju"
           }]
         }

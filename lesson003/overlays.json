@@ -42,26 +42,26 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "What you don't do when you bookmark a page?",
+    "question": "Sta ne treba raditi kad želite da obeležite stranicu?",
     "options": [
-      "create a shortcut to you favourite pages",
-      "save links to your selected pages",
-      "delete a link",
-      "create little icons that bring you to certain pages"
+      "pravite prečicu za omiljenu stranicu",
+      "sačuvate vezu ka izabranoj stranici",
+      "obrišete vezu",
+      "Napravite ikonicu koja će vam pomoći da brže stignete na određenu stranicu"
     ],
     "answer": [2]
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Click here to create your first bookmark folder and save the link to your Gmail account.",
+      "text": "Pritisnite ovde kako biste napravili svoju prvu fasciklu za beleške i sačuvali vezu ka svom Google nalogu.",
       "link": {
         "url": "http://www.gmail.com",
-        "title": "Create your bookmark"
+        "title": "Obeleži stranicu"
       }
       }, {
         "type": "solution",
         "time": "2:32",
-        "text": "If managed to add Gmail to your bookmarks, you can click here to complete the lesson.",
-        "button": "Complete the lesson"
+        "text": "Ako ste uspeli da obeležite vezu ka svom Google nalogu pritisnite ovde da biste završili lekciju.",
+        "button": "Završite lekciju"
         }]
       }

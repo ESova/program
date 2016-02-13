@@ -15,4 +15,4 @@ With help of the game you will learn more tricks with methods, loops and variabl
 # Code Combat
 
 
-Uz pomoć ove igre naučićemo još trikova sa metodama, loop-ovima i promenljivim u JavaScript programskom jeziku.
+Uz pomoć ove igre naučićemo još trikova sa metodama, loop-ovima i promenljivima u JavaScript programskom jeziku.

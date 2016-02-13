@@ -14,4 +14,5 @@ With help of the game you will learn more tricks with methods, loops and variabl
 
 # Code Combat
 
-With help of the game you will learn more tricks with methods, loops and variables in JavaScript programming language.
+
+Uz pomoć ove igre naučićemo još trikova sa metodama, loop-ovima i promenljivima u JavaScript programskom jeziku.

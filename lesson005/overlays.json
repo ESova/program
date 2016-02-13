@@ -40,26 +40,26 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "What is a graphical representation of the user or the user's alter ego or character?",
+    "question": "Šta grafički predstavlja korisnika, korisnikov alter ego ili ličnost?",
     "options": [
-      "Name",
+      "Ime",
       "Avatar",
       "Email",
-      "Password"
+      "Lozinka"
     ],
     "answer": [1]
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Create your unique avatar and update your Github profile",
+      "text": "Napravite svoj jedinstveni avatar i ažurirajte svoj Github nalog",
       "link": {
         "url": "http://www.buildyourwildself.com/",
-        "title": "Create your avatar"
+        "title": "Napravite svoj avatar"
       }
       }, {
         "type": "solution",
         "time": "2:32",
-        "text": "If your Github profile is now updated with a great new wild avatar, then you are ready to go to the next lesson.",
-        "button": "Complete the lesson"
+        "text": "Ako je vaš Github profil ažuriran i imate kul novi avatar, spremni ste da pređete na sledeći nivo.",
+        "button": "Završi lekciju"
         }]
       }

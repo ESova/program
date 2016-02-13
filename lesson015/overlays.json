@@ -39,7 +39,7 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "What is the right form for using moveDown method in Code Combat?",
+    "question": "Koja je prava forma korišćenja moveDown metode u Code Combat-u?",
     "options": [
       "this.moveDown[]",
       "this.moveDown",
@@ -48,17 +48,17 @@
     ],
     "answer": [2]
     },{
-      "type": "challenge",
+      "type": "izazov",
       "time": "2:32",
-      "text": "Play Code Combat and learn new tricks",
+      "text": "Igraj Code Combat i nauči nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Play now"
+        "title": "Igraj odmah"
       }
       },{
-        "type": "solution",
+        "type": "rešenje",
         "time": "2:32",
-        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno završili zadatke u igrici za ovu lekciju, klinite na Završena lekcija",
+        "button": "Završena lekcija"
         }]
       }

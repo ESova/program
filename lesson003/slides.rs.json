@@ -1,0 +1,28 @@
+
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "Sta ne treba raditi kad želite da obeležite stranicu?",
+    "options": [
+      "pravite prečicu za omiljenu stranicu",
+      "sačuvate vezu ka izabranoj stranici",
+      "obrišete vezu",
+      "Napravite ikonicu koja će vam pomoći da brže stignete na određenu stranicu"
+    ],
+    "answer": [2]
+    },{
+      "type": "challenge",
+      "time": "2:32",
+      "text": "Kliknite ovde kako biste napravili svoju prvu fasciklu za beleške i sačuvali vezu ka svom Google nalogu.",
+      "link": {
+        "url": "http://www.gmail.com",
+        "title": "Obeleži stranicu"
+      }
+      }, {
+        "type": "solution",
+        "time": "2:32",
+        "text": "Ako ste uspeli da obeležite vezu ka svom Google nalogu, kliknite ovde da biste završili lekciju.",
+        "button": "Završite lekciju"
+        }]
+      }

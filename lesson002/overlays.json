@@ -61,7 +61,8 @@
     "answer": [2]
     },{
       "type": "question",
-      "time": "2:32"Koju vrsu naloga ćemo napraviti?",
+      "time": "2:32"
+      "question"Koju vrsu naloga ćemo napraviti?",
       "options": [
         "Facebook",
         "Gmail (Google e-mail)",
@@ -72,7 +73,7 @@
       }, {
         "type": "challenge",
         "time": "2:32",
-        "text": "Idute i napravite svoj Google nalog sad. , Ne zaboravite, za to vam je potreban Google pretraživač.",
+        "text": "Idite i napravite svoj Google nalog sad. , Ne zaboravite, za to vam je potreban Google pretraživač.",
         "link": {
           "url": "",
           "title": "Napravite svoj Chrome nalog"

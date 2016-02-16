@@ -1,4 +1,4 @@
 # Pravljenje Avatara
 
 
-U ovoj lekciji ćemo biti kreativni i kreirati avatar za svoj profil.
+U ovoj lekciji ćemo biti kreativni i kreirati avatara za svoj profil.

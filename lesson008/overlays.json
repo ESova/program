@@ -61,7 +61,7 @@
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": “Postanite nindža na tastaturi. Kliknite ovde i počnite sa lekcijama kucanja”
+      "text": "Postanite nindža na tastaturi. Kliknite ovde i počnite sa lekcijama kucanja”
       "link": {
         "url": "http://www.typingstudy.com/",
         "title": "Postanite nindža na tastaturi"
@@ -69,7 +69,7 @@
       },{
         "type": "challenge",
         "time": "2:32",
-        "text": “Ako mislite da ste spremni , testirajte svoje sposobnosti kucanja.",
+        "text": "Ako mislite da ste spremni , testirajte svoje sposobnosti kucanja.",
         "link": {
           "url": "http://www.learninggamesforkids.com/keyboarding_games/keyboarding_games_typing_adventure1.html",
           "title": "Testirajte svoje sposobnosti kucanja"
@@ -78,7 +78,7 @@
       {
         "type": "solution",
         "time": "2:32",
-        "text": “Ako je Vaše vreme ispod 5000, završite lekciju. U suprotnom, nastavite sa vežbom.”,
-        "button": “Završite lekciju."
+        "text": "Ako je Vaše vreme ispod 5000, završite lekciju. U suprotnom, nastavite sa vežbom.”,
+        "button": "Završite lekciju."
         }]
       }

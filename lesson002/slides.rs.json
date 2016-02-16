@@ -14,7 +14,7 @@
     },{
       "type": "question",
       "time": "2:32"
-      "question": Koju vrsu naloga ćemo napraviti?",
+      "question": "Koju vrstu naloga ćemo napraviti?",
       "options": [
         "Facebook",
         "Gmail (Google e-mail)",
@@ -25,7 +25,7 @@
       }, {
         "type": "challenge",
         "time": "2:32",
-        "text": "Idite i napravite svoj Google nalog sad. , Ne zaboravite, za to vam je potreban Google pretraživač.",
+        "text": "Idite i napravite svoj Chrome nalog sad. Ne zaboravite, za to vam je potreban Google Chrome pretraživač.",
         "link": {
           "url": "",
           "title": "Napravite svoj Chrome nalog"

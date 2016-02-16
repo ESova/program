@@ -1,8 +1,9 @@
 
 {
+  "video" : "4baln4flyl",
   "slides": [{
     "type": "question",
-    "time": "2:32",
+    "time": "1:49",
     "question": "Sta ne treba raditi kad želite da obeležite stranicu?",
     "options": [
       "pravite prečicu za omiljenu stranicu",
@@ -13,7 +14,7 @@
     "answer": [2]
     },{
       "type": "challenge",
-      "time": "2:32",
+      "time": "",
       "text": "Kliknite ovde kako biste napravili svoju prvu fasciklu za beleške i sačuvali vezu ka svom Google nalogu.",
       "link": {
         "url": "http://www.gmail.com",
@@ -21,7 +22,7 @@
       }
       }, {
         "type": "solution",
-        "time": "2:32",
+        "time": "",
         "text": "Ako ste uspeli da obeležite vezu ka svom Google nalogu, kliknite ovde da biste završili lekciju.",
         "button": "Završite lekciju"
         }]

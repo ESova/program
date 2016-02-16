@@ -11,6 +11,6 @@ You will learn how to create a Google Chrome profile and create your own free e-
 #     SERBIAN VERSION    #
 ##########################
 
-# Chrome Profile + GMail Account
+# Chrome Profil + Gmail Nalog
 
-You will learn how to create a Google Chrome profile and create your own free e-mail account.
+Naučićemo kako da kreiramo Google Chrome profil i svoj besplatni e-mail nalog. 

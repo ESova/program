@@ -17,4 +17,4 @@ With help of the game you will learn basic syntax for loops.
 
 # Code Combat - while(true)
 
-Uz pomoć igre naučićemo onsovnu sintaksu petlji.
+Uz pomoć igre naučićemo osnovnu sintaksu petlji.

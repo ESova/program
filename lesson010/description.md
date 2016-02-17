@@ -11,6 +11,6 @@ With help of amazing Code Combat game you will get to know first commands (moveU
 #     SERBIAN VERSION    #
 ##########################
 
-# Code Combat - idiGore, idiDole, idiLevo, idiDesno
+# Code Combat - moveUp, moveDown, moveLeft, moveRight
 
-Naučićemo prve komande u Code Combat igrici  (idiGore, idiDole, idiLevo i idiDesno)
+Naučićemo prve komande u Code Combat igrici  (moveUp, moveDown, moveLeft i moveRight)

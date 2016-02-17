@@ -43,10 +43,10 @@
     "time": "2:32",
     "question": "Koje su osnovne komande u CodeCombat-u koje dobijete u sistemu?",
     "options": [
-      "idiLevo",
-      "idiNazad",
-      "idiGore",
-      "idiDole"
+    "moveLeft",
+    "moveBack",
+    "moveUp",
+    "moveDown"
     ],
     "answer": [0,2,3]
     },{

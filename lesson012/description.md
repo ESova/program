@@ -12,6 +12,6 @@ With help of the game you will learn how to make things happen over and over aga
 #     SERBIAN VERSION    #
 ##########################
 
-# Code Combat - loops
+# Code Combat - petlje
 
-With help of the game you will learn how to make things happen over and over again.
+Uz pomoć igre naučićemo kako da učinimo da se stvari ponavljaju u krug.

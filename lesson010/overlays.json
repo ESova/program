@@ -41,26 +41,26 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "Which are the basic commands in CodeCombat that you get with the boots?",
+    "question": "Koje su osnovne komande u CodeCombat-u koje dobijete u sistemu?",
     "options": [
-      "moveLeft",
-      "moveBack",
-      "moveUp",
-      "moveDown"
+      "idiLevo",
+      "idiNazad",
+      "idiGore",
+      "idiDole"
     ],
     "answer": [0,2,3]
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Play Code Combat and learn new tricks",
+      "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Play now"
+        "title": "Igrajte sada"
       }
       },{
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
         }]
       }

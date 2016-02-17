@@ -40,7 +40,7 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "Which programming language will we learn with eSova?",
+    "question": "Koji programski jezik ćemo naučiti kroz eSova kurs?",
     "options": [
       "Ruby",
       "JavaScript",
@@ -51,15 +51,15 @@
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Create a Code Combat account and play first 3 rooms",
+      "text": "Napravite Code Combat nalog i odigrajte prve 3 sobe ",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Join Code Combat"
+        "title": "Napravite Code Combat nalog"
       }
       }, {
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly completed first 3 rooms in Code Combat, press complete and continue to the new lesson.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno prošli kroz prve 3 sobe u Code Combat-u, završite lekciju and idite na sledeću.",
+        "button": "Završite lekciju"
         }]
       }

@@ -39,24 +39,24 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "What is a while(true) loop?",
+    "question": "Šta je while(true) petlja?",
     "options": [
-      "it's a special command - a loop - that make things happen over and over again",
-      "it is a name of an Ogre we have to attack"
+      "To je specijalna komanda - petlja - koja čini da se stvari ponavljaju u krug",
+      "To je ime strašnog čudovišta koje napadamo"
     ],
     "answer": [0]
-    },{
+  },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Play Code Combat and learn new tricks",
+      "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Play now"
+        "title": "Igrajte sada"
       }
       },{
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
         }]
       }

@@ -1,7 +1,8 @@
 {
+"video": "rmhd84p5to",
 "slides": [{
   "type": "izazov",
-  "time": "2:32",
+  "time": "00:14",
   "text": "Naučićemo kako da koristite GitHub - društvenu mrežu za programere.",
   "link": {
     "url": "https://github.com/",
@@ -9,7 +10,7 @@
   }
 }, {
   "type": "izazov",
-  "time": "2:32",
+  "time": "",
   "text": "Ukoliko nam treba bilo kakva pomoć, koristićemo eSova Gitter chat.",
   "link": {
     "url": "https://gitter.im/ESova/program",
@@ -17,7 +18,7 @@
   }
 }, {
   "type": "izazov",
-  "time": "2:32",
+  "time": "",
   "text": "Igraćemo programersku igricu Code Combat.",
   "link": {
     "url": "http://codecombat.com/play",
@@ -25,7 +26,7 @@
   }
 },{
   "type": "rešenje",
-  "time": "2:32",
+  "time": "",
   "text": "Isprogramiraćemo svoju prvu web aplikaciju! Počnimo odmah! Ceo svet je naš!",
   "button": "Počni odmah"
 }]

@@ -1,0 +1,26 @@
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "Koja vrsta simbola se koristi u while(true) petlji za prelamanje koda, kako bi se petlja ponavljala zauvek?",
+    "options": [
+      "vitičaste zagrade - {}",
+      "uglaste - []"
+    ],
+    "answer": [0]
+    },{
+      "type": "challenge",
+      "time": "2:32",
+       "text": "Igrajte Code Combat i naučite nove trikove",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Igrajte sada"
+      }
+      },{
+        "type": "solution",
+        "time": "2:32",
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }
+

@@ -10,6 +10,6 @@ In this lesson you will practice your creativity while creating your custom prof
 #     SERBIAN VERSION    #
 ##########################
 
-# Creating Avatar
+# Pravljenje Avatara
 
-In this lesson you will practice your creativity while creating your custom profile avatar.
+U ovoj lekciji ćemo biti kreativni i kreirati avatara za svoj profil.

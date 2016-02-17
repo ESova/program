@@ -1,0 +1,25 @@
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "Šta je while(true) petlja?",
+    "options": [
+      "To je specijalna komanda - petlja - koja čini da se stvari ponavljaju u krug",
+      "To je ime strašnog čudovišta koje napadamo"
+    ],
+    "answer": [0]
+  },{
+      "type": "challenge",
+      "time": "2:32",
+      "text": "Igrajte Code Combat i naučite nove trikove",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Igrajte sada"
+      }
+      },{
+        "type": "solution",
+        "time": "2:32",
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

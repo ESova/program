@@ -1,18 +1,19 @@
 
+
 {
   "slides": [{
-    "type": "question",
+    "type": "pitanje",
     "time": "2:32",
-    "question": "Sta ne treba raditi kad želite da obeležite stranicu?",
+    "question": "Šta ne treba raditi kad želite da obeležite stranicu?",
     "options": [
-      "pravite prečicu za omiljenu stranicu",
-      "sačuvate vezu ka izabranoj stranici",
-      "obrišete vezu",
-      "Napravite ikonicu koja će vam pomoći da brže stignete na određenu stranicu"
+      "praviti prečicu za omiljenu stranicu",
+      "sačuvati vezu ka izabranoj stranici",
+      "obrisati vezu",
+      "Napraviti ikonicu koja će vam pomoći da brže stignete na određenu stranicu"
     ],
     "answer": [2]
     },{
-      "type": "challenge",
+      "type": "Izazov",
       "time": "2:32",
       "text": "Kliknite ovde kako biste napravili svoju prvu fasciklu za beleške i sačuvali vezu ka svom Google nalogu.",
       "link": {
@@ -20,9 +21,9 @@
         "title": "Obeleži stranicu"
       }
       }, {
-        "type": "solution",
+        "type": "rešenje",
         "time": "2:32",
-        "text": "Ako ste uspeli da obeležite vezu ka svom Google nalogu, kliknite ovde da biste završili lekciju.",
-        "button": "Završite lekciju"
+        "text": "Ako ste uspeli da obeležite vezu ka svom Google nalogu pritisnite ovde da biste završili lekciju.",
+        "button": "Završi lekciju"
         }]
       }

@@ -12,6 +12,6 @@ You will get to know tips and tricks for becoming a typing ninja.
 ##########################
 
 
-# Keyboard Training
+# Trening kucanja
 
-You will get to know tips and tricks for becoming a typing ninja.
+Naučićete sve trikove kako biste postali pravi nindža na tastaturi.

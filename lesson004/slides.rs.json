@@ -1,0 +1,23 @@
+
+{
+  "slides": [{
+    "type": "pitanje",
+    "time": "2:32",
+    "question": "Kako se zove poznata društvena mreža za programere?",
+    "options": [
+      "Github",
+      "Gigi",
+      "Bitbag",
+      "Abrakadabra"
+    ],
+    "answer": [0]
+    }, {
+      "type": "izazov",
+      "time": "2:32",
+      "text": "Kliknite ovde kako biste napravili Github i Esova nalog.",
+      "link": {
+        "url": "http://www.esova.rs",
+        "title": "Prijavi se"
+      }
+      }]
+    }

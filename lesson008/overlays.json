@@ -50,8 +50,8 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "Which two letters on keyboard have a little bump that marks the correct starting position for our second fingers?",
-    "options": [
+    "question": "Koja dva dugmeta na tasturi imaju mala ispupčenja koja označavaju početnu poziciju kažiprsta?" 
+    "options": [ 
       "B and V",
       "G and H",
       "F and J",
@@ -61,24 +61,24 @@
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Become a typing ninja. Click here and start with typing lessons.",
+      "text": "Postanite nindža na tastaturi. Kliknite ovde i počnite sa lekcijama kucanja”
       "link": {
         "url": "http://www.typingstudy.com/",
-        "title": "Become a typing ninja"
+        "title": "Postanite nindža na tastaturi"
       }
       },{
         "type": "challenge",
         "time": "2:32",
-        "text": "If you think you are ready, let's test our typing skills one.",
+        "text": "Ako mislite da ste spremni , testirajte svoje sposobnosti kucanja.",
         "link": {
           "url": "http://www.learninggamesforkids.com/keyboarding_games/keyboarding_games_typing_adventure1.html",
-          "title": "Test your typing skills"
+          "title": "Testirajte svoje sposobnosti kucanja"
         }
       },
       {
         "type": "solution",
         "time": "2:32",
-        "text": "If your time is somewhere below 50000, complete lesson, otherwise, practise a bit more.",
-        "button": "Complete the lesson"
+        "text": "Ako je Vaše vreme ispod 5000, završite lekciju. U suprotnom, nastavite sa vežbom.”,
+        "button": "Završite lekciju."
         }]
       }

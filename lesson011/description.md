@@ -11,6 +11,6 @@ With help of amazing Code Combat game you will get to know how to use command at
 #     SERBIAN VERSION    #
 ##########################
 
-# Code Combat - attack
+# Code Combat - Napad
 
-With help of amazing Code Combat game you will get to know how to use command attack.
+U Code Combat igrici naučićemo kako da koristimo komandu napad.

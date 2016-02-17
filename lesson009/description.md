@@ -11,6 +11,6 @@ With help of amazing Code Combat game you will learn basic syntax, methods, para
 #     SERBIAN VERSION    #
 ##########################
 
-# Code Combat Registration
+# Code Combat Prijavljivanje
 
-With help of amazing Code Combat game you will learn basic syntax, methods, parameters, strings, loops and variables in JavaScript programming language.
+Uz pomoć neverovatne Code Combat igrice imaćete priliku da naučite osnovne sintakse, metode, parametre, znakovne nizove, petlje i promenljive u JavaScript programskom jeziku.

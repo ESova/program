@@ -9,19 +9,19 @@
       "this.moveDown();",
       "this.moveDown!"
     ],
-    "answer": [2]
+    "answer": [0]
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Igraj Code Combat i nauči nove trikove",
+       "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Igraj odmah"
+        "title": "Igrajte sada"
       }
       },{
-        "type": "soultion",
+        "type": "solution",
         "time": "2:32",
-        "text": "Ukoliko ste uspešno završili zadatke u igrici za ovu lekciju, klinite na Završena lekcija",
-        "button": "Završena lekcija"
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
         }]
       }

@@ -39,7 +39,7 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "Mark the characters for which we created a shortcut in our Gist?",
+    "question": "Označite simbole za koje smo napravili prečice u našem Gistu",
     "options": [
       "/",
       ";",
@@ -50,15 +50,15 @@
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Add more special characters to your gist and then test practise typing them with WPM test.",
+      "text": "Dodajte još posebnih simbola u svoj Gist, a zatim vežbajte kucanje sa WPM testom.",
       "link": {
         "url": "http://wpm-test.com/programming-typing-test/",
-        "title": "Start now"
+        "title": "Počnite sada"
       }
       },{
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly added all special characters from the video to your gist and finished the test, click here to complete the lesson.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno dodali sve posebne simbole iz videa u svoj Gist i završili test, kliknite da završite lekciju.",
+        "button": "Završite lekciju"
         }]
       }

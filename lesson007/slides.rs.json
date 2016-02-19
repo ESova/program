@@ -10,7 +10,7 @@
     ],
     "answer": [1]
     },{
-      "type": "izazov",
+      "type": "challange",
       "time": "2:32",
       "text": "Napravite svoj prvi Gist i sačuvaj prečicice koje ste do sada naučili.",
       
@@ -19,7 +19,7 @@
         "title": "Kreirajte Gist"
       }
       }, {
-        "type": "rešenje",
+        "type": "solution",
         "time": "2:32",
         "text": "Ako ste kreirali gist i dodali ga u liniju obeleživača, kliknite ovde da završite lekciju",
         "button": "Završite lekciju"

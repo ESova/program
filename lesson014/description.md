@@ -18,4 +18,4 @@ With help of the game you will learn more about while(true) syntax.
 
 # Code Combat
 
-With help of the game you will learn more about while(true) syntax.
+Uz pomoć igre naučićemo više o while(true) sintaksi.

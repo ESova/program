@@ -17,9 +17,9 @@ There are 2 videos: Special Characters 2 (until min 1:55) & then Special Charact
 #     SERBIAN VERSION    #
 ##########################
 
-# Special characters 2
+# Posebni simboli 2
 
-You will learn even more special characters and at the end you will also be able to test your typing speed.
+Naučićemo još posebnih simbola, a zatim testirati svoju brzinu kucanja.
 
 
 ## note to translator & video maker

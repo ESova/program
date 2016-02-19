@@ -37,24 +37,24 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "Where do we save the cheatsheet for Special Characters from this lesson?",
+    "question": "Gde čuvamo puškicu za posebne simbole iz ove lekcije?",
     "options": [
-      "in the Gist (and Bookmarked under GISTS/Special Characters)",
-      "we don't save it"
+      "u Gist (i obeležimo pod GISTS/posebni simboli)",
+      "ne čuvamo je"
     ],
     "answer": [0]
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Find special characters on your keyboard, then create a Gist and save shortcuts for curly braces {} and square brackets [].",
+      "text": "Pronađite posbne simbole na tastaturi, zatim kreirajte Gist i u njega sačuvajte prečice za vitičaste i uglaste zagrade.",
       "link": {
         "url": "https://gist.github.com/",
-        "title": "Start now"
+        "title": "Počnite odmah"
       }
       },{
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly saved and bookmarked Special Characters gist, click here to complete the lesson.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno sačuvali i obeležili Gist posebni simboli, kliknite da završite lekciju",
+        "button": "Završite lekciju"
         }]
       }

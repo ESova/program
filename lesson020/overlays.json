@@ -39,26 +39,26 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "What is a name of the variable we create in this statement var enemy1 = findNearestEnemy(); ?",
+    "question": "Kako je ime promenljive koja kreira iskaz var enemy1 = findNearestEnemy(); ?",
     "options": [
       "enemy2",
       "enemy3",
       "enemy1",
       "enemy4"
     ],
-    "answer": [2]
+    "answer": [0]
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Play Code Combat and learn new tricks",
+       "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Play now"
+        "title": "Igrajte sada"
       }
       },{
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
         }]
       }

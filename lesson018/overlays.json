@@ -40,7 +40,7 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "What method did we use to destroy the door?",
+    "question": "Koji ste metod koristili da uništite vrata?",
     "options": [
       "attack",
       "destroy",
@@ -51,15 +51,15 @@
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Play Code Combat and learn new tricks",
+       "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Play now"
+        "title": "Igrajte sada"
       }
       },{
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
         }]
       }

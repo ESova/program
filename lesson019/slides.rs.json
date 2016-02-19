@@ -10,7 +10,7 @@
       "    self.attack(enemy);"
     ],
     "options": [
-      "da, u primeru a) koristimo ime and u primeru b) koristimo promenljivu enemy umesto imena",
+      "da, u primeru a) koristimo ime and u primeru b) koristimo promenljivu enemy (neprijatelj) umesto imena",
       "ne"
     ],
     "answer": [0]

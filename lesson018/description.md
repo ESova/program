@@ -14,4 +14,4 @@ With help of amazing Code Combat game you will learn how to destroy the door wit
 
 # Code Combat
 
-With help of amazing Code Combat game you will learn how to destroy the door with a loop.
+Uz pomoć Code Combat igrice naučićemo kako da uništimo vrata petljom.

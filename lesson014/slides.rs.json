@@ -1,0 +1,36 @@
+
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question":
+    [
+      "u pisanoj formi mnogih jezika, uvlačenje je predstavljeno praznim prostorom na početku reda kako bi signalizirao početak novog pasusa. Mnogi kompjuterski jezici koriste ovu tehniku da odvoje pasuse ili druge logične blokove u programu.",
+      "",
+      "Primer",
+      "while(true) {",
+        "  // Mesto za kod",
+        "}",
+        "",
+        "Dakle, šta je uvlačenje?"
+      ],
+      "options": [
+        "prazan prostor na početku reda",
+        "prazan prostor na kraju reda"
+      ],
+      "answer": [0]
+    },{
+      "type": "challenge",
+      "time": "2:32",
+       "text": "Igrajte Code Combat i naučite nove trikove",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Igrajte sada"
+      }
+      },{
+        "type": "solution",
+        "time": "2:32",
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

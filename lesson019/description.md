@@ -15,4 +15,4 @@ With help of amazing Code Combat game you will learn how to create enemy variabl
 
 # Code Combat
 
-With help of amazing Code Combat game you will learn how to create enemy variable.
+Uz pomoć Code Combat igrice naučićemo kako da kreiramo promenljivu enemy.

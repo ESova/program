@@ -49,32 +49,32 @@
     "time": "2:32",
     "question":
     [
-      "In the written form of many languages, an indentation is an empty space at the beginning of a line to signal the start of a new paragraph. Many computer languages have adopted this technique to designate 'paragraphs' or other logical blocks in the program.",
+      "u pisanoj formi mnogih jezika, uvlačenje je predstavljeno praznim prostorom na početku reda kako bi signalizirao početak novog pasusa. Mnogi kompjuterski jezici koriste ovu tehniku da odvoje pasuse ili druge logične blokove u programu.",
       "",
-      "Example",
+      "Primer",
       "while(true) {",
-        "  // indented code here",
+        "  // Mesto za kod",
         "}",
         "",
-        "So what is indentation?"
+        "Dakle, šta je uvlačenje?"
       ],
       "options": [
-        "empty space at the beginning of a line",
-        "empty space at the end of a line"
+        "prazan prostor na početku reda",
+        "prazan prostor na kraju reda"
       ],
       "answer": [0]
+    },{
+      "type": "challenge",
+      "time": "2:32",
+       "text": "Igrajte Code Combat i naučite nove trikove",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Igrajte sada"
+      }
       },{
-        "type": "challenge",
+        "type": "solution",
         "time": "2:32",
-        "text": "Play Code Combat and learn new tricks",
-        "link": {
-          "url": "http://codecombat.com/play/dungeon",
-          "title": "Play now"
-        }
-        },{
-          "type": "solution",
-          "time": "2:32",
-          "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-          "button": "Complete the lesson"
-          }]
-        }
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

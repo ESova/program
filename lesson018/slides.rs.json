@@ -4,11 +4,11 @@
     "type": "question",
     "time": "2:32",
     "question": "Koji ste metod koristili da uništite vrata?",
-    "options": [
-      "attack",
-      "destroy",
-      "explode",
-      "remove"
+  "options": [
+      "attack (napadni)",
+      "destroy (uništi) ",
+      "explode (raznesi)",
+      "remove (ukloni)"
     ],
     "answer": [0]
     },{

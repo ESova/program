@@ -48,7 +48,7 @@
     ],
     "answer": [2]
     },{
-      "type": "izazov",
+      "type": "challenge",
       "time": "2:32",
       "text": "Igraj Code Combat i nauči nove trikove",
       "link": {
@@ -56,7 +56,7 @@
         "title": "Igraj odmah"
       }
       },{
-        "type": "rešenje",
+        "type": "soultion",
         "time": "2:32",
         "text": "Ukoliko ste uspešno završili zadatke u igrici za ovu lekciju, klinite na Završena lekcija",
         "button": "Završena lekcija"

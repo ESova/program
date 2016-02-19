@@ -1,3 +1,3 @@
-Code Combat - moveUp, moveDown, moveLeft, moveRight
+# Code Combat - moveUp, moveDown, moveLeft, moveRight
 
-Naučićemo prve komande u Code Combat igrici (moveUp, moveDown, moveLeft i moveRight)
+Naučićemo prve komande u Code Combat igrici  (moveUp, moveDown, moveLeft i moveRight)

@@ -40,7 +40,7 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "Koju komandu koristite za napad na svirepo čudovište zvano Brak?",
+    "question": "Koju komandu koristite za napad na ogra zvanog Brak?",
     "options": [
       "this.attack(Brak);",
       "this.attack('Brak');"

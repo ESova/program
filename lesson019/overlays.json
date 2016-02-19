@@ -45,28 +45,28 @@
     "time": "2:32",
     "question":
     [
-      "Is a) and b) the same?",
+      "Da li je a) i b) isto?",
       " a) self.attack('Kratt');",
       " b) var enemy = 'Kratt';",
       "    self.attack(enemy);"
     ],
     "options": [
-      "yes, in example a) we use nametag and in example b) we are using variable enemy instead of a nametag",
-      "no"
+      "da, u primeru a) koristimo ime and u primeru b) koristimo promenljivu enemy umesto imena",
+      "ne"
     ],
     "answer": [0]
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Play Code Combat and learn new tricks",
+       "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Play now"
+        "title": "Igrajte sada"
       }
       },{
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
         }]
       }

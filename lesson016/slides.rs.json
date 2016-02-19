@@ -1,0 +1,25 @@
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "Gde čuvamo puškicu za posebne simbole iz ove lekcije?",
+    "options": [
+      "u Gist (i obeležimo pod GISTS/posebni simboli)",
+      "ne čuvamo je"
+    ],
+    "answer": [0]
+    },{
+      "type": "challenge",
+      "time": "2:32",
+      "text": "Pronađite posbne simbole na tastaturi, zatim kreirajte Gist i u njega sačuvajte prečice za vitičaste i uglaste zagrade.",
+      "link": {
+        "url": "https://gist.github.com/",
+        "title": "Počnite odmah"
+      }
+      },{
+        "type": "solution",
+        "time": "2:32",
+        "text": "Ukoliko ste uspešno sačuvali i obeležili Gist posebni simboli, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

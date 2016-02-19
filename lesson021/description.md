@@ -16,4 +16,4 @@ With help of amazing Code Combat game you will learn to attack twice.
 
 # Code Combat
 
-With help of amazing Code Combat game you will learn to attack twice.
+Uz pomoć Code Combat igrice naučićemo kako da napadamo dvaput.

@@ -49,7 +49,7 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "How do you make one-line comments in Javascript code?",
+    "question": "Kako ostavljate komentar u jednom redu u JavaScript kodu?",
     "options": [
       "you start a line with //",
       "you start a line with /*"
@@ -58,7 +58,7 @@
     },{
       "type": "question",
       "time": "2:32",
-      "question": "What here is a string?",
+      "question": "Šta od ponuđenog je znakovni niz?",
       "options": [
         "1",
         "'123'",
@@ -69,15 +69,15 @@
       },{
         "type": "challenge",
         "time": "2:32",
-        "text": "Repeat what you've learned about JavaScript and create a new Gist, call it Javascript cheatsheet and save the content from the video in it.",
+        "text": "Obnovite ono što ste naučili o JavaScript jeziku  i kreirajte novi Gist. Nazovite ga JavaScript-puškica i sadržaj sačuvajte u njega sve o čemu smo pričali u ovom videu.",
         "link": {
           "url": "https://gist.github.com/",
-          "title": "Repeat Javascript"
+          "title": "Obnovite Javascript"
         }
         },{
           "type": "solution",
           "time": "2:32",
-          "text": "If you successfuly finished saved and bookmarked JavaScript Cheatsheet gist, click to complete the lesson.",
-          "button": "Complete the lesson"
+          "text": "Ukoliko ste uspešno sačuvali i označili JavaScript-puškica Gist, kliknite da završite lekciju",
+          "button": "Završite lekciju"
           }]
         }

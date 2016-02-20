@@ -1,0 +1,25 @@
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "Kako napadamo neograničen broj neprijatelja??",
+    "options": [
+      "moramo znati tačan broj neprijatelja kako bismo mogli da napišemo metod napada za svakog od njih",
+      "možemo kreirati while(true) petlju koja ponavlja kod za napad"
+    ],
+    "answer": [0]
+    },{
+      "type": "challenge",
+      "time": "2:32",
+       "text": "Igrajte Code Combat i naučite nove trikove",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Igrajte sada"
+      }
+      },{
+        "type": "solution",
+        "time": "2:32",
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

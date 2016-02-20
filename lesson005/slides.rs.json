@@ -1,6 +1,6 @@
 {
   "slides": [{
-    "type": "pitanje",
+    "type": "question",
     "time": "2:32",
     "question": "Šta grafički predstavlja korisnika, korisnikov alter ego ili ličnost?",
     "options": [
@@ -11,7 +11,7 @@
     ],
     "answer": [1]
     },{
-      "type": "izazov",
+      "type": "challenge",
       "time": "2:32",
       "text": "Napravite svoj jedinstveni avatar i ažurirajte svoj Github nalog",
       "link": {
@@ -19,7 +19,7 @@
         "title": "Napravite svoj avatar"
       }
       }, {
-        "type": "rešenje",
+        "type": "solution",
         "time": "2:32",
         "text": "Ako je vaš Github profil ažuriran i imate kul novi avatar, spremni ste da pređete na sledeći nivo.",
         "button": "Završite lekciju"

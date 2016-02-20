@@ -20,9 +20,9 @@ There are 4 videos: Developer tools and then videos showing work with console:
 #     SERBIAN VERSION    #
 ##########################
 
-# Developer Tools
+# Programerski alati
 
-You will learn how to open Developer Tools in the browser and how to use a JavaScript console for the first time.
+Naučićemo kako da otvorimo programerske alate u pretraživaču i kako da koristimo JavaScript konzolu.
 
 
 ## note to translator & video maker

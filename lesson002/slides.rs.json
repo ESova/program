@@ -1,6 +1,6 @@
 {
   "slides": [{
-    "type": "pitanje",
+    "type": "question",
     "time": "2:32",
     "question": "Koliko karaktera treba da ima lozinka za Google e-mail (Gmail) nalog?",
     "options": [
@@ -24,7 +24,7 @@
       }, {
         "type": "challenge",
         "time": "2:32",
-        "text": "Sada ćemo napraviti svoj Google nalog, Ne zaboravite, za to nam je potreban Google pretraživač.",
+        "text": "Sada ćete napraviti svoj Google nalog. Ne zaboravite, za to nam je potreban Google pretraživač.",
         "link": {
           "url": "",
           "title": "Napravite svoj Chrome nalog"

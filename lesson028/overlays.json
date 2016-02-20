@@ -50,7 +50,7 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "What is the result of this concatenation 'Hello' + ', ' + 'Ana!' ?",
+    "question": "Koji je rezultat konkatenacije 'Hello' + ', ' + 'Ana!' ?",
     "options": [
       "Hello,Ana!",
       "Hello , Ana!",
@@ -61,7 +61,7 @@
     },{
       "type": "question",
       "time": "2:32",
-      "question": "What is a result of 'esova' === 'esova' ?",
+      "question": "Šta dobijamo ako u kod unesemo 'esova' === 'esova' ?",
       "options": [
         "esova",
         "true",
@@ -72,15 +72,16 @@
       },{
         "type": "challenge",
         "time": "2:32",
-        "text": "Learn to use Developer Tools (Console), then edit your Javascript Cheatsheet Gist and save the content from this lesson to it.",
+        "text": "Naučite kako da koristite konzolu, zatim izmenite javaScript- puškica Gist i u njega sačuvajte ono što ste naučili u ovoj lekciji.",
         "link": {
           "url": "https://gist.github.com/",
-          "title": "Try out the console"
+          "title": "Isprobajte konzolu"
         }
         },{
           "type": "solution",
           "time": "2:32",
-          "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
-          "button": "Complete the lesson"
-          }]
-        }
+          "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }
+

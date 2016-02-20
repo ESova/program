@@ -14,4 +14,4 @@ With help of this game you will learn to combine loops and variables.
 ##########################
 # Code Combat
 
-With help of this game you will learn to combine loops and variables.
+Uz pomoć Code Combat igrice ćemo naučiti da kombinujemo petlje i promenljive.

@@ -15,10 +15,10 @@
   },{
     "type": "challenge",
     "time": "2:32",
-    "text": "Pritisnite ovde da biste proverili svoj pretraživač i ako  nemate Google Chrome pretraživač, instalirajte ga",
+    "text": "Kliknitee ovde da biste proverili svoj pretraživač i ako  nemate Google Chrome pretraživač, instalirajte ga",
     "link": {
       "url": "http://www.whatbrowser.org/intl/sr/",
-      "title": "Pritisnite ovde da biste proverili pretraživač"
+      "title": "Proverite pretraživač"
     }
   }, {
     "type": "solution",

@@ -37,24 +37,24 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "Which variable did we create to count our gems(diamonds)?",
+    "question": "Koju promenljivu smo kreirali kako bismo izbrojali dragulje?",
     "options": [
       "enemy",
       "count"
     ],
-    "answer": [1]
+    "answer": [0]
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Play Code Combat and learn new tricks",
+       "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Play now"
+        "title": "Igrajte sada"
       }
       },{
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
         }]
       }

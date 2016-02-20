@@ -74,7 +74,7 @@
       },{
         "type": "izazov",
         "time": "2:32",
-        "text": "Izaberite opciju za prikaz linije obeleživača kako biste uvek videli obeležene stranice. Zatim posetite internet stranicu Wikipedia, kopirajte deo nekog članka i unesite ga u program Google Translate kako biste preveli na srpski. Nakon toga, sačuvajte obe veze u fasciklu Pomoćne alatke na liniji obeleživača. ",
+        "text": "Izaberite opciju za prikaz linije obeleživača kako biste uvek videli obeležene stranice. Zatim posetite internet stranicu Wikipedia, kopirajte deo nekog članka i unesite ga u program Google Translate kako biste ga preveli na srpski. Nakon toga, sačuvajte obe veze u fasciklu Pomoćne alatke na liniji obeleživača. ",
         "link": {
           "url": "https://en.wikipedia.org/wiki/Bookmark_(World_Wide_Web)",
           "title": "Započni izazov"
@@ -82,7 +82,7 @@
         }, {
           "type": "rešenje",
           "time": "2:32",
-          "text": "Ako ste isprobali Wikipedia i Google Translate i stavili ih na liniju obeleživača koja je uvek vidljiva, pitisnite dugme za kraj lekcije.",
+          "text": "Ako ste isprobali Wikipedia i Google Translate i sačuvali ih na liniju obeleživača koja je uvek vidljiva, kliknite da završite lekciju.",
           "button": "Završi lekciju"
           }]
         }

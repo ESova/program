@@ -39,26 +39,26 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "How do we create a new variable called enemy?",
+    "question": "Kako kreiramo novu promenljivu enemy (neprijatelj)?",
     "options": [
       "v enemy = this.findNearestEnemy();",
       "var enemy = this.findNearestEnemy();",
       "enemy = this.findNearestEnemy();",
       "variable enemy = this.findNearestEnemy();"
     ],
-    "answer": [1]
+    "answer": [0]
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Play Code Combat and learn new tricks",
+       "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Play now"
+        "title": "Igrajte sada"
       }
       },{
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
         }]
       }

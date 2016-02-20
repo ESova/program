@@ -37,24 +37,24 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "How can we attack unlimited amount of enemies?",
+    "question": "Kako napadamo neograničen broj neprijatelja??",
     "options": [
-      "we have to know the number of enemies so we can write attack method for each enemy",
-      "we can create a while(true)loop that repeats the code to attack"
+      "moramo znati tačan broj neprijatelja kako bismo mogli da napišemo metod napad za svakog od njih",
+      "možemo kreirati while(true) petlju koja ponavlja kod za napad"
     ],
-    "answer": [1]
+    "answer": [0]
     },{
       "type": "challenge",
       "time": "2:32",
-      "text": "Play Code Combat and learn new tricks",
+       "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
-        "title": "Play now"
+        "title": "Igrajte sada"
       }
       },{
         "type": "solution",
         "time": "2:32",
-        "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
-        "button": "Complete the lesson"
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
         }]
       }

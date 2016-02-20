@@ -1,0 +1,28 @@
+
+{
+  "slides": [{
+    "type": "question",
+    "time": "2:32",
+    "question": "Kako kreiramo novu promenljivu enemy (neprijatelj)?",
+    "options": [
+      "v enemy = this.findNearestEnemy();",
+      "var enemy = this.findNearestEnemy();",
+      "enemy = this.findNearestEnemy();",
+      "variable enemy = this.findNearestEnemy();"
+    ],
+    "answer": [0]
+    },{
+      "type": "challenge",
+      "time": "2:32",
+       "text": "Igrajte Code Combat i naučite nove trikove",
+      "link": {
+        "url": "http://codecombat.com/play/dungeon",
+        "title": "Igrajte sada"
+      }
+      },{
+        "type": "solution",
+        "time": "2:32",
+        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
+        "button": "Završite lekciju"
+        }]
+      }

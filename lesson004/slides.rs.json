@@ -1,7 +1,7 @@
 
 {
   "slides": [{
-    "type": "pitanje",
+    "type": "question",
     "time": "2:32",
     "question": "Kako se zove poznata društvena mreža za programere?",
     "options": [
@@ -12,7 +12,7 @@
     ],
     "answer": [0]
     }, {
-      "type": "izazov",
+      "type": "challenge",
       "time": "2:32",
       "text": "Kliknite ovde kako biste napravili Github i Esova nalog.",
       "link": {

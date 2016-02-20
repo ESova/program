@@ -14,4 +14,4 @@ With help of amazing Code Combat game you will fight even more enemies.
 
 # Code Combat
 
-With help of amazing Code Combat game you will fight even more enemies.
+Uz pomoć Code Combat igrice pobedićemo još više neprijatelja.

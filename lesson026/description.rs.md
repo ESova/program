@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - zaštita"
+  "title": "Code Combat - zaštita",
+  "duration": "2:51"
 }
 ---
 

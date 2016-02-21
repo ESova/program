@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat Registration"
+  "title": "Code Combat Registration",
+  "duration": "5:22"
 }
 ---
 

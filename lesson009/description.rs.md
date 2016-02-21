@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat prijavljivanje"
+  "title": "Code Combat prijavljivanje",
+  "duration": "5:22"
 }
 ---
 

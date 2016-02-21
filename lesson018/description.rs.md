@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - petljom na vrata"
+  "title": "Code Combat - petljom na vrata",
+  "duration": "1:33"
 }
 ---
 

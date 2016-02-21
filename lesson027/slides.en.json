@@ -1,7 +1,3 @@
-##########################
-#     ENGLISH VERSION    #
-##########################
-
 {
 "slides": [{
   "type": "question",
@@ -38,46 +34,3 @@
   "button": "Complete the lesson"
 }]
 }
-
-
-
-##########################
-#     SERBIAN VERSION    #
-##########################
-
-{
-  "slides": [{
-    "type": "question",
-    "time": "2:32",
-    "question": "Kako ostavljate komentar u jednom redu u JavaScript kodu?",
-    "options": [
-      "you start a line with //",
-      "you start a line with /*"
-    ],
-    "answer": [0]
-    },{
-      "type": "question",
-      "time": "2:32",
-      "question": "Šta od ponuđenog je znakovni niz?",
-      "options": [
-        "1",
-        "'123'",
-        "'Brak'",
-        "enemy"
-      ],
-      "answer": [1,2]
-      },{
-        "type": "challenge",
-        "time": "2:32",
-        "text": "Obnovite ono što ste naučili o JavaScript jeziku  i kreirajte novi Gist. Nazovite ga JavaScript-puškica i sadržaj sačuvajte u njega sve o čemu smo pričali u ovom videu.",
-        "link": {
-          "url": "https://gist.github.com/",
-          "title": "Obnovite Javascript"
-        }
-        },{
-          "type": "solution",
-          "time": "2:32",
-          "text": "Ukoliko ste uspešno sačuvali i označili JavaScript-puškica Gist, kliknite da završite lekciju",
-          "button": "Završite lekciju"
-          }]
-        }

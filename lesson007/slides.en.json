@@ -1,7 +1,3 @@
-##########################
-#     ENGLISH VERSION    #
-##########################
-
 {
 "slides": [{
   "type": "question",
@@ -27,38 +23,3 @@
   "button": "Complete the lesson"
 }]
 }
-
-
-
-
-##########################
-#     SERBIAN VERSION    #
-##########################
-
-{
-  "slides": [{
-    "type": "question",
-    "time": "2:32",
-    "question": "Možete li čuvati vaše lične beleške u obeleživačima?",
-                 
-    "options": [
-      "ne, ne možete obeležiti svoje beleške",
-      "da, možete napraviti gistove i obeležiti ih"
-    ],
-    "answer": [1]
-    },{
-      "type": "izazov",
-      "time": "2:32",
-      "text": "Napravite svoj prvi Gist i sačuvaj prečicice koje ste do sada naučili.",
-      
-      "link": {
-        "url": "https://gist.github.com/",
-        "title": "Kreirajte Gist"
-      }
-      }, {
-        "type": "rešenje",
-        "time": "2:32",
-        "text": "Ako ste kreirali gist i dodali ga u liniju obeleživača, kliknite ovde da završite lekciju",
-        "button": "Završite lekciju"
-        }]
-      }

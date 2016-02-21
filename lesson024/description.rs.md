@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - novi trikovi"
+  "title": "Code Combat - novi trikovi",
+  "duration": "2:56"
 }
 ---
 

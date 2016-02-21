@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Chrome Profile + GMail Account"
+  "title": "Chrome Profile + GMail Account",
+  "duration": "3:08"
 }
 ---
 

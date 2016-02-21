@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - napad"
+  "title": "Code Combat - napad",
+  "duration": "3:26"
 }
 ---
 

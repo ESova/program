@@ -1,8 +1,3 @@
-##########################
-#     ENGLISH VERSION    #
-##########################
-
-
 {
 "slides": [{
   "type": "question",
@@ -30,37 +25,3 @@
   "button": "Complete the lesson"
 }]
 }
-
-
-
-##########################
-#     SERBIAN VERSION    #
-##########################
-
-{
-  "slides": [{
-    "type": "question",
-    "time": "2:32",
-    "question": "Koje su osnovne komande u CodeCombat-u koje dobijete u sistemu?",
-    "options": [
-    "moveLeft",
-    "moveBack",
-    "moveUp",
-    "moveDown"
-    ],
-    "answer": [0,2,3]
-    },{
-      "type": "challenge",
-      "time": "2:32",
-      "text": "Igrajte Code Combat i naučite nove trikove",
-      "link": {
-        "url": "http://codecombat.com/play/dungeon",
-        "title": "Igrajte sada"
-      }
-      },{
-        "type": "solution",
-        "time": "2:32",
-        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u oviru igrice, kliknite da završite lekciju",
-        "button": "Završite lekciju"
-        }]
-      }

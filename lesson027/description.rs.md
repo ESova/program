@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Znakovni nizovi, brojevi, promenljive i petlje"
+  "title": "Znakovni nizovi, brojevi, promenljive i petlje",
+  "duration": "5:26"
 }
 ---
 

@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - moveUp, moveDown, moveLeft, moveRight"
+  "title": "Code Combat - moveUp, moveDown, moveLeft, moveRight",
+  "duration": "2:11"
 }
 ---
 

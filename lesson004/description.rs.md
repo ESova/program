@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Github Nalog"
+  "title": "Github Nalog",
+  "duration": "2:35"
 }
 ---
 

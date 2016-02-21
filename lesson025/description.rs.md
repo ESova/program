@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - brojanje i lozinka"
+  "title": "Code Combat - brojanje i lozinka",
+  "duration": "5:48"
 }
 ---
 

@@ -1,7 +1,3 @@
-
-##########################
-#     ENGLISH VERSION    #
-##########################
 {
 "slides": [{
   "type": "question",
@@ -29,37 +25,3 @@
   "button": "Complete the lesson"
 }]
 }
-
-
-
-##########################
-#     SERBIAN VERSION    #
-##########################
-
-{
-  "slides": [{
-    "type": "question",
-    "time": "2:32",
-    "question": "Šta nije pretraživač?",
-    "options": [
-      "Google Chrome",
-      "Mozilla Firefox",
-      "Microsoft Windows",
-      "Internet Explorer"
-    ],
-    "answer": [2]
-    },{
-      "type": "challenge",
-      "time": "2:32",
-      "text": "Pritisnite ovde da biste proverili svoj pretraživač i ako  nemate Google Chrome pretraživač, instalirajte ga",
-      "link": {
-        "url": "http://www.whatbrowser.org/intl/sr/",
-        "title": "Pritisnite ovde da biste proverili pretraživač"
-      }
-      }, {
-        "type": "solution",
-        "time": "2:32",
-        "text": "Ako imate Chrome pretraživač na kompijuteru, pritisnite ovde da biste završili lekciju.",
-        "button": "Završite lekciju"
-        }]
-      }

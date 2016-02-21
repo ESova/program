@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Bookmarking"
+  "title": "Bookmarking",
+  "duration": "1:58"
 }
 ---
 

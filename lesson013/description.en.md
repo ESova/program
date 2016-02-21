@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - while(true)"
+  "title": "Code Combat - while(true)",
+  "duration": "2:12"
 }
 ---
 

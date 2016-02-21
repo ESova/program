@@ -1,6 +1,3 @@
-##########################
-#     ENGLISH VERSION    #
-##########################
 {
 "slides": [{
   "type": "challenge",
@@ -17,27 +14,3 @@
   "button": "Complete the lesson"
 }]
 }
-
-
-
-##########################
-#     SERBIAN VERSION    #
-##########################
-{
-  "slides": [{
-    "type": "challenge",
-      "time": "2:32",
-       "text": "Igrajte Code Combat i naučite nove trikove",
-      "link": {
-        "url": "http://codecombat.com/play/dungeon",
-        "title": "Igrajte sada"
-      }
-      },{
-        "type": "solution",
-        "time": "2:32",
-        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
-        "button": "Završite lekciju"
-        }]
-      }
-
-

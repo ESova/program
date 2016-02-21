@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - borba "
+  "title": "Code Combat - borba",
+  "duration": "1:34"
 }
 ---
 

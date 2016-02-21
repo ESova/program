@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - dupli napad"
+  "title": "Code Combat - dupli napad",
+  "duration": "2:02"
 }
 ---
 

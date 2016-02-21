@@ -1,9 +1,3 @@
-##########################
-#     ENGLISH VERSION    #
-##########################
-
-// Welcome to eSova. We are very excited you joined us. With the help of eSova you will learn about the magics of programming language JavaScript. We wish you to enjoy the journey!
-
 {
 "slides": [{
   "type": "challenge",
@@ -34,45 +28,5 @@
   "time": "2:32",
   "text": "And you will build your first web app. Get started now! The world is yours.",
   "button": "Start now"
-}]
-}
-
-
-##########################
-#     SERBIAN VERSION    #
-##########################
-
-// Dobrodošli u eSovu. Veoma nam je drago što ste nam se pridružili. Uz pomoć eSove upoznaćete čari programskog jezika Javascript. Nadamo se da ćete uživati!
-
-{
-"slides": [{
-  "type": "izazov",
-  "time": "2:32",
-  "text": "Naučićemo kako da koristite GitHub - društvenu mrežu za programere.",
-  "link": {
-    "url": "https://github.com/",
-    "title": "Klikni ovde"
-  }
-}, {
-  "type": "izazov",
-  "time": "2:32",
-  "text": "Ukoliko nam treba bilo kakva pomoć, koristićemo eSova Gitter chat.",
-  "link": {
-    "url": "https://gitter.im/ESova/program",
-    "title": "Klikni ovde"
-  }
-}, {
-  "type": "izazov",
-  "time": "2:32",
-  "text": "Igraćemo programersku igricu Code Combat.",
-  "link": {
-    "url": "http://codecombat.com/play",
-    "title": "Klikni ovde"
-  }
-},{
-  "type": "rešenje",
-  "time": "2:32",
-  "text": "Isprogramiraćemo svoju prvu web aplikaciju! Počnimo odmah! Ceo svet je naš!",
-  "button": "Počni odmah"
 }]
 }

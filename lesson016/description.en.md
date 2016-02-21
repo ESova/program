@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Special characters 1"
+  "title": "Special characters 1",
+  "duration": "3:40"
 }
 ---
 

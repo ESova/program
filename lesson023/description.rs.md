@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - neprijatelji"
+  "title": "Code Combat - neprijatelji",
+  "duration": "3:30"
 }
 ---
 

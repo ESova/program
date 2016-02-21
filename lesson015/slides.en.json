@@ -1,7 +1,3 @@
-##########################
-#     ENGLISH VERSION    #
-##########################
-
 {
 "slides": [{
   "type": "question",
@@ -29,36 +25,3 @@
   "button": "Complete the lesson"
 }]
 }
-
-
-##########################
-#     SERBIAN VERSION    #
-##########################
-
-{
-  "slides": [{
-    "type": "question",
-    "time": "2:32",
-    "question": "Koja je prava forma korišćenja moveDown metode u Code Combat-u?",
-    "options": [
-      "this.moveDown[]",
-      "this.moveDown",
-      "this.moveDown();",
-      "this.moveDown!"
-    ],
-    "answer": [2]
-    },{
-      "type": "challenge",
-      "time": "2:32",
-      "text": "Igraj Code Combat i nauči nove trikove",
-      "link": {
-        "url": "http://codecombat.com/play/dungeon",
-        "title": "Igraj odmah"
-      }
-      },{
-        "type": "soultion",
-        "time": "2:32",
-        "text": "Ukoliko ste uspešno završili zadatke u igrici za ovu lekciju, klinite na Završena lekcija",
-        "button": "Završena lekcija"
-        }]
-      }

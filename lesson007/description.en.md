@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Gist"
+  "title": "Gist",
+  "duration": "2:35"
 }
 ---
 

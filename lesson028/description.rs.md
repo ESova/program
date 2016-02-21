@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Programerski alati"
+  "title": "Programerski alati",
+  "duration": "2:35"
 }
 ---
 

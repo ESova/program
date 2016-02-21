@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - promenljive"
+  "title": "Code Combat - promenljive",
+  "duration": "4:23"
 }
 ---
 

@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Chrome Profil + Gmail Nalog"
+  "title": "Chrome Profil + Gmail Nalog",
+  "duration": "3:08"
 }
 ---
 

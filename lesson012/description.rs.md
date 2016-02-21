@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - petlje"
+  "title": "Code Combat - petlje",
+  "duration": "2:08"
 }
 ---
 

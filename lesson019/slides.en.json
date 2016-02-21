@@ -1,7 +1,3 @@
-##########################
-#     ENGLISH VERSION    #
-##########################
-
 {
 "slides": [{
   "type": "question",
@@ -33,40 +29,3 @@
   "button": "Complete the lesson"
 }]
 }
-
-
-##########################
-#     SERBIAN VERSION    #
-##########################
-
-{
-  "slides": [{
-    "type": "question",
-    "time": "2:32",
-    "question":
-    [
-      "Da li je a) i b) isto?",
-      " a) self.attack('Kratt');",
-      " b) var enemy = 'Kratt';",
-      "    self.attack(enemy);"
-    ],
-    "options": [
-      "da, u primeru a) koristimo ime and u primeru b) koristimo promenljivu enemy umesto imena",
-      "ne"
-    ],
-    "answer": [0]
-    },{
-      "type": "challenge",
-      "time": "2:32",
-       "text": "Igrajte Code Combat i naučite nove trikove",
-      "link": {
-        "url": "http://codecombat.com/play/dungeon",
-        "title": "Igrajte sada"
-      }
-      },{
-        "type": "solution",
-        "time": "2:32",
-        "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
-        "button": "Završite lekciju"
-        }]
-      }

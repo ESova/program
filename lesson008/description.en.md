@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Keyboard Training"
+  "title": "Keyboard Training",
+  "duration": "4:43"
 }
 ---
 

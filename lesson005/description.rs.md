@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Pravljenje Avatara"
+  "title": "Pravljenje Avatara",
+  "duration": "3:48"
 }
 ---
 

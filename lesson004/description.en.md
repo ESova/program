@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Github Account"
+  "title": "Github Account",
+  "duration": "2:35"
 }
 ---
 

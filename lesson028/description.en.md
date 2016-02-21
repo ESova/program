@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Developer Tools"
+  "title": "Developer Tools",
+  "duration": "2:35"
 }
 ---
 

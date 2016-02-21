@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat"
+  "title": "Code Combat",
+  "duration": "5:48"
 }
 ---
 

@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - Javascript sintaksa"
+  "title": "Code Combat - Javascript sintaksa",
+  "duration": "2:35"
 }
 ---
 

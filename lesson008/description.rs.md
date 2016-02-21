@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Trening kucanja"
+  "title": "Trening kucanja",
+  "duration": "4:43"
 }
 ---
 

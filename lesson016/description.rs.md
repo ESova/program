@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Posebni simboli 1"
+  "title": "Posebni simboli 1",
+  "duration": "3:40"
 }
 ---
 

@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Strings, numbers, variables and loops"
+  "title": "Strings, numbers, variables and loops",
+  "duration": "5:26"
 }
 ---
 

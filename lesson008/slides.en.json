@@ -1,6 +1,3 @@
-##########################
-#     ENGLISH VERSION    #
-##########################
 {
 "slides": [{
   "type": "question",
@@ -35,51 +32,5 @@
   "time": "2:32",
   "text": "If your time is somewhere below 50000, complete lesson, otherwise, practise a bit more.",
   "button": "Complete the lesson"
-}]
-}
-
-
-
-
-
-##########################
-#     SERBIAN VERSION    #
-##########################
-
-
-{
-"slides": [{
-  "type": "question",
-  "time": "2:32",
-  "question": "Koja slova na tastaturi imaju mala ispupčenja koja označavaju početnu poziciju kažiprsta?",
-  "options": [
-    "B i V",
-    "G i H",
-    "F i J",
-    "T i Z"
-  ],
-  "answer": [2]
-},{
-  "type": "challenge",
-  "time": "2:32",
-  "text": "Postanite nindža na tatsturi. Kliknite ovde i počnite sa lekcijama kucanja.",
-  "link": {
-    "url": "http://www.typingstudy.com/",
-    "title": "Postanite nindža na tastaturi"
-  }
-},{
-  "type": "challenge",
-  "time": "2:32",
-  "text": "Ako mislite da ste spremni, testirajte svoju veštinu kucanja",
-  "link": {
-    "url": "http://www.learninggamesforkids.com/keyboarding_games/keyboarding_games_typing_adventure1.html",
-    "title": "Testirajte svoju veštinu kucanja"
-  }
-},
-{
-  "type": "solution",
-  "time": "2:32",
-  "text": "Ako je Vaše vreme ispod 50000, završite lekciju, u suprotnom, vežbajte još malo.",
-  "button": "Završite lekciju"
 }]
 }

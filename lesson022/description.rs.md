@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Code Combat - kombinacije"
+  "title": "Code Combat - kombinacije",
+  "duration": "2:02"
 }
 ---
 

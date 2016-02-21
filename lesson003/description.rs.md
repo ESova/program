@@ -1,6 +1,7 @@
 ---
 {
-  "title": "Beleženje"
+  "title": "Beleženje",
+  "duration": "1:58"
 }
 ---
 

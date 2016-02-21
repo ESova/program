@@ -1,6 +1,7 @@
+---
+{
+  "title": "Code Combat - Javascript sintaksa"
+}
+---
 
-
-# Code Combat
-
-
-Uz pomoć ove igre naučićemo još trikova sa metodama, loop-ovima i promenljivima u JavaScript programskom jeziku.
+Uz pomoć ove igre naučićemo još trikova sa funkcijama, loop-ovima i promenljivima u JavaScript programskom jeziku.

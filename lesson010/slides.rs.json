@@ -2,7 +2,7 @@
   "slides": [{
     "type": "question",
     "time": "2:32",
-    "question": "Koje su osnovne komande u CodeCombat-u koje dobijete u sistemu?",
+    "question": "Koje su osnovne komande u CodeCombat-u koje dobijete uz čizme?",
     "options": [
       "moveLeft (idiLevo)",
       "moveBack (idiNazad)",

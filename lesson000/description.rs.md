@@ -5,4 +5,4 @@
 }
 ---
 
-Welcome to a new fun and engaging web application for learning programming.
+Dobrodošli u novu, zabavnu i interaktivnu web aplikaciju za učenje programiranja.

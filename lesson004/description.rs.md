@@ -5,4 +5,4 @@
 }
 ---
 
-Upoznaćemo se sa najbitnijom društvenom mrežom za programere - GitHub.
+U ovoj lekciji upoznaćemo se sa najbitnijom društvenom mrežom za programere - GitHub.

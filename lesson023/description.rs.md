@@ -5,4 +5,4 @@
 }
 ---
 
-Uz pomoć Code Combat igrice pobedićemo još više neprijatelja.
+U ovoj lekciji pobedićemo još više neprijatelja i dobićemo dodatne poene za kupovinu novih alata u Code Combat igrici.

@@ -5,4 +5,4 @@
 }
 ---
 
-Pronaći ćemo put do svojih prijatelja i zaštititi ih od neprijatelja.
+U ovoj lekciji pronaći ćemo put do svojih prijatelja i zaštititi ih od svih pretnji i neprijatelja.

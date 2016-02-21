@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Chrome Profil + Gmail Nalog",
+  "title": "Chrome Profil i Gmail Nalog",
   "duration": "3:08"
 }
 ---
 
-Naučićemo kako da kreiramo Google Chrome profil i svoj besplatni e-mail nalog.
+U ovoj lekciji naučićemo kako da kreiramo Google Chrome profil i svoj besplatni e-mail nalog.

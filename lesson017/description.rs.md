@@ -5,4 +5,4 @@
 }
 ---
 
-Naučićemo još posebnih simbola, a zatim testirati svoju brzinu kucanja.
+U ovoj lekciji naučićemo još posebnih simbola, a zatim testirati svoju brzinu kucanja.

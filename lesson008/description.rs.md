@@ -5,4 +5,4 @@
 }
 ---
 
-Naučićete sve trikove kako biste postali pravi nindža na tastaturi.
+U ovoj lekciji naučićete sve trikove kako biste postali pravi nindža na tastaturi.

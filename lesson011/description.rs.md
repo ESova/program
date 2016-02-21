@@ -5,4 +5,4 @@
 }
 ---
 
-U Code Combat igrici naučićemo kako da koristimo komandu napad.
+U ovoj lekciji naučićemo kako da koristimo komandu napad (attack) u Code Combat igrici .

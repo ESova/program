@@ -5,4 +5,4 @@
 }
 ---
 
-Uz pomoć igre naučićemo kako da učinimo da se stvari ponavljaju u krug.
+U ovoj lekciji ćemo uz pomoć igrice naučiti kako da programiramo da se stvari ponavljaju u krug.

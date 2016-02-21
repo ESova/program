@@ -5,4 +5,4 @@
 }
 ---
 
-Uz pomoć Code Combat igrice naučićemo kako da napadamo dvaput.
+U ovoj lekciji naučićemo kako da u Code combat napadamo dvaput i time lakše pobedimo protivnika.

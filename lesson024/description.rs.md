@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji ćemo naučiti kako da gradimo ograde i vatrene zamke.
+U ovoj lekciji naučićemo kako da gradimo ograde i vatrene zamke u koje ćemo hvatati naše neprijatelje.

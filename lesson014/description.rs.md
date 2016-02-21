@@ -5,4 +5,4 @@
 }
 ---
 
-Uz pomoć igre naučićemo više o while(true) sintaksi.
+U ovoj lekciji ćemo uz Code Combat naučiti još više o while(true) sintaksi u JavaScript programskom jeziku.

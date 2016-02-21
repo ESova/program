@@ -5,4 +5,4 @@
 }
 ---
 
-Naučićemo prve komande u Code Combat igrici  (moveUp, moveDown, moveLeft i moveRight)
+U ovoj lekciji naučićemo prve komande u Code Combat igrici  (moveUp, moveDown, moveLeft i moveRight).

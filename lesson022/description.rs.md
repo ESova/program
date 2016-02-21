@@ -5,4 +5,4 @@
 }
 ---
 
-Uz pomoć Code Combat igrice ćemo naučiti kako da kombinujemo petlje i promenljive.
+U ovoj lekciji naučićemo kako da kombinujemo petlje i promenljive u JavaScript programskom jeziku.

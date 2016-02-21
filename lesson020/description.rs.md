@@ -5,4 +5,4 @@
 }
 ---
 
-Uz pomoć Code Combat igrice pobedićemo svoje neprijatelje.
+U ovoj lekciji pobedićemo svoje neprijatelje trikovima koje smo do sad usvojili u eSovi.

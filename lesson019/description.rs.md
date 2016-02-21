@@ -5,4 +5,4 @@
 }
 ---
 
-Uz pomoć Code Combat igrice naučićemo kako da kreiramo promenljivu enemy (neprijatelj).
+U ovoj lekciji naučićemo kako da kreiramo promenljivu enemy (neprijatelj) i kako da je upotrebimo u napadu.

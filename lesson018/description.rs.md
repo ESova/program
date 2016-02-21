@@ -5,4 +5,4 @@
 }
 ---
 
-Uz pomoć Code Combat igrice naučićemo kako da uništimo vrata petljom.
+U ovoj lekciji naučićemo uz pomoć Code Combat igrice kako da uništimo vrata petljom.

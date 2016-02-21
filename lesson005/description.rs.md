@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji ćemo biti kreativni i kreirati avatara za svoj profil.
+U ovoj lekciji ćemo biti kreativni i kreirati avatara za svoj Github i eSova profil.

@@ -5,4 +5,4 @@
 }
 ---
 
-Uz pomoć ove igre naučićemo još trikova sa funkcijama, loop-ovima i promenljivima u JavaScript programskom jeziku.
+U ovoj lekciji ćemo uz pomoć ove igre naučiti još trikova sa funkcijama, petljama i promenljivama u JavaScript programskom jeziku.

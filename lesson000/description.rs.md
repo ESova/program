@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Welcome to eSova",
+  "title": "Dobrodošli u eSovu",
   "duration": "0:21"
 }
 ---

@@ -12,7 +12,7 @@
     },{
       "type": "challange",
       "time": "2:32",
-      "text": "Napravite svoj prvi Gist i sačuvaj prečicice koje ste do sada naučili.",
+      "text": "Napravite svoj prvi Gist i sačuvajte prečicice koje ste do sada naučili.",
       
       "link": {
         "url": "https://gist.github.com/",
@@ -21,7 +21,7 @@
       }, {
         "type": "solution",
         "time": "2:32",
-        "text": "Ako ste kreirali gist i dodali ga u liniju obeleživača, kliknite ovde da završite lekciju",
+        "text": "Ako ste kreirali Gist i dodali ga u liniju obeleživača, kliknite ovde da završite lekciju",
         "button": "Završite lekciju"
         }]
       }

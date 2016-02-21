@@ -1,33 +1,33 @@
 {
 "video": "rmhd84p5to",
 "slides": [{
-  "type": "izazov",
+  "type": "challenge",
   "time": "00:14",
-  "text": "Naučićemo kako da koristite GitHub - društvenu mrežu za programere.",
+  "text": "Naučićete kako da koristite GitHub - društvenu mrežu za programere.",
   "link": {
     "url": "https://github.com/",
-    "title": "Klikni ovde"
+    "title": "Kliknite ovde"
   }
 }, {
-  "type": "izazov",
+  "type": "challenge",
   "time": "",
-  "text": "Ukoliko nam treba bilo kakva pomoć, koristićemo eSova Gitter chat.",
+  "text": "Ukoliko Vam zatreba bilo kakva pomoć, možete koristiti eSova Gitter chat.",
   "link": {
     "url": "https://gitter.im/ESova/program",
-    "title": "Klikni ovde"
+    "title": "Kliknite ovde"
   }
 }, {
-  "type": "izazov",
+  "type": "challenge",
   "time": "",
-  "text": "Igraćemo programersku igricu Code Combat.",
+  "text": "Igraćete programersku igricu Code Combat.",
   "link": {
     "url": "http://codecombat.com/play",
-    "title": "Klikni ovde"
+    "title": "Kliknite ovde"
   }
 },{
-  "type": "rešenje",
+  "type": "solution",
   "time": "",
-  "text": "Isprogramiraćemo svoju prvu web aplikaciju! Počnimo odmah! Ceo svet je naš!",
-  "button": "Počni odmah"
+  "text": "Isprogramiraćete svoju prvu web aplikaciju! Počnite odmah! Ceo svet je Vaš!",
+  "button": "Počnite odmah"
 }]
 }

@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Download & Install Chrome Browser",
+  "title": "Preuzimanje i instalacija Chrome pretraživača",
   "duration": "3:29"
 }
 ---
 
-In this lesson you will find out how to install faster Google Chrome internet browser with amazing built-in developer tools you will learn to use in the future lessons.
+U ovoj lekciji naučićemo kako da instaliramo Google Chrome internet pretraživač opremljen neverovatnim programerskim alatima, koje ćemo naučiti da koristimo u lekcijama koje slede.

@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji saznaćemo kako da sačuvamo bitne reference u svoju traku obeleživača u okviru Google Chrome-a.
+U ovoj lekciji saznaćemo kako možemo da sačuvamo nama bitne reference kao i način na koji da ih sačuvamo da bi se prikazale u traci  obeleživača u okviru Google Chrome pretraživača.

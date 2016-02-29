@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji naučićemo kako da instaliramo Google Chrome internet pretraživač opremljen neverovatnim programerskim alatima, koje ćemo naučiti da koristimo u lekcijama koje slede.
+U ovoj lekciji naučićemo kako da instaliramo Google Chrome internet pretraživač. Ovaj pretraživač opremljen je neverovatnim programerskim alatima, koje ćemo naučiti da koristimo u lekcijama koje slede.

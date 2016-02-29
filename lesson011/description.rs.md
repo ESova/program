@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji naučićemo kako da koristimo komandu napad (attack) u Code Combat igrici .
+Neprijatelj, kako ga savladati? Ova lekcija otkriva nam kako da u igrici Code Combat koristimo komandu za napad (attack) i uz pomoć nje porazimo neprijatelja.

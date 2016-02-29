@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji ćemo isprobati GitHubove Gistove koji nam omogućavaju da čuvamo i delimo podatke sa drugim programerima.
+U ovoj lekciji ćemo isprobati veoma korisnu opciju koju Github nudi: Gist. Gist je opcija koja će nam omogućiti da sačuvamo i podelimo određene podatke sa drugim programerima.

@@ -5,4 +5,4 @@
 }
 ---
 
-Ova lekcija je vrlo važna! Naučićemo kako da napravimo dve ključne stvari i to besplatno: svoj lični Google nalog, a nakon toga i e-mail nalog.
+Ova lekcija je vrlo važna zato obratite pažnju! Naučićemo kako da napravimo dve ključne stvari i to besplatno: svoj lični Google nalog, a nakon toga i e-mail nalog.

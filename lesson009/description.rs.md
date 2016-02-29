@@ -5,4 +5,4 @@
 }
 ---
 
-Uz pomoć neverovatne Code Combat igrice imaćete priliku da naučite osnovne sintakse, metode, parametre, znakovne nizove, petlje i promenljive u JavaScript programskom jeziku.
+Učimo programski jezik na najzabavniji način, uz pomoć video igrice Code Combat. Naučićemo osnovne sintakse, metode, parametre, znakovne nizove, petlje i promenljive u programskom jeziku JavaScript.

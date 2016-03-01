@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji naučićete sve trikove kako biste postali pravi nindža na tastaturi.
+Male tajne vladanja tastaturom. U ovoj lekciji naučićemo sve trikove koji su nam potrebni kako bismo postali prave nindže na tastaturi. Priprema, pozor, kucaj!

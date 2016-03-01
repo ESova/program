@@ -1,8 +1,6 @@
----
 {
   "title": "Pravljenje Avatara",
   "duration": "3:48"
 }
----
 
-U ovoj lekciji ćemo biti kreativni i kreirati avatara za svoj Github i eSova profil.
+Vreme je da upotrebimo maštu! Ovom lekcijom ćemo probuditi kreativnost i napraviti bajkovit i nesvakidašnji avatar za svoj Github i eSova nalog.

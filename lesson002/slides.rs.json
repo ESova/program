@@ -13,8 +13,13 @@
     "answer": [2]
     },{
       "type": "question",
+<<<<<<< HEAD
       "time": "2:59",
       "question": "Koju vrsu naloga ćemo napraviti?",
+=======
+      "time": "2:32"
+      "question": "Koju vrstu naloga ćete napraviti?",
+>>>>>>> 930962233ffeed9369e41b084364725d0d09543e
       "options": [
         "Facebook",
         "Gmail (Google e-mail)",
@@ -24,16 +29,28 @@
       "answer": "1"
       }, {
         "type": "challenge",
+<<<<<<< HEAD
         "time": "2:59",
         "text": "Sada ćete napraviti svoj Google nalog. Ne zaboravite, za to nam je potreban Google pretraživač.",
+=======
+        "time": "2:32",
+        "text": "Sada ćete napraviti svoj Google nalog. Ne zaboravite, za to Vam je potreban Google pretraživač.",
+>>>>>>> 930962233ffeed9369e41b084364725d0d09543e
         "link": {
           "url": "",
           "title": "Napravite svoj Chrome nalog"
         }
         }, {
+<<<<<<< HEAD
           "type": "rešenje",
           "time": "2:59",
           "text": "Ako ste uspeli na napravite Chrome nalog, pritisnite ovde da završite lekciju.",
           "button": "Završi lekciju"
+=======
+          "type": "solution",
+          "time": "2:32",
+          "text": "Ako ste uspeli na napravite Chrome nalog, kliknite ovde da završite lekciju.",
+          "button": "Završite lekciju"
+>>>>>>> 930962233ffeed9369e41b084364725d0d09543e
           }]
         }

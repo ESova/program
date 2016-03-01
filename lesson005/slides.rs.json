@@ -1,7 +1,8 @@
 {
+  "video": "1uacropefx",
   "slides": [{
     "type": "question",
-    "time": "2:32",
+    "time": "3:39",
     "question": "Šta grafički predstavlja korisnika, korisnikov alter ego ili ličnost?",
     "options": [
       "Ime",
@@ -12,7 +13,7 @@
     "answer": [1]
     },{
       "type": "challenge",
-      "time": "2:32",
+      "time": "3:39",
       "text": "Napravite svoj jedinstveni avatar i ažurirajte svoj Github nalog",
       "link": {
         "url": "http://www.buildyourwildself.com/",
@@ -20,7 +21,7 @@
       }
       }, {
         "type": "solution",
-        "time": "2:32",
+        "time": "3:39",
         "text": "Ako je vaš Github profil ažuriran i imate kul novi avatar, spremni ste da pređete na sledeći nivo.",
         "button": "Završite lekciju"
         }]

@@ -1,9 +1,8 @@
-
 {
-"video" : "no24l9jo4n",
+"video" : "zqiogbv33r",
 "slides": [{
   "type": "question",
-  "time": "2:32",
+  "time": "3:21",
   "question": "Šta nije pretraživač?",
   "options": [
     "Google Chrome",
@@ -14,15 +13,15 @@
   "answer": [2]
   },{
     "type": "challenge",
-    "time": "2:32",
-    "text": "Kliknitee ovde da biste proverili svoj pretraživač i ako nemate Google Chrome pretraživač, instalirajte ga",
+    "time": "3:21",
+    "text": "Kliknite ovde da biste proverili svoj pretraživač i ako nemate Google Chrome pretraživač, instalirajte ga",
     "link": {
       "url": "http://www.whatbrowser.org/intl/sr/",
       "title": "Proverite pretraživač"
     }
   }, {
     "type": "solution",
-    "time": "2:32",
+    "time": "3:21",
     "text": "Ako imate Chrome pretraživač na kompijuteru, pritisnite ovde da biste završili lekciju. Ukoliko niste uspeli da završite zadatke iz ove lekcije ili niste zadovoljni, slobodno ponovo preslušajte lekciju pre nego što nastavite. Ako vam je potrebna pomoć, uvek je možete potražiti na chat-u.",
     "button": "Završite lekciju"
     }]

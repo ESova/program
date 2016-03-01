@@ -1,7 +1,8 @@
 {
+  "video": "2dx515itvv",
   "slides": [{
     "type": "pitanje",
-    "time": "2:32",
+    "time": "5:05",
     "question": "Za šta služe ove prečice (CTRL C i CTRL V (CMD C i CMD V ako koristite Apple)?",
     "options": [
       "sačuvaj i obriši",
@@ -12,7 +13,7 @@
     "answer": [1]
     },{
       "type": "pitanje",
-      "time": "2:32",
+      "time": "5:05",
       "question": "Šta je Wikipedia?",
       "options": [
         "email provajder",
@@ -23,7 +24,7 @@
       "answer": [2]
       },{
         "type": "izazov",
-        "time": "2:32",
+        "time": "5:05",
         "text": "Izaberite opciju za prikaz linije obeleživača kako biste uvek videli obeležene stranice. Zatim posetite internet stranicu Wikipedia, kopirajte deo nekog članka i unesite ga u program Google Translate kako biste ga preveli na srpski. Nakon toga, sačuvajte obe veze u fasciklu Pomoćne alatke na liniji obeleživača. ",
         "link": {
           "url": "https://en.wikipedia.org/wiki/Bookmark_(World_Wide_Web)",
@@ -31,7 +32,7 @@
         }
         }, {
           "type": "rešenje",
-          "time": "2:32",
+          "time": "5:05",
           "text": "Ako ste isprobali Wikipedia i Google Translate i sačuvali ih na liniju obeleživača koja je uvek vidljiva, kliknite da završite lekciju.",
           "button": "Završi lekciju"
           }]

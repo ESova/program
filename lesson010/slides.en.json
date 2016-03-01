@@ -1,7 +1,8 @@
 {
+"video": "chkjy38w4e",
 "slides": [{
   "type": "question",
-  "time": "2:32",
+  "time": "2:02",
   "question": "Which are the basic commands in CodeCombat that you get with the boots?",
   "options": [
     "moveLeft",
@@ -12,7 +13,7 @@
   "answer": [0,2,3]
 },{
   "type": "challenge",
-  "time": "2:32",
+  "time": "2:02",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/dungeon",
@@ -20,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "2:02",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

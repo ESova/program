@@ -1,7 +1,8 @@
 {
+"video": "2dx515itvv",
 "slides": [{
   "type": "question",
-  "time": "2:32",
+  "time": "5:05",
   "question": "What is this shortcut for (CTRL C and CTRL V (CMD C and CMD V if you are on Apple)?",
   "options": [
     "save and delete",
@@ -12,7 +13,7 @@
   "answer": [1]
 },{
   "type": "question",
-  "time": "2:32",
+  "time": "5:05",
   "question": "What is Wikipedia?",
   "options": [
     "email provider",
@@ -23,7 +24,7 @@
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "2:32",
+  "time": "5:05",
   "text": "Go click Show bookmark bar to make bookmarks visible on every browser tab. Then visit Wikipedia, copy part of the article and paste it into Google Translate to read it in serbian. After you are done, save both links into Bookmark bar folder - Help Tools. ",
   "link": {
     "url": "https://en.wikipedia.org/wiki/Bookmark_(World_Wide_Web)",
@@ -31,7 +32,7 @@
   }
 }, {
   "type": "solution",
-  "time": "2:32",
+  "time": "5:05",
   "text": "If you tried out Wikipedia and Google Translate and bookmarked them both in the Bookmark bar that is now visible on all the browser tabs, then click to complete the lesson.",
   "button": "Complete the lesson"
 }]

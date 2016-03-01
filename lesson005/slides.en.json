@@ -1,7 +1,8 @@
 {
+"video": "1uacropefx",
 "slides": [{
   "type": "question",
-  "time": "2:32",
+  "time": "3:39",
   "question": "What is a graphical representation of the user or the user's alter ego or character?",
   "options": [
     "Name",
@@ -12,7 +13,7 @@
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "2:32",
+  "time": "3:39",
   "text": "Create your unique avatar and update your Github profile",
   "link": {
     "url": "http://www.buildyourwildself.com/",
@@ -20,7 +21,7 @@
   }
 }, {
   "type": "solution",
-  "time": "2:32",
+  "time": "3:39",
   "text": "If your Github profile is now updated with a great new wild avatar, then you are ready to go to the next lesson.",
   "button": "Complete the lesson"
 }]

@@ -1,7 +1,8 @@
 {
+  "video": "rbp2kkrtes",
   "slides": [{
     "type": "question",
-    "time": "2:32",
+    "time": "2:47",
     "question": "Koje parametre koristimo u buildXY ako želimo da izgradimo ogradu?",
     "options": [
       "fence, x coordinate and y coordinate - this.buildXY('fence', 34, 44)",
@@ -12,7 +13,7 @@
     "answer": [0]
     },{
       "type": "challenge",
-      "time": "2:32",
+      "time": "2:47",
        "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
@@ -20,7 +21,7 @@
       }
       },{
         "type": "solution",
-        "time": "2:32",
+        "time": "2:47",
         "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
         "button": "Završite lekciju"
         }]

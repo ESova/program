@@ -1,7 +1,8 @@
 {
+"video": "htx2zbzjtn",
 "slides": [{
   "type": "question",
-  "time": "2:32",
+  "time": "3:31",
   "question": "Where do we save the cheatsheet for Special Characters from this lesson?",
   "options": [
     "in the Gist (and Bookmarked under GISTS/Special Characters)",
@@ -10,7 +11,7 @@
   "answer": [0]
 },{
   "type": "challenge",
-  "time": "2:32",
+  "time": "3:31",
   "text": "Find special characters on your keyboard, then create a Gist and save shortcuts for curly braces {} and square brackets [].",
   "link": {
     "url": "https://gist.github.com/",
@@ -18,7 +19,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "3:31",
   "text": "If you successfuly saved and bookmarked Special Characters gist, click here to complete the lesson.",
   "button": "Complete the lesson"
 }]

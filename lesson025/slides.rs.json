@@ -1,7 +1,8 @@
 {
+  "video": "eyar3r1ubk",
   "slides": [{
     "type": "question",
-    "time": "2:32",
+    "time": "5:39",
     "question": "Koju promenljivu smo kreirali kako bismo izbrojali dragulje?",
     "options": [
       "enemy",
@@ -10,7 +11,7 @@
     "answer": [0]
     },{
       "type": "challenge",
-      "time": "2:32",
+      "time": "5:39",
        "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
@@ -18,7 +19,7 @@
       }
       },{
         "type": "solution",
-        "time": "2:32",
+        "time": "5:39",
         "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
         "button": "Završite lekciju"
         }]

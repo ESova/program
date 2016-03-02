@@ -1,7 +1,8 @@
 {
+"video": "s77wyim63o",
 "slides": [{
   "type": "question",
-  "time": "2:32",
+  "time": "1:24",
   "question": "What is a name of the variable we create in this statement var enemy1 = findNearestEnemy(); ?",
   "options": [
     "enemy2",
@@ -12,7 +13,7 @@
   "answer": [2]
 },{
   "type": "challenge",
-  "time": "2:32",
+  "time": "1:24",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/dungeon",
@@ -20,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "1:24",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

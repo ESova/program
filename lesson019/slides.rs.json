@@ -1,7 +1,8 @@
 {
+  "video": "ivnri05x8y",
   "slides": [{
     "type": "question",
-    "time": "2:32",
+    "time": "4:14",
     "question":
     [
       "Da li je a) i b) isto?",
@@ -16,7 +17,7 @@
     "answer": [0]
     },{
       "type": "challenge",
-      "time": "2:32",
+      "time": "4:14",
        "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
@@ -24,7 +25,7 @@
       }
       },{
         "type": "solution",
-        "time": "2:32",
+        "time": "4:14",
         "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
         "button": "Završite lekciju"
         }]

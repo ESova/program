@@ -1,7 +1,8 @@
 {
+"video": "bif3k0unvq",
 "slides": [{
   "type": "question",
-  "time": "2:32",
+  "time": "1:59",
   "question": "What is a while(true) loop?",
   "options": [
     "it's a special command - a loop - that make things happen over and over again",
@@ -10,7 +11,7 @@
   "answer": [0]
 },{
   "type": "challenge",
-  "time": "2:32",
+  "time": "1:59",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/dungeon",
@@ -18,7 +19,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "1:59",
   "text": "If you successfuly finished tasks in the game for this lesson, click complete.",
   "button": "Complete the lesson"
 }]

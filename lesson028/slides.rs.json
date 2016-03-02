@@ -1,7 +1,8 @@
 {
+  "video": "fq28h5m2hd",
   "slides": [{
     "type": "question",
-    "time": "2:32",
+    "time": "8:32",
     "question": "Koji je rezultat konkatenacije 'Hello' + ', ' + 'Ana!' ?",
     "options": [
       "Hello,Ana!",
@@ -12,7 +13,7 @@
     "answer": [3]
     },{
       "type": "question",
-      "time": "2:32",
+      "time": "8:32",
       "question": "Šta dobijamo ako u kod unesemo 'esova' === 'esova' ?",
       "options": [
         "esova",
@@ -23,7 +24,7 @@
       "answer": [1]
       },{
         "type": "challenge",
-        "time": "2:32",
+        "time": "8:32",
         "text": "Naučite kako da koristite konzolu, zatim izmenite javaScript- puškica Gist i u njega sačuvajte ono što ste naučili u ovoj lekciji.",
         "link": {
           "url": "https://gist.github.com/",
@@ -31,7 +32,7 @@
         }
         },{
           "type": "solution",
-          "time": "2:32",
+          "time": "8:32",
           "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
         "button": "Završite lekciju"
         }]

@@ -1,7 +1,8 @@
 {
+  "video": "s77wyim63o",
   "slides": [{
     "type": "question",
-    "time": "2:32",
+    "time": "1:24",
     "question": "Kako je ime promenljive koja kreira iskaz var enemy1 = findNearestEnemy(); ?",
     "options": [
       "enemy2",
@@ -12,7 +13,7 @@
     "answer": [0]
     },{
       "type": "challenge",
-      "time": "2:32",
+      "time": "1:24",
        "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",
@@ -20,7 +21,7 @@
       }
       },{
         "type": "solution",
-        "time": "2:32",
+        "time": "1:24",
         "text": "Ukoliko ste uspešno završili zadatke za ovu lekciju u okviru igrice, kliknite da završite lekciju",
         "button": "Završite lekciju"
         }]

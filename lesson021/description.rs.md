@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji naučićemo kako da u Code combat napadamo dvaput i time lakše pobedimo protivnika.
+U svakoj lekciji do sada smo imali priliku da obnovimo naučeno i naučio ponešto novo, tako i u ovoj. Dvadeset prva lekcija nosi kako da u Code Combatu napadamo dvaput i time lakše pobedimo protivnika.

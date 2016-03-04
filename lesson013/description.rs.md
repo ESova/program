@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji ćemo uz pomoć igrice Code Combat da naučimo osnovnu sintaksu petlji u Javascriptu.
+Korak dalje idemo s novim mogućnostima, u dvanaestoj lekciji ćemo uz pomoć igrice Code Combat da naučimo osnovnu sintaksu petlji u Javascriptu. Idemo zajedno, a onda sami da pokušate da rešite isti zadatak. 

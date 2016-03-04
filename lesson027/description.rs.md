@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji obnovićemo ono što smo naučili o JavaScript jeziku do sada. Saznaćemo više o brojevima i znakovnim tipovima, promenljivim i petljama.
+Dvadeset i sedma lekcija već, u ovoj lekciji obnovićemo ono što smo naučili o JavaScript jeziku do sada. Zatim sledi nadogradnja našeg vrednog znanja o brojevima i znakovnim tipovima, promenljivim i petljama.

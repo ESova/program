@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji pronaći ćemo put do svojih prijatelja i zaštititi ih od svih pretnji i neprijatelja.
+Dvadeset i šesta lekcija, nadamo se da ste dobro savladali prethodnu lekciju Code Combata jer ponavljamo ono od prošlog puta i pronaći ćemo put do svojih prijatelja i zaštititi ih od svih pretnji i neprijatelja.

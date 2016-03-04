@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji naučićemo još posebnih simbola, a zatim testirati svoju brzinu kucanja.
+Danas smo došli i do lekcije broj osamnaest gde ćemo naučiti još posebnih simbola koji se koriste generalno u programiranju a tako i u JavaScript programskom jeziku. Zatim  mali test brzine vaših prstiju i kucanja na tastaturi.

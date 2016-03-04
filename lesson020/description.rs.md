@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji pobedićemo svoje neprijatelje trikovima koje smo do sad usvojili u eSovi.
+Četrnaesti nivo ili dvadestea lekcija, u njoj ćemo pobediti svoje neprijatelje trikovima koje smo do sad usvojili u Code Combatu i videti kako se pravilno koristite sve varijable.

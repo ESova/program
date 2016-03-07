@@ -10,7 +10,7 @@
   }
 }, {
   "type": "challenge",
-  "time": "00:14",
+  "time": "0:14",
   "text": "Ukoliko nam treba bilo kakva pomoć, koristićemo eSova Gitter chat.",
   "link": {
     "url": "https://gitter.im/ESova/program",
@@ -18,7 +18,7 @@
   }
 }, {
   "type": "challenge",
-  "time": "00:14",
+  "time": "0:14",
   "text": "Igraćemo programersku igricu Code Combat.",
   "link": {
     "url": "http://codecombat.com/play",
@@ -26,7 +26,7 @@
   }
 },{
   "type": "challenge",
-  "time": "00:14",
+  "time": "0:14",
   "text": "Isprogramiraćemo svoju prvu web aplikaciju! Počnimo odmah! Ceo svet je naš!",
   "button": "Počni odmah"
 }]

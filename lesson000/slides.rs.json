@@ -9,24 +9,24 @@
     "title": "Kliknite ovde"
   }
 }, {
-  "type": "izazov",
-  "time": "0:14",
+  "type": "challenge",
+  "time": "00:14",
   "text": "Ukoliko nam treba bilo kakva pomoć, koristićemo eSova Gitter chat.",
   "link": {
     "url": "https://gitter.im/ESova/program",
     "title": "Kliknite ovde"
   }
 }, {
-  "type": "izazov",
-  "time": "0:14",
+  "type": "challenge",
+  "time": "00:14",
   "text": "Igraćemo programersku igricu Code Combat.",
   "link": {
     "url": "http://codecombat.com/play",
     "title": "Kliknite ovde"
   }
 },{
-  "type": "rešenje",
-  "time": "0:14",
+  "type": "challenge",
+  "time": "00:14",
   "text": "Isprogramiraćemo svoju prvu web aplikaciju! Počnimo odmah! Ceo svet je naš!",
   "button": "Počni odmah"
 }]

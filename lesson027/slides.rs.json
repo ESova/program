@@ -3,10 +3,10 @@
   "slides": [{
     "type": "question",
     "time": "5:17",
-    "question": "Kako ostavljate komentar u jednom redu u JavaScript kodu?",
+    "question": "Kako napravite komentar u jednom redu u JavaScript kodu?",
     "options": [
-      "you start a line with //",
-      "you start a line with /*"
+      "sa //",
+      "sa /*"
     ],
     "answer": [0]
     },{

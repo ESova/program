@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "2:02",
-  "question": "Koje su osnovne komande u CodeCombat-u koje dobijete u sistemu?",
+  "question": "Označite osnovne komande u CodeCombat-u za pomeranje u prostoru?",
   "options": [
     "moveLeft (idiLevo)",
     "moveBack (idiNazad)",

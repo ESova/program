@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "2:03",
-  "question": "Koja vrsta simbola se koristi u while(true) petlji za prelamanje koda, kako bi se petlja ponavljala zauvek?",
+  "question": "Koja vrsta simbola se koristi u while(true) petlji za uvijanje koda, kako bi se petlja ponavljala zauvek?",
   "options": [
     "vitičaste zagrade - {}",
     "uglaste - []"

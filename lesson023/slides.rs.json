@@ -10,7 +10,7 @@
       "enemy = this.findNearestEnemy();",
       "variable enemy = this.findNearestEnemy();"
     ],
-    "answer": [0]
+    "answer": [1]
     },{
       "type": "challenge",
       "time": "3:21",

@@ -6,7 +6,7 @@
     "question": "Kako napadamo neograničen broj neprijatelja??",
     "options": [
       "moramo znati tačan broj neprijatelja kako bismo mogli da napišemo metod napada za svakog od njih",
-      "možemo kreirati while(true) petlju koja ponavlja kod za napad"
+      "možemo kreirati while(true) petlju koja ponavlja kod za napad i tako uništi bilo koji broj neprijatelja"
     ],
     "answer": [0]
     },{

@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "1:49",
-    "question": "Šta ne treba raditi kad želite da obeležite stranicu?",
+    "question": "Šta se desi kada obeležite (bookmark) stranicu?",
     "options": [
-      "praviti prečicu za omiljenu stranicu",
-      "sačuvati vezu ka izabranoj stranici",
-      "obrisati vezu",
-      "napraviti ikonicu koja će vam pomoći da brže stignete na određenu stranicu"
+      "Napravljena je prečica za omiljenu stranicu.",
+      "Sačuvana je veza ka izabranoj stranici.",
+      "Veza ka izbranoj stranici je obrisana.",
+      "Napravljena je ikonicu koja će vam pomoći da brže stignete na određenu stranicu."
     ],
-    "answer": [2]
+    "answer": [0, 1, 3]
     },{
       "type": "challenge",
       "time": "1:49",

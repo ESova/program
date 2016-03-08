@@ -6,7 +6,7 @@
     "question": "Kako da neprijatelja napadnete dvaput?",
     "options": [
       "this.attack(enemy) x 2",
-      "this.attack(enemy) this.attack(enemy)"
+      "this.attack(enemy); this.attack(enemy);"
     ],
    "answer": [0]
     },{

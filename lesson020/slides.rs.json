@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "1:24",
-    "question": "Kako je ime promenljive koja kreira iskaz var enemy1 = findNearestEnemy(); ?",
+    "question": "Kako se zove promenljiva u ovom iskazu: var enemy1 = findNearestEnemy(); ?",
     "options": [
       "enemy2",
       "enemy3",
       "enemy1",
       "enemy4"
     ],
-    "answer": [0]
+    "answer": [2]
     },{
       "type": "challenge",
       "time": "1:24",

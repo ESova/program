@@ -3,7 +3,7 @@
   "slides": [{
     "type": "question",
     "time": "5:39",
-    "question": "Koju promenljivu smo kreirali kako bismo izbrojali dragulje?",
+    "question": "Koju novu promenljivu smo kreirali kako bismo izbrojali dragulje?",
     "options": [
       "enemy",
       "count"

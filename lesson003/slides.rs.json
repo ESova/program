@@ -3,14 +3,14 @@
   "slides": [{
     "type": "question",
     "time": "1:49",
-    "question": "Šta se desi kada obeležite (bookmark) stranicu?",
+    "question": "Šta se desi kada obeležite (bookmark) stranicu? Izaberite pravilne odgovore.",
     "options": [
       "Napravljena je prečica za omiljenu stranicu.",
       "Sačuvana je veza ka izabranoj stranici.",
-      "Veza ka izbranoj stranici je obrisana.",
-      "Napravljena je ikonicu koja će vam pomoći da brže stignete na određenu stranicu."
+      "Veza je obrisana.",
+      "Ništa se ne desi."
     ],
-    "answer": [0, 1, 3]
+    "answer": [0, 1]
     },{
       "type": "challenge",
       "time": "1:49",

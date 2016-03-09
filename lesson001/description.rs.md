@@ -5,4 +5,4 @@
 }
 ---
 
-U ovoj lekciji naučićemo kako da instaliramo Google Chrome internet pretraživač. Ovaj pretraživač opremljen je neverovatnim programerskim alatima, koje ćemo naučiti da koristimo u lekcijama koje slede.
+U ovoj lekciji naučićemo kako da instaliramo Google Chrome internet pretraživač. Od kada je početkom milenijuma postala vodeći internet kompanija, Google je pored najpopularnijeg sajta za pretraživanje, razvila mnogobrojne korisne alate i programe. Jedan od njihovih najuspešnijih projekata jeste Google Chrome pretraživač, koji koristi JavaScript virtuelnu mašinu i multi-procesnu arhitekturu. Ovaj pretraživač lako je došao do pozicije najpopularnijeg na internetu sa čak 45% tržišta, zbog odličnog korisničkog interfejsa, brzine i responzivnosti. Međutim, ono što ga je stvarno izdvojilo od ostalih pretraživača jesu ugrađeni programerski alati koji otvaraju niz novih mogućnosti za developere. U narednim lekcijama naučićemo kako da koristimo ove alate i programiramo direktno iz web pretraživača.  

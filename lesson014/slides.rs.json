@@ -5,7 +5,7 @@
     "time": "2:14",
     "question":
     [
-      "U pisanoj formi mnogih jezika, uvlačenje (indentation) je predstavljeno praznim prostorom na početku reda kako bi signalizirao početak novog pasusa. Mnogi kompjuterski jezici koriste ovu tehniku da odvoje pasuse ili druge logičke blokove u programu.",
+      "Uvlačenje (indentation) u programiranju predstavljeno je praznim prostorom na početku reda kako bi signalizirao početak novog pasusa. Mnogi kompjuterski jezici koriste ovu tehniku da odvoje pasuse ili druge logičke blokove u programu.",
       "",
       "Primer",
       "while(true) {",

@@ -27,7 +27,7 @@
         "time": "2:59",
         "text": "Sada ćete napraviti svoj Google nalog. Ne zaboravite, za to nam je potreban Google pretraživač.",
         "link": {
-          "url": "",
+          "url": "chrome://chrome-signin/",
           "title": "Napravite svoj Chrome nalog"
         }
         }, {

@@ -5,4 +5,4 @@
 }
 ---
 
-Pozabavićemo se otvaranjem naloga na društvenoj mreži Github, specijalizovanoj za programere. Šta je tačno Github? Odgovor na to pitanje dobićete baš u ovoj lekciji. Onda ćemo pomoću Githuba kreirati i eSova nalog i na kraju aktivirati još naš eSova čet. 
+Danas se upoznajemo sa najpopularnijom društvenom mrežom za programere koja se zove GitHub. Sa preko 3, 6 miliona korisnika, GitHub je društveni epicentar IT sveta. Ova mreža uspela je da značajno olakša komunikaciju i kolaboraciju onima koji je koriste, i postane bitno mesto profesionalnog usavršavanja. Bogat opcijama i alatima GitHub je omiljeno online mesto programera širom sveta. Ova lekcija nam je značajna jer ćemo naučiti kako da kreiramo GitHub i eSova nalog. Nakon toga saznaćemo kako da se bolje snađemo i potražimo pomoć u eSova aplikaciji.

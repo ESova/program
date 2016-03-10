@@ -5,4 +5,4 @@
 }
 ---
 
-Šta uraditi ako je web stranica na nekom stranom jeziku? U ovoj lekciji ćemo naučiti baš to, kako da koristimo web stranice koje nisu na srpskom jeziku. Biće nam potrebna dva moćna alata - Google translate i Wikipedia.
+Na internetu se često susrećemo sa situacijom da je sadržaj koji nas zanima napisan na nekom drugom jeziku. Ranije smo koristili rečnik i prevodili reč po reč, ali danas imamo mogućnost korišćenja Google Translate-a koji nam omogućava da u par klikova prevedemo ceo tekst. Ovo je još jedan Google servis koji dosta olakšava svakodnevicu jednog programera. Pored toga u ovoj lekciji naučićemo kako se koristi Wikipedia, najveća online enciklopedija. Ova dva web servisa znatno će nam olakšati i ubrzati proces učenja.

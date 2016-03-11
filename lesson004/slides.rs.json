@@ -1,8 +1,8 @@
 
-{ "video": "rmhd84p5to",
+{ "video": "x6f5f760sv",
   "slides": [{
     "type": "question",
-    "time": "2:32",
+    "time": "3:55",
     "question": "Kako se zove poznata društvena mreža za programere?",
     "options": [
       "Github",
@@ -13,7 +13,7 @@
     "answer": [0]
     }, {
       "type": "challenge",
-      "time": "0:13",
+      "time": "3:55",
       "text": "Kliknite ovde kako biste napravili Github i Esova nalog.",
       "link": {
         "url": "http://app.esova.rs",

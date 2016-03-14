@@ -5,4 +5,5 @@
 }
 ---
 
-Dvadeset i peta lekcija je pred nama koja je za nivo teža od prethodnih, ali vrlo važna da bi usavršili naše veštine pisanja koda. U ovoj lekciji naučićemo kako da brojimo dijamante koje ćemo prikupljati, i kako da koristimo lozinku da otvorimo vrata u sledeću sobu.
+Stigli smo do dvadeset i pete lekcije! Danas ćemo naučiti kako da saberemo prikupljene dragulje i koristimo lozinku da bismo otvorili vrata. Od pomoćnih alata ponovo ćemo koristiti mač koji nam vraća sposobnost napada: ovooga puta neće biti dovoljno da samo zaustavimo neprijatelje: moramo ih uništiti. Koristićemo unapred definisane promenljive u while(true) petlji, jer ne znamo koliko će nas neprijatelja napasti niti koliko je dragulja koje treba da pokupimo.  Petlja omogućava da se proces ponavlja u krug sve dok se uslov za njeno pokretanje izvršava. Pokušajte da kod napišete bez naše pomoći, a onda se vratite da ga zajedno proverimo.
+

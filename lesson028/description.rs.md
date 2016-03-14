@@ -5,4 +5,4 @@
 }
 ---
 
-Došli smo i do dvadeset i devete lekcije Code Combata. U ovoj lekciji naučićemo kako da otvorimo programerske alate u pretraživaču i kako da koristimo JavaScript konzolu, ali i još neke dodatke koji će nam značajno olakšati rad.
+Na početku eSova kursa, u jednoj od prvih lekcija, instalirali smo Google Chrome čitač zato što ima ugrađene programerske alate, i konačno je došlo je vreme da naučimo i kako da ih koristimo! Naučićemo kako da otvorimo programersku konzolu  i videti kako se ona ponaša u odnosu na to šta u nju unesemo.  U nju možemo unositi brojeve, kao i stringove, a upoznaćemo se i sa boolean tipom podataka u JavaScript programskom jeziku. Boolean nam otkriva da li je neki iskaz tačan ili netačan. Pored toga, podsetićemo se i  kako se u kodu koristi while(true) petlja, ovoga puta u Chrome konzoli. Ona nam omogućava da jednu ili više komandi, u okviru petlje ponavljamo dokle god se za to ispunjava uslov. Konačno ćemo imati priliku da van igre primenimo svoje znanje, zato brzo tastauru u ruke, i kuckajmo!

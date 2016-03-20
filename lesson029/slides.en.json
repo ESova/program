@@ -14,7 +14,7 @@
 },{
   "type": "question",
   "time": "2:49",
-  "question": "What is the function we use for bulding fences?",
+  "question": "What function (method) do we use for bulding fences?",
   "options": [
     "build",
     "buildXY",
@@ -24,10 +24,10 @@
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "2:49",
+  "time": "2:08",
   "text": "Play Code Combat and learn new tricks",
   "link": {
-    "url": "http://codecombat.com/play/dungeon",
+    "url": "http://codecombat.com/play/forest",
     "title": "Play now"
   }
 },{

@@ -1,38 +1,27 @@
 {
-"video": "2bbk0zlf5o",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "2:49",
-  "question": "What is the name of the second world in CodeCombat that we started to play in this lesson?",
+  "time": "1:20",
+  "question": "Which function (method) do we use to move to selected coordinates x and y?",
   "options": [
-    "Backwoods Forest",
-    "Kithgard Dungeon",
-    "Sarven Desert",
-    "Cloudrip Mountain"
-  ],
-  "answer": [0]
-},{
-  "type": "question",
-  "time": "2:49",
-  "question": "What is the function we use for bulding fences?",
-  "options": [
-    "build",
-    "buildXY",
-    "fence",
-    "fenceXY"
+    "goXY",
+    "moveXY",
+    "runXY",
+    "jumpXY"
   ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "2:49",
+  "time": "0:43",
   "text": "Play Code Combat and learn new tricks",
   "link": {
-    "url": "http://codecombat.com/play/dungeon",
+    "url": "http://codecombat.com/play/forest",
     "title": "Play now"
   }
 },{
   "type": "solution",
-  "time": "2:49",
+  "time": "1:20",
   "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
   "button": "Complete the lesson"
 }]

@@ -12,7 +12,7 @@
     },{
       "type": "question",
       "time": "5:17",
-      "question": "Šta od ponuđenog je znakovni niz?",
+      "question": "Šta sve od ponuđenog je znakovni niz (string)?",
       "options": [
         "1",
         "'123'",

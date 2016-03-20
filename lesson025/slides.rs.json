@@ -8,10 +8,10 @@
       "enemy",
       "count"
     ],
-    "answer": [0]
+    "answer": [1]
     },{
       "type": "challenge",
-      "time": "5:39",
+      "time": "1:36",
        "text": "Igrajte Code Combat i naučite nove trikove",
       "link": {
         "url": "http://codecombat.com/play/dungeon",

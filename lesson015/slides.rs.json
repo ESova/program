@@ -10,10 +10,10 @@
     "this.moveDown();",
     "this.moveDown!"
   ],
-  "answer": [0]
+  "answer": [2]
   },{
     "type": "challenge",
-    "time": "1:38",
+    "time": "0:45",
      "text": "Igrajte Code Combat i naučite nove trikove",
     "link": {
       "url": "http://codecombat.com/play/dungeon",

@@ -1,20 +1,18 @@
 {
-"video": "ja7ormpwm4",
+"video": "wc5g7l0wnb",
 "slides": [{
   "type": "question",
-  "time": "2:49",
-  "question": "What is the name of the second world in CodeCombat that we started to play in this lesson?",
+  "time": "0:01",
+  "question": "What is the right answer for (2 + 3 === 5)?",
   "options": [
-    "Backwoods Forest",
-    "Kithgard Dungeon",
-    "Sarven Desert",
-    "Cloudrip Mountain"
+    "true",
+    "false"
   ],
   "answer": [0]
 },{
   "type": "question",
-  "time": "2:49",
-  "question": "What is the function we use for bulding fences?",
+  "time": "0:01",
+  "question": "What is the right answer for ('One' === 1)?",
   "options": [
     "build",
     "buildXY",
@@ -24,7 +22,7 @@
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "0:43",
+  "time": "0:01",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/forest",
@@ -32,7 +30,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:49",
+  "time": "0:01",
   "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
   "button": "Complete the lesson"
 }]

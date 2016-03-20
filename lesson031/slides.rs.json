@@ -2,29 +2,18 @@
 "video": "7qkuu0ypg9",
 "slides": [{
   "type": "question",
-  "time": "2:49",
-  "question": "What is the name of the second world in CodeCombat that we started to play in this lesson?",
+  "time": "3:21",
+  "question": "In which example will the hero say 'This is cool'?",
   "options": [
-    "Backwoods Forest",
-    "Kithgard Dungeon",
-    "Sarven Desert",
-    "Cloudrip Mountain"
+    "if(2 + 2 === 2){ this.say('This is cool')};",
+    "if(2 + 2 === 3){ this.say('This is cool')};",
+    "if(2 + 2 === 4){ this.say('This is cool')};",
+    "if(2 + 2 === 5){ this.say('This is cool')};"
   ],
-  "answer": [0]
-},{
-  "type": "question",
-  "time": "2:49",
-  "question": "What is the function we use for bulding fences?",
-  "options": [
-    "build",
-    "buildXY",
-    "fence",
-    "fenceXY"
-  ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:43",
+  "time": "3:21",
   "text": "Play Code Combat and learn new tricks",
   "link": {
     "url": "http://codecombat.com/play/forest",
@@ -32,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:49",
+  "time": "3:21",
   "text": "If you successfuly finished finished the challenge for this lesson, click to complete the lesson.",
   "button": "Complete the lesson"
 }]

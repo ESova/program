@@ -1,8 +1,8 @@
 ---
 {
-  "title": "Lesson 30",
-  "duration": "1:28"
+  "title": "Lesson 31",
+  "duration": "3:30"
 }
 ---
 
-Description for lesson 30
+Description for lesson 31

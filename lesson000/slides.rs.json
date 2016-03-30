@@ -3,31 +3,15 @@
 "slides": [{
   "type": "challenge",
   "time": "0:14",
-  "text": "Naučićete kako da koristite GitHub - društvenu mrežu za programere.",
+  "text": "Zanimljivosti iz sveta programiranja možete pratiti na linku:",
   "link": {
-    "url": "https://github.com/",
-    "title": "Kliknite ovde"
-  }
-}, {
-  "type": "challenge",
-  "time": "0:14",
-  "text": "Ukoliko nam treba bilo kakva pomoć, koristićemo eSova Gitter chat.",
-  "link": {
-    "url": "https://gitter.im/ESova/program",
-    "title": "Kliknite ovde"
-  }
-}, {
-  "type": "challenge",
-  "time": "0:14",
-  "text": "Igraćemo programersku igricu Code Combat.",
-  "link": {
-    "url": "http://codecombat.com/play",
+    "url": "http://www.esova.rs/blog/",
     "title": "Kliknite ovde"
   }
 },{
   "type": "solution",
   "time": "0:14",
-  "text": "Isprogramiraćemo svoju prvu web aplikaciju! Počnimo odmah! Ceo svet je naš!",
+  "text": "Pomoću najboljih aplikacija za online edukaciju ćemo naučiti osnovnu sintaksu JavaScripta (variable, petlje, funkcije itd.) i naučićemo HTML5 i CSS. A na kraju ćemo upotrebiti prikupljeno znanje i isprogramirati svoju prvu web aplikaciju! Počnimo odmah! Ceo svet je naš!",
   "button": "Počnite odmah"
 }]
 }

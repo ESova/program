@@ -1,6 +1,6 @@
 ---
 {
-  "Code Combat - putovanje",
+  "title":"Code Combat - putovanje",
   "duration": "1:28"
 }
 ---

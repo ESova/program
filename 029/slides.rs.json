@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "2bbk0zlf5o",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "2:48",
+  "question": "Koju komandu koristimo da napravimo ogradu?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "buildType(“fence”, x, y)",
+    "this.build.fence (x, y)",
+    "this.buildXY(“fence”, x, y)"
+  
   ],
   "answer": [9]
 },{
   "type": "challenge",
-  "time": "9:99",
+  "time": "0:29",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "2:48",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

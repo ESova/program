@@ -1,7 +1,7 @@
 ---
 {
   "title": "Code Combat - odbrana sela",
-  "duration": "9:99"
+  "duration": "3:16"
 }
 ---
 

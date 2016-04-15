@@ -10,7 +10,7 @@
     "If (enemy) { this.attack(enemy) } else { this.say(“I don’t see an enemy”) }",
     "If (enemy) { this.attack(enemy) } else { this.moveXY(x,y) }"
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
   "time": "1:24",

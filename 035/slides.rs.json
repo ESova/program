@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "xwa6piieaw",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "3:07",
+  "question": "Kako smo nazvali promenljivu koja označava neprijatelja na desnoj strani?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "enemy",
+    "rightEnemy",
+    "EnemyRight",
+    
   ],
   "answer": [9]
 },{
   "type": "challenge",
-  "time": "9:99",
+  "time": "1:11",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "3:07",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

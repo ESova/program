@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "gp5bybkbly",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "2:28",
+  "question": "Koju funkciju koristimo da nađemo najbližeg neprijatelja?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "petlju",
+    "findNearestEnemy",
+    "attack(enemy)",
+    
   ],
   "answer": [9]
 },{
   "type": "challenge",
-  "time": "9:99",
+  "time": "1:30",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "2:28",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

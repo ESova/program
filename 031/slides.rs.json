@@ -1,27 +1,28 @@
 {
-"video": "aaaaa99999",
+"video": "7qkuu0ypg9",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "3:20",
+  "question": "U kojim primerima će naš heroj reći “Hey”?
+",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "if (2+2===4){ this.say(“Hey”)}",
+    "if (2+3===5){ this.say(“Hey”)}",
+    "if (2+2=4){ this.say(“Hey”)}",
+    "if (2+3=4){ this.say(“Hey”)}"
   ],
-  "answer": [9]
+  "answer": [9,10]
 },{
   "type": "challenge",
   "time": "9:99",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "3:20",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

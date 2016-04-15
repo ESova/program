@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "qd0uu8wkak",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "5:24",
+  "question": "Koju strukturu koristimo u slučaju “ako-u suprotnom”?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "While-If",
+    "If-then",
+    "If-else",
+    
   ],
-  "answer": [9]
+  "answer": [10]
 },{
   "type": "challenge",
-  "time": "9:99",
+  "time": "2:31",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "5:24",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

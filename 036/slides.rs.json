@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "2f8i4mf1cy",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "2:58",
+  "question": "U kom primeru će naš heroj izgovoriti “I don’t see an enemy”?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "If (enemy) { this.attack(enemy) }",
+    "If (!enemy) { this.say(“I don’t see an enemy”)) }",
+    "If (enemy) { this.attack(enemy) } else { this.say(“I don’t see an enemy”) }",
+    "If (enemy) { this.attack(enemy) } else { this.moveXY(x,y) }"
   ],
   "answer": [9]
 },{
   "type": "challenge",
-  "time": "9:99",
+  "time": "1:24",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "2:58",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

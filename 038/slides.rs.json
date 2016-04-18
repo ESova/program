@@ -1,27 +1,26 @@
 {
-"video": "aaaaa99999",
+"video": "1ii0pon3qx",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "2:00",
+  "question": "Koji napad je jači?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "this.attack(enemy) ",
+    "this.cleave(enemy)",
+    
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
+  "time": "2:00",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "2:00",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

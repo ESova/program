@@ -1,27 +1,26 @@
 {
-"video": "aaaaa99999",
+"video": "78kq0le76c",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "2:02",
+  "question": "Kada u ovoj sobi napadamo škrinju ?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "Odmah na početku",
+    "Kada nema više neprijatelja",
+    
   ],
   "answer": [9]
 },{
   "type": "challenge",
-  "time": "9:99",
+  "time": "2:02",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "2:02",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

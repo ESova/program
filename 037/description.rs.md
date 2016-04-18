@@ -1,7 +1,7 @@
 ---
 {
   "title": "Title",
-  "duration": "9:99"
+  "duration": "2:12"
 }
 ---
 

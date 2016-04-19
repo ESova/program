@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "w4zum7jeyg",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "9:37",
+  "question": " Za koji iskaz će nam program ispisati true?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "5 != 5",
+    "6 < 7",
+    "x =2; x > 15",
+    "y =7; y ===  “seven”"
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
+  "time": "9:37",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://gist.github.com/",
+    "title": "Dopunite svoj gist"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "9:37",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

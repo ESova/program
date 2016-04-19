@@ -1,27 +1,26 @@
 {
-"video": "aaaaa99999",
+"video": "8sct2fkqe2",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "3:49",
+  "question": "Protiv koga smo se borili u današnjoj lekciji?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "kompjutera",
+    "drugih igrača",
+   
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
+  "time": "2:18 ",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "3:49",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

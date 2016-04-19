@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Title",
-  "duration": "9:99"
+  "title": "Code Combat - borba uživo",
+  "duration": "3:58"
 }
 ---
 
-Here comes description
+Ovoga puta vam imamo priliku da pokušamo nešto sasvim novo - da se borimo protiv pravih igrača. To nisu kompluterski programi protiv kojih smo se do sada borili, već ljudi koji isto kao i mi uče programiranje kroz ovu interaktivnu igricu. Ponuđena su nam 3 nivoa borbe: lak, srednji i težak. Cilj ove igre je da porazimo protivnika. Čak i ukoliko nepobedimo, ne dozvolite da vas to obeshrabri, već pokušajte ponovo sa drugačijim kodom ili drugačijim oružijima. Pokažite sebi i drugima da ste pobednici u svetu programiranja!
+

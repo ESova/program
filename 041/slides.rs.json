@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "fma40753uv",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "1:40",
+  "question": "Kada možemo koristiti Cleave komandu",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "jednom u toku igrice",
+    "kada god želimo",
+    "kada je spremna",
+    
   ],
-  "answer": [9]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "9:99",
+  "time": "1:40",
   "text": "Challenge - what should they do after they click the link",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "1:40",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

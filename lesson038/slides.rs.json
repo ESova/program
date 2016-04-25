@@ -1,27 +1,26 @@
 {
-"video": "xwa6piieaw",
+"video": "1ii0pon3qx",
 "slides": [{
   "type": "question",
-  "time": "3:07",
-  "question": "Kako smo nazvali promenljivu koja označava neprijatelja na desnoj strani?",
+  "time": "2:00",
+  "question": "Kojom vrstom udarca možemo da pobedimo više najprijatelja?",
   "options": [
-    "enemy",
-    "rightEnemy",
-    "EnemyRight",
-    
+    "this.attack(enemy) ",
+    "this.cleave(enemy)",
+
   ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:11",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "2:00",
+  "text": "Igrajte Code Combat i naučite nove trikove",
   "link": {
     "url": "http://codecombat.com/play/forest",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "3:07",
+  "time": "2:00",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

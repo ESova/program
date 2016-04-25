@@ -1,27 +1,25 @@
 {
-"video": "gp5bybkbly",
+"video": "8sct2fkqe2",
 "slides": [{
   "type": "question",
-  "time": "2:28",
-  "question": "Koju funkciju koristimo da nađemo najbližeg neprijatelja?",
+  "time": "3:49",
+  "question": "Protiv koga smo se borili u današnjoj lekciji?",
   "options": [
-    "petlju",
-    "findNearestEnemy",
-    "attack(enemy)",
-    
+    "kompjutera",
+    "drugih igrača"
   ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:30",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "2:18 ",
+  "text": "Igrajte Code Combat i naučite nove trikove",
   "link": {
     "url": "http://codecombat.com/play/forest",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:28",
+  "time": "3:49",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

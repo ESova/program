@@ -8,9 +8,9 @@
     "buildType('fence', x, y)",
     "this.build.fence (x, y)",
     "this.buildXY('fence', x, y)"
-  
+
   ],
-  "answer": [10]
+  "answer": [2]
 },{
   "type": "challenge",
   "time": "0:29",

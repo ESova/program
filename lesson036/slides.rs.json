@@ -3,18 +3,18 @@
 "slides": [{
   "type": "question",
   "time": "2:58",
-  "question": "U kom primeru će naš heroj izgovoriti “I don’t see an enemy”?",
+  "question": "U kom primeru će naš heroj izgovoriti 'I don’t see an enemy'? (enemy postoji)",
   "options": [
     "If (enemy) { this.attack(enemy) }",
-    "If (!enemy) { this.say(“I don’t see an enemy”)) }",
-    "If (enemy) { this.attack(enemy) } else { this.say(“I don’t see an enemy”) }",
+    "If (enemy) { this.say('I don’t see an enemy')) }",
+    "If (enemy) { this.attack(enemy) } else { this.say('I don’t see an enemy') }",
     "If (enemy) { this.attack(enemy) } else { this.moveXY(x,y) }"
   ],
   "answer": [1]
 },{
   "type": "challenge",
   "time": "1:24",
-  "text": "Challenge - what should they do after they click the link",
+  "text": "Igrajte Code Combat i naučite nove trikove",
   "link": {
     "url": "http://codecombat.com/play/forest",
     "title": "Igrajte sada"

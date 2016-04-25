@@ -1,26 +1,27 @@
 {
-"video": "1ii0pon3qx",
+"video": "ja7ormpwm4",
 "slides": [{
   "type": "question",
-  "time": "2:00",
-  "question": "Koji napad je jači?",
+  "time": "1:19",
+  "question": "Kojim slovima obeležavamo koordinate?",
   "options": [
-    "this.attack(enemy) ",
-    "this.cleave(enemy)",
-    
+    "a,b",
+    "y,z",
+    "x,y",
+    "x,z"
   ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "2:00",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "0:43",
+  "text": "Igrajte Code Combat i naučite nove trikove",
   "link": {
     "url": "http://codecombat.com/play/forest",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:00",
+  "time": "1:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

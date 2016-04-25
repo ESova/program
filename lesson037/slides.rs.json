@@ -1,27 +1,26 @@
 {
-"video": "gwxide8ody",
+"video": "78kq0le76c",
 "slides": [{
   "type": "question",
-  "time": "2:57",
-  "question": "Za koji iskaz će nam program ispisati true?",
+  "time": "2:02",
+  "question": "Kada u ovoj sobi napadamo škrinju ?",
   "options": [
-    "5 === 5",
-    "“Five” === 5",
-    "“Five” === “Five”",
-    "5 != 5"
+    "Odmah na početku",
+    "Kada nema više neprijatelja",
+
   ],
-  "answer": [0,1,2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "2:57",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "2:02",
+  "text": "Igrajte Code Combat i naučite nove trikove",
   "link": {
     "url": "http://codecombat.com/play/forest",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:57",
+  "time": "2:02",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

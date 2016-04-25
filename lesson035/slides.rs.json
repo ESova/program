@@ -1,27 +1,27 @@
 {
-"video": "qd0uu8wkak",
+"video": "xwa6piieaw",
 "slides": [{
   "type": "question",
-  "time": "5:24",
-  "question": "Koju strukturu koristimo u slučaju “ako-u suprotnom”?",
+  "time": "3:07",
+  "question": "Kako smo nazvali promenljivu koja označava neprijatelja na desnoj strani?",
   "options": [
-    "While-If",
-    "If-then",
-    "If-else",
-    
+    "enemy",
+    "rightEnemy",
+    "EnemyRight",
+
   ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "2:31",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "1:11",
+  "text": "Igrajte Code Combat i naučite nove trikove",
   "link": {
     "url": "http://codecombat.com/play/forest",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "5:24",
+  "time": "3:07",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

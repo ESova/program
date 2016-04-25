@@ -6,16 +6,16 @@
   "question": "U kojim primerima će naš heroj reći “Hey”?
 ",
   "options": [
-    "if (2+2===4){ this.say(“Hey”)}",
-    "if (2+3===5){ this.say(“Hey”)}",
-    "if (2+2=4){ this.say(“Hey”)}",
-    "if (2+3=4){ this.say(“Hey”)}"
+    "if (2+2===4){ this.say('Hey')}",
+    "if (2+3===5){ this.say('Hey')}",
+    "if (2+2=4){ this.say('Hey')}",
+    "if (2+3=4){ this.say('Hey')}"
   ],
-  "answer": [9,10]
+  "answer": [0,1]
 },{
   "type": "challenge",
   "time": "3:20",
-  "text": "Challenge - what should they do after they click the link",
+  "text": "Igrajte Code Combat i naučite nove trikove",
   "link": {
     "url": "http://codecombat.com/play/forest",
     "title": "Igrajte sada"

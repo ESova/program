@@ -1,27 +1,27 @@
 {
-"video": "ja7ormpwm4",
+"video": "qd0uu8wkak",
 "slides": [{
   "type": "question",
-  "time": "1:19",
-  "question": "Kojim slovima obeležavamo koordinate?",
+  "time": "5:24",
+  "question": "Koju strukturu koristimo u slučaju “ako-u suprotnom”?",
   "options": [
-    "a,b",
-    "y,z",
-    "x,y",
-    "x,z"
+    "While-If",
+    "If-then",
+    "If-else",
+
   ],
-  "answer": [10]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:43",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "2:31",
+  "text": "Igrajte Code Combat i naučite nove trikove",
   "link": {
     "url": "http://codecombat.com/play/forest",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "1:19",
+  "time": "5:24",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

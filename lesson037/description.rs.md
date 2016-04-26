@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Potraga za blagom",
+  "title": "Code Comabt - Potraga za blagom",
   "duration": "2:12"
 }
 ---

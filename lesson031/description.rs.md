@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Code Combat - broba protiv ogra",
+  "title": "Code Combat - borba protiv ogra",
   "duration": "3:28"
 }
 ---

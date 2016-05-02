@@ -1,4 +1,12 @@
 {
+  "type": "challenge",
+  "time": "2:07",
+  "text": "Igrajte Code Combat - Forest i naučite nove trikove",
+  "link": {
+    "url": "http://codecombat.com/play/forest",
+    "title": "Igrajte sada"
+  }
+},{
 "video": "2bbk0zlf5o",
 "slides": [{
   "type": "question",
@@ -11,14 +19,6 @@
 
   ],
   "answer": [2]
-},{
-  "type": "challenge",
-  "time": "0:29",
-  "text": "Challenge - what should they do after they click the link",
-  "link": {
-    "url": "http://codecombat.com/play/forest",
-    "title": "Igrajte sada"
-  }
 },{
   "type": "solution",
   "time": "2:48",

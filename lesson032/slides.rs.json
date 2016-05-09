@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "2:57",
-  "question": "Za koji iskaz će nam program ispisati true?",
+  "question": "Za koje izraze će nam program ispisati true?",
   "options": [
     "5 === 5",
     "'Five' === 5",

@@ -14,10 +14,10 @@
 },{
   "type": "challenge",
   "time": "2:07",
-  "text": "Igrajte Code Combat i naučite nove trikove",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/forest",
-    "title": "Igrajte sada"
+    "url": "http://codecombat.com/play/level/defense-of-plainswood",
+    "title": "Idite na nivo"
   }
 },{
   "type": "solution",

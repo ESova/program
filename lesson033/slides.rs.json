@@ -2,7 +2,7 @@
   "video": "qd0uu8wkak",
   "slides": [{
     "type": "question",
-    "time": "5:26",
+    "time": "5:25",
     "question": "Koju strukturu koristimo u slučaju 'ako-u suprotnom'?",
     "options": [
       "While-If",
@@ -20,7 +20,7 @@
     }
   },{
     "type": "solution",
-    "time": "5:26",
+    "time": "5:25",
     "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
     "button": "Završite lekciju"
   }]

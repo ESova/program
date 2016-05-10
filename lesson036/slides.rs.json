@@ -14,9 +14,9 @@
 },{
   "type": "challenge",
   "time": "1:24",
-  "text": "Igrajte Code Combat i naučite nove trikove",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/forest",
+    "url": "http://codecombat.com/play/level/back-to-back",
     "title": "Igrajte sada"
   }
 },{

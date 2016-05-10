@@ -6,14 +6,13 @@
   "question": "Kojom vrstom udarca možemo da pobedimo više najprijatelja?",
   "options": [
     "this.attack(enemy) ",
-    "this.cleave(enemy)",
-
+    "this.cleave(enemy)"
   ],
   "answer": [1]
 },{
   "type": "challenge",
   "time": "2:00",
-  "text": "Igrajte Code Combat i naučite nove trikove",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
     "url": "http://codecombat.com/play/forest",
     "title": "Igrajte sada"

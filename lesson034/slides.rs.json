@@ -7,7 +7,7 @@
   "options": [
     "petlju",
     "findNearestEnemy",
-    "attack(enemy)",
+    "attack(enemy)"
   ],
   "answer": [1]
   },{

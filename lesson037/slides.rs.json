@@ -7,7 +7,6 @@
   "options": [
     "Odmah na početku",
     "Kada nema više neprijatelja"
-
   ],
   "answer": [1]
 },{
@@ -15,7 +14,7 @@
   "time": "2:02",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/forest",
+    "url": "http://codecombat.com/play/level/ogre-encampment",
     "title": "Igrajte sada"
   }
 },{

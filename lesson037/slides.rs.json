@@ -6,14 +6,14 @@
   "question": "Kada u ovoj sobi napadamo škrinju ?",
   "options": [
     "Odmah na početku",
-    "Kada nema više neprijatelja",
+    "Kada nema više neprijatelja"
 
   ],
   "answer": [1]
 },{
   "type": "challenge",
   "time": "2:02",
-  "text": "Igrajte Code Combat i naučite nove trikove",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
     "url": "http://codecombat.com/play/forest",
     "title": "Igrajte sada"

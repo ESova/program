@@ -1,28 +1,27 @@
 {
-"video": "2f8i4mf1cy",
-"slides": [{
-  "type": "question",
-  "time": "2:58",
-  "question": "U kom primeru će naš heroj izgovoriti 'I don’t see an enemy'? (enemy postoji)",
-  "options": [
-    "If (enemy) { this.attack(enemy) }",
-    "If (enemy) { this.say('I don’t see an enemy')) }",
-    "If (enemy) { this.attack(enemy) } else { this.say('I don’t see an enemy') }",
-    "If (enemy) { this.attack(enemy) } else { this.moveXY(x,y) }"
-  ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "1:24",
-  "text": "Odigrajte nivo i vratite se",
-  "link": {
-    "url": "http://codecombat.com/play/level/back-to-back",
-    "title": "Igrajte sada"
-  }
-},{
-  "type": "solution",
-  "time": "2:58",
-  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
-  "button": "Završite lekciju"
-}]
+  "video": "qd0uu8wkak",
+  "slides": [{
+    "type": "question",
+    "time": "5:25",
+    "question": "Koju strukturu koristimo u slučaju 'ako-u suprotnom'?",
+    "options": [
+      "While-If",
+      "If-then",
+      "If-else"
+    ],
+    "answer": [2]
+  },{
+    "type": "challenge",
+    "time": "2:30",
+    "text": "Odigrajte nivo i vratite se",
+    "link": {
+      "url": "http://codecombat.com/play/level/gems-or-death",
+      "title": "Igrajte sada"
+    }
+  },{
+    "type": "solution",
+    "time": "5:25",
+    "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+    "button": "Završite lekciju"
+  }]
 }

@@ -14,9 +14,9 @@
 },{
   "type": "challenge",
   "time": "1:40",
-  "text": "Challenge - what should they do after they click the link",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/forest",
+    "url": "http://codecombat.com/play/level/backwoods-standoff",
     "title": "Igrajte sada"
   }
 },{

@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Code Comabt - mačevanje",
+  "title": "Code Combat - mačevanje",
   "duration": "2:12"
 }
 ---

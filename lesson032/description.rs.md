@@ -1,9 +1,9 @@
 ---
 {
-  "title": "Code Combat - odbrana sela",
-  "duration": "3:07"
+  "title": "Code Combat - prikupljanje dragulja",
+  "duration": "5:34"
 }
 ---
 
-Dobrodošli ponovo u eSovu, mesto gde se kroz zabavu jako puno nauči. Naš zadatak je ponovo da spasemo seljane, ali ovoga puta sa komandom IF ELSE. Ovoga puta naš junak će naići na jednu novu situaciju u kojoj će napadati neprijatelje ukoliko ih bude bilo, a ukoliko ih ne bude, on će stati u odbrambenu poziciju i reći nam kako nema neprijatelja na ekranu. Ponovo ćemo, kao i mnogo puta do sada koristiti petlje, kako bismo utvrdili da smo to savladali, jer neprijatelja ima puno i potrebno je da ih sve pobedimo.
+U novoj avanturi našeg heroja ne očekuje nimalo lak zadatak. On je u životnoj opasnosti i jedina šansa da preživi mu je upravo u našim rukama. Kombinovanjem prethodno stečenih znanja, IF ELSE petlje i određivanjem da li su neki iskazi tačni i netačni, vi mu dajete šansu da još jednom pobedi neprijatelje i nastavi svoj put ka novim avanturama. Kako za našeg heroja, tako i za vas ovaj zadatak neće biti nimalo lak i zahteva da ste prethodne lekcije jako dobro savladali. Zato budite hrabri i svojim znanjem pomozite našem heroju da savlada još jednu prepreku.
 

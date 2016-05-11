@@ -1,8 +1,9 @@
 ---
 {
-  "title": "Code Combat - pitanja i odgovori",
+  "title": "Code Combat - odbrana sela",
   "duration": "3:07"
 }
 ---
 
-U ovoj potpuno novoj avanturi ćemo koristiti nešto što smo već naučili, ali na malo drugačiji način. Neprijatelji su nam postavili određena pitanja, na koja moramo da odgovorimo sa tačno ili netačno. Ukoliko odgovorimo tačno na sva pitanja, neprijatelji će biti uništeni, ukoliko ne, ne možemo da idemo dalje i napredujemo. Možda će vam se na prvi pogled činiti da je ova igrica laka, ali nemojte da vas to zavara, naši neprijatelji su jako dovitljivi i zato dobro razmislite pre svakog odgovora. Srećno!
+Dobrodošli ponovo u eSovu, mesto gde se kroz zabavu jako puno nauči. Naš zadatak je ponovo da spasemo seljane, ali ovoga puta sa komandom IF ELSE. Ovoga puta naš junak će naići na jednu novu situaciju u kojoj će napadati neprijatelje ukoliko ih bude bilo, a ukoliko ih ne bude, on će stati u odbrambenu poziciju i reći nam kako nema neprijatelja na ekranu. Ponovo ćemo, kao i mnogo puta do sada koristiti petlje, kako bismo utvrdili da smo to savladali, jer neprijatelja ima puno i potrebno je da ih sve pobedimo.
+Status API Training Shop Blog About

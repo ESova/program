@@ -1,27 +1,27 @@
 {
-"video": "gp5bybkbly",
+"video": "xwa6piieaw",
 "slides": [{
   "type": "question",
-  "time": "2:28",
-  "question": "Koju funkciju koristimo da nađemo najbližeg neprijatelja?",
+  "time": "3:07",
+  "question": "Kako smo nazvali promenljivu koja označava neprijatelja na desnoj strani?",
   "options": [
-    "petlju",
-    "findNearestEnemy",
-    "attack(enemy)"
+    "enemy",
+    "rightEnemy",
+    "EnemyRight"
   ],
   "answer": [1]
-  },{
-    "type": "challenge",
-    "time": "1:30",
-    "text": "Odigrajte nivo i vratite se",
-    "link": {
-      "url": "http://codecombat.com/play/level/patrol-buster",
-      "title": "Igrajte sada"
-    }
-  },{
-    "type": "solution",
-    "time": "2:28",
-    "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
-    "button": "Završite lekciju"
-  }]
+},{
+  "type": "challenge",
+  "time": "1:11",
+  "text": "Odigrajte nivo i vratite se",
+  "link": {
+    "url": "http://codecombat.com/play/level/village-guard",
+    "title": "Igrajte sada"
+  }
+},{
+  "type": "solution",
+  "time": "3:07",
+  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
+  "button": "Završite lekciju"
+}]
 }

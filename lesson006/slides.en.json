@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "5:05",
-  "question": "What is this shortcut for (CTRL C and CTRL V (CMD C and CMD V if you are on Apple)?",
+  "question": "What are these shortcuts for (CTRL C and CTRL V (CMD C and CMD V if you are on Apple)?",
   "options": [
     "save and delete",
     "copy and paste",
@@ -25,7 +25,7 @@
 },{
   "type": "challenge",
   "time": "5:05",
-  "text": "Go click Show bookmark bar to make bookmarks visible on every browser tab. Then visit Wikipedia, copy part of the article and paste it into Google Translate to read it in serbian. After you are done, save both links into Bookmark bar folder - Help Tools. ",
+  "text": "Go click Show bookmark bar to make bookmarks visible on every browser tab. Then visit Wikipedia, copy part of the article and paste it into Google Translate to read it in Serbian. After you are done, save both links into Bookmark bar folder - Help Tools. ",
   "link": {
     "url": "https://en.wikipedia.org/wiki/Bookmark_(World_Wide_Web)",
     "title": "Start the challenge"

@@ -1,10 +1,11 @@
 ---
 {
-  "title": "CodeCombat - borba protiv neprijatelja",
-  "duration": "1:49"
+  "title": "CodeCombat - borba protiv ogara",
+  "duration": "3:14"
 }
 ---
 
-U novom zadatku dobijamo još jedan deo opreme. To su čizme koje nam pomažu da se pomerimo na tačno određenu koordinatu. Međutim, naš junak se u prethodnim borbama jako puno istrošio i moraćemo da pazimo na njegovo zdravlje. U tome će nam pomoći štit. Njime ćemo upravljati pomoću IF/ELSE strukture. Kako bismo na najbrži mogući način mogli da porazimo neprijatelje, koristićemo, naravno, naš najjači napad CLEAVE, odnosno presecanje protivnika na pola. Dobro razmislite kada ćete napadati, a kada ćete se braniti. 
+Dobrodošli u još jednu avanturu Code Combat-a. Kako bismo bolje videli neprijatelje sa velike razdaljine, u svoju opremu smo uvrstili naočare. One nam daju mogućnost da izračunamo koliko tačno smo udaljeni od neprijatelja, kako bismo znali da li su dovoljno blizu da naš napad bude uspešan. Kao i što smo navikli, ogari retko kada napaduju sami, pa ćemo ponovo koristiti petlju, kako bismo odbili sve njihove napade. Puno sreće u ovom zadatku i nadamo se da ćete se lepo zabaviti, ali mnogo i naučiti.
+
 
 

@@ -1,27 +1,26 @@
 {
-"video": "fma40753uv",
+"video": "s4gi1dfg28",
 "slides": [{
   "type": "question",
-  "time": "1:40",
-  "question": "Komandu Cleave možemo koristiti...",
+  "time": "3:05",
+  "question": "šta dobijemo pomoću naočara?",
   "options": [
-    "jednom u toku igrice",
-    "stalno",
-    "kada je spremna",
+    "mogućnost da se sakrijemo ",
+    "mogućnost da izračunamo koliko tačno smo udaljeni od neprijatelja",
     
   ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "1:49",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "1:42",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "http://codecombat.com/play/forest",
+    "url": "http://codecombat.com/play/level/peasant-protection",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "1:49",
+  "time": "3:05",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

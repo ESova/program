@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Code Combat - patuljci i drugi neprijatelji ",
+  "title": "Code Combat - patuljci i ostali neprijatelji ",
   "duration": "4:59"
 }
 ---

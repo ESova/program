@@ -1,27 +1,26 @@
 {
-"video": "aaaaa99999",
+"video": "wmxh5qh031",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "2:23",
+  "question": "Kojom komandom merimo udaljenost neprijatelja?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "this.countEnemy(distance)",
+    "this.enemyCount(distance)",
+    "this.distanceTo(enemy)",
   ],
-  "answer": [9]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "1:05",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://codecombat.com/play/level/munchkin-swarm",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "2:23",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,27 +1,26 @@
 {
-"video": "aaaaa99999",
+"video": "nqkrjufx8y",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "4:50",
+  "question": "Kako smo u ovom nivou pisali if komandu unutar druge if komande?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "u ravni sa prvom",
+    "uvučenu",
+   
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "3:09",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "http://codecombat.com/play/level/stillness-in-motion",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "4:50",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

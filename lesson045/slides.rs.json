@@ -7,7 +7,7 @@
   "options": [
     "this.countEnemy(distance)",
     "this.enemyCount(distance)",
-    "this.distanceTo(enemy)",
+    "this.distanceTo(enemy)"
   ],
   "answer": [2]
 },{

@@ -6,7 +6,7 @@
   "question": "U kom primeru će naš heroj izgovoriti 'I don’t see an enemy'? (enemy postoji)",
   "options": [
     "If (enemy) { this.attack(enemy) }",
-    "If (enemy) { this.say('I don’t see an enemy')) }",
+    "If (enemy) { this.say('I don’t see an enemy') }",
     "If (enemy) { this.attack(enemy) } else { this.say('I don’t see an enemy') }",
     "If (enemy) { this.attack(enemy) } else { this.moveXY(x,y) }"
   ],

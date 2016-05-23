@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Code Combat - ",
+  "title": "Code Combat - sakupljanje ",
   "duration": "3:21"
 }
 ---

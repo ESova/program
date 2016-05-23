@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "84iqv218ev",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "4:08",
+  "question": "Kako da proverimo udaljenost od naše trenutne pozicije do zastave?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "this.pos - flag.pos",
+    "flag.pos - this.pos",
+    "this.distanceTo(flag)",
+    "this.flag.pos"
   ],
-  "answer": [9]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "2:29",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://codecombat.com/play/level/hold-the-forest-pass",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "4:08",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

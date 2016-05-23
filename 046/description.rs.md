@@ -1,7 +1,7 @@
 ---
 {
   "title": "Code Combat - zastave",
-  "duration": "9:99"
+  "duration": "2:24"
 }
 ---
 

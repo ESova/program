@@ -2,7 +2,7 @@
 "video": "wmxh5qh031",
 "slides": [{
   "type": "question",
-  "time": "2:23",
+  "time": "2:22",
   "question": "Kojom komandom merimo udaljenost neprijatelja?",
   "options": [
     "this.countEnemy(distance)",

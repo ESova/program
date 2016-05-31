@@ -8,7 +8,7 @@
     "var x = pos.x",
     "var x = coin.pos.x",
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
   "time": "5:44",

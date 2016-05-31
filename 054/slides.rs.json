@@ -3,10 +3,10 @@
 "slides": [{
   "type": "question",
   "time": "9:99",
-  "question": "First question",
+  "question": "Kako pravilno kreiramo promenljivu x za novčić?",
   "options": [
-    "a",
-    "b",
+    "var x = pos.x",
+    "var x = coin.pos.x",
     "c",
     "d"
   ],

@@ -6,7 +6,7 @@
   "question": "Kako pravilno kreiramo promenljivu x za novčić?",
   "options": [
     "var x = pos.x",
-    "var x = coin.pos.x",
+    "var x = coin.pos.x"
   ],
   "answer": [1]
 },{

@@ -6,7 +6,7 @@
   "question": "Šta radi if-else if-else struktura ukoliko imamo više izraza od kojih prvi nije tačan?",
   "options": [
     "proverava sve ostale izraze dok ne dođe do onog koji je tačan",
-    "staje nakon prvog netačnog",
+    "staje nakon prvog netačnog"
   ],
   "answer": [0]
 },{

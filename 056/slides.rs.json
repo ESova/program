@@ -13,11 +13,11 @@
   "answer": [0,2]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "0:11",
+  "text": "Otvorite novi Gist i dopunite ga stečenim znanjem",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://gist.github.com/",
+    "title": "Otvorite novi Gist"
   }
 },{
   "type": "solution",

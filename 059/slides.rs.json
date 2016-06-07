@@ -1,27 +1,26 @@
 {
-"video": "aaaaa99999",
+"video": "7kprxtc8ag",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "1:54",
+  "question": "Koja komanda omogućava heroju da se kreće unazad na ovom nivou?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "moveXY(x+10,y)",
+    "moveXY(x-10,y)",
+
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "1:13",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://codecombat.com/play/level/oasis",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "1:54",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

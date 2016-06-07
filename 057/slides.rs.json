@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "0v6nwtq89v",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "5:16",
+  "question": "Kojom komandom saznajemo vrednost x koordinate zastave?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "pos.flag.x",
+    "x.flag.pos",
+    "flag.pos.x",
+    "flag.pos.(x)"
   ],
-  "answer": [9]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "0:11",
+  "text": "Otvorite novi Gist i dopunite ga stečenim znanjem",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://gist.github.com/",
+    "title": "Otvorite novi Gist"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "5:16",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

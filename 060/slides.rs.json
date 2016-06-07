@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "0wrmjwfeil",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "2:27",
+  "question": "Šta u ovoj igri označava xPos＝this.pos.x + 5?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "Da će se naš heroj stalno kretati unazad",
+    "Da će se naš heroj stalno kretati napred ",
+    "Da će se naš heroj stalno kretati na gore",
+    "Da će se naš heroj stalno kretati na dole"
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "1:00",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://codecombat.com/play/level/basin-stampede",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "2:27",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

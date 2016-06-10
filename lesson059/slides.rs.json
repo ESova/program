@@ -6,7 +6,7 @@
   "question": "Koja komanda omogućava heroju da se kreće unazad na ovom nivou?",
   "options": [
     "moveXY(x+10,y)",
-    "moveXY(x-10,y)",
+    "moveXY(x-10,y)"
 
   ],
   "answer": [1]

@@ -1,27 +1,27 @@
 {
-"video": "aaaaa99999",
+"video": "cp0nzbsep2",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "3:01",
+  "question": "Ukoliko je nivo zdravlja našeg heroja viši od donjeg praga zdravlja, šta on radi?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "Beži u zasedu",
+    "Ipak odlazi do lekara",
+    "Napada neprijatelja",
+    "Postavlja zamku"
   ],
-  "answer": [9]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "1:07",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
     "url": "link",
-    "title": "Title of the link"
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "3:01",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

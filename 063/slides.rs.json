@@ -1,27 +1,28 @@
 {
-"video": "aaaaa99999",
+"video": "smy8opmurx",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "2:17",
+  "question": "Ukoliko ne naiđe na neprijatelja, šta radi naš junak?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "Postavlja ogradu iznad sebe",
+    "Postavlja ogradu ispod sebe",
+    "Nastavlja da se kreće ka oazi",
+    "Čeka neprijatelja"
+    "Vraća se nazad"
   ],
-  "answer": [9]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "0:54",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
     "url": "link",
-    "title": "Title of the link"
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "2:17",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

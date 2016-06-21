@@ -2,7 +2,7 @@
 "video": "8f0fujg6ql",
 "slides": [{
   "type": "question",
-  "time": "9:99",
+  "time": "4:55",
   "question": "Dok je broj naređenja manji od 5, naš junak će se pomerati:",
   "options": [
     "Gore",
@@ -21,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "4:55",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

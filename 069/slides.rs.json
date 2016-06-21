@@ -3,13 +3,13 @@
 "slides": [{
   "type": "question",
   "time": "5:39",
-  "question": "Ako je vreme manje od deset:",
+  "question": "Koje su Narijine koordinate?",
   "options": [
-    "Napadamo ogare",
-    "Definišemo varijablu zastava",
-    "Proveravamo zdravlje",
+    "59, 33",
+    "90, 90",
+    "23, 40",
   ],
-  "answer": [2]
+  "answer": [0]
 },{
   "type": "challenge",
   "time": "1:03",

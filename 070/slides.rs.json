@@ -1,23 +1,23 @@
 {
-"video": "aaaaa99999",
+"video": "8f0fujg6ql",
 "slides": [{
   "type": "question",
   "time": "9:99",
-  "question": "First question",
+  "question": "Dok je broj naređenja manji od 5, naš junak će se pomerati:",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "Gore",
+    "Dole",
+    "Levo",
+    "Desno"
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "2:38",
+   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://codecombat.com/play/level/desert-combat",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",

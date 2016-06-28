@@ -2,26 +2,25 @@
 "video": "aaaaa99999",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "3:28",
+  "question": "Sve dok je indeks neprijatelja manji od njihove dužine:",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "ne napadamo",
+    "pravimo novu promenljivu neprijatelj",
+    "povlačimo se",
   ],
   "answer": [9]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "1:48",
+   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://codecombat.com/play/level/lurkers",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "3:28",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

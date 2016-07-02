@@ -2,14 +2,14 @@
 "video": "18e2j1vri3",
 "slides": [{
   "type": "question",
-  "time": "3:28",
+  "time": "3:19",
   "question": "Sve dok je indeks neprijatelja manji od njihove dužine:",
   "options": [
     "ne napadamo",
     "pravimo novu promenljivu neprijatelj",
     "povlačimo se"
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
   "time": "1:48",
@@ -20,7 +20,7 @@
   }
 },{
   "type": "solution",
-  "time": "3:28",
+  "time": "3:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

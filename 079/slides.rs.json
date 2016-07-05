@@ -1,27 +1,34 @@
 {
-"video": "aaaaa99999",
+"video": "juwcfpvpeg",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "7:57",
+  "question": "Kako ćemo prikupiti više zlata za svog junaka?",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "poslaćemo ga u rudnik zlata",
+    "pronaćićemo skrivene nivoe i preći ih",
+    "svratićemo do najbliže zlatare",
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "2:09",
+   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://codecombat.com/play/level/the-trials",
+    "url": "https://codecombat.com/play/level/kithgard-gates",
+    "url": "https://codecombat.com/play/level/lost-viking",
+    "url": "https://codecombat.com/play/level/sarven-brawl",
+    "url": "https://codecombat.com/play/level/backwoods-brawl",
+    "url": "https://codecombat.com/play/level/cavern-survival",
+    "url": "https://codecombat.com/play/level/ckithgard-brawl",
+    "url": "https://codecombat.com/play/level/sarven-siege",
+    "url": "https://codecombat.com/play/level/sarven-treasure",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "7:57",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,27 +1,26 @@
 {
-"video": "aaaaa99999",
+"video": "yhwlqltx94",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "2:28",
+  "question": "Ako je vrednost novčića 3, znači da je:",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "srebrni",
+    "zlatan",
+    "bronzani",
   ],
-  "answer": [9]
+  "answer": [1]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "1:11",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://codecombat.com/play/level/shine-getter",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "2:28",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

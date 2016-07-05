@@ -1,27 +1,26 @@
 {
-"video": "aaaaa99999",
+"video": "azw2kdbs0p",
 "slides": [{
   "type": "question",
-  "time": "9:99",
-  "question": "First question",
+  "time": "3:19",
+  "question": "Koja je početna vrednost indeksa novčića??",
   "options": [
-    "a",
-    "b",
-    "c",
-    "d"
+    "2",
+    "1",
+    "0",
   ],
-  "answer": [9]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "9:99",
-  "text": "Challenge - what should they do after they click the link",
+  "time": "1:05",
+  "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "link",
-    "title": "Title of the link"
+    "url": "https://codecombat.com/play/level/sand-snakes",
+    "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "9:99",
+  "time": "3:19",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

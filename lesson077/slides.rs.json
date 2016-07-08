@@ -3,11 +3,11 @@
 "slides": [{
   "type": "question",
   "time": "3:19",
-  "question": "Koja je početna vrednost indeksa novčića??",
+  "question": "Koja je početna vrednost indeksa novčića?",
   "options": [
     "2",
     "1",
-    "0",
+    "0"
   ],
   "answer": [2]
 },{

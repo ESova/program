@@ -1,7 +1,7 @@
 ---
 {
-  "title": "Code Combat - Vojska Klonova",
-  "duration": "2:30"
+  "title": "Code Combat - Vojska klonova",
+  "duration": "3:25"
 }
 ---
 

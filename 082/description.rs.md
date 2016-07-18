@@ -1,9 +1,10 @@
 ---
 {
-  "title": "Code Combat - Vojska Klonova",
+  "title": "Code Combat - Uspon na Planinu ",
   "duration": "2:30"
 }
 ---
 
-U ovoj lekciji susrećemo se sa nečim potpuno drugačijim. Naime, duboko u šumi postoji jedno tajno mesto. U šumi se nalazi arena za borbu, koja je specifična po tome što se u njoj možete boriti protiv drugih igrača koji igraju Code Combat. Dakle, prvi put do sada imaćemo prilike da se borimo protiv drugih ljudi! Naš cilj je da savladamo ovu sobu jako dobro kako bismo pobedili u što vise duela, i dobili što vise zlatnika. Osim toga, prelazićemo i poslednji nivo u pustinji!Idemo da pokažemo šta smo naučili!
+Kroz eSova kurs proći ćemo kroz celu JavaScript sintaksu i pokušati da naučimo osnovne stvari uz pomoć Code Combata. Kasnije ćemo preći na druge priručnike, i na kraju koristiti stečeno znanje kako bismo napravili nešto korisno. Code Combat je zaista odličan metod učenja jer sve vreme vežbamo igrajući ga, i pored toga imamo vizuale pomoću kojih vidimo šta kod zapravo radi. Stoga, nastavljamo u poslednji svet ove igre koji se zove Planina. Biće uzbudljivo i poučno! Krenimo!
+
 

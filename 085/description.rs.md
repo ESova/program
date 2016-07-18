@@ -1,9 +1,10 @@
 ---
 {
-  "title": "Code Combat - Vojska Klonova",
-  "duration": "2:30"
+  "title": "Code Combat - Planinski Plaćenici",
+  "duration": "3:57"
 }
 ---
 
-U ovoj lekciji susrećemo se sa nečim potpuno drugačijim. Naime, duboko u šumi postoji jedno tajno mesto. U šumi se nalazi arena za borbu, koja je specifična po tome što se u njoj možete boriti protiv drugih igrača koji igraju Code Combat. Dakle, prvi put do sada imaćemo prilike da se borimo protiv drugih ljudi! Naš cilj je da savladamo ovu sobu jako dobro kako bismo pobedili u što vise duela, i dobili što vise zlatnika. Osim toga, prelazićemo i poslednji nivo u pustinji!Idemo da pokažemo šta smo naučili!
+Kao što i sami znate, do sada smo bili jako uspešni na svom putu. Hajde da nastavimo u istom ritmu! Penjemo se na planinu znanja u Code Combatu, što je ujedno i poslednji svet ove igre koji ćemo preći u okviru eSova kursa. Kroz svaki nivo koji smo prešli, naše znanje iz oblasti programiranja u JavaScriptu je raslo i bilo sve potpunije, i tako će biti i u buduće. Na ovom nivou bi trebalo da koristimo komande summon (prizvati) i command (komandovati) kako bismo zastitili heroja dok sakuplja novčiće. Krenimo!
+
 

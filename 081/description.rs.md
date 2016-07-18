@@ -5,5 +5,5 @@
 }
 ---
 
-U ovoj lekciji susrećemo se sa nečim potpuno drugačijim. Naime, duboko u šumi postoji jedno tajno mesto. U šumi se nalazi arena za borbu, koja je specifična po tome što se u njoj možete boriti protiv drugih igrača koji igraju Code Combat. Dakle, prvi put do sada imaćemo prilike da se borimo protiv drugih ljudi! Naš cilj je da savladamo ovu sobu jako dobro kako bismo pobedili u što vise duela, i dobili što vise zlatnika. Osim toga, prelazićemo i poslednji nivo u pustinji!Idemo da pokažemo šta smo naučili!
+Pre nego što pređemo u sledeći svet, uradićemo malu proveru svega onoga što smo naučili u pustinji. Ovo se uglavnom odnosi na nizove. Sta je niz? Niz je objekat koji nam dozvoljava da smestimo više vrednosti u jednu promenljivu. U suštini se koristi za smeštanje prikupljenih podataka. To mogu biti i različiti podaci, ali su uglavnom to kolekcije podataka istog tipa. Šta to tačno znači? Saznajte u ovoj lekciji!
 

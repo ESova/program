@@ -16,7 +16,15 @@
   "text": "Pokrenite ovaj link",
   "link": {
     "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype#Methods",
-    "title": "Link"
+    "title": "Nizovi"
+  }
+},{
+  "type": "challenge",
+  "time": "0:40",
+   "text": "Pokrenite ovaj link",
+  "link": {
+    "url": "https://titanpad.com/",
+    "title": "Titanpad"
   }
 },{
   "type": "solution",

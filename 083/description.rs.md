@@ -1,7 +1,7 @@
 ---
 {
   "title": "Code Combat - Ogar Džordž",
-  "duration": "2:30"
+  "duration": "2:50"
 }
 ---
 

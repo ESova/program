@@ -1,7 +1,7 @@
 ---
 {
-  "title": "Code Combat - Vojska Klonova",
-  "duration": "2:30"
+  "title": "Nizovi - obnavljanje",
+  "duration": "9:30"
 }
 ---
 

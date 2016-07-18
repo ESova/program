@@ -1,7 +1,7 @@
 ---
 {
   "title": "Code Combat - Uspon na Planinu ",
-  "duration": "2:30"
+  "duration": "4:30"
 }
 ---
 

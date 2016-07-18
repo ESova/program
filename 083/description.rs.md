@@ -1,9 +1,10 @@
 ---
 {
-  "title": "Code Combat - Vojska Klonova",
+  "title": "Code Combat - Ogar Džordž",
   "duration": "2:30"
 }
 ---
 
-U ovoj lekciji susrećemo se sa nečim potpuno drugačijim. Naime, duboko u šumi postoji jedno tajno mesto. U šumi se nalazi arena za borbu, koja je specifična po tome što se u njoj možete boriti protiv drugih igrača koji igraju Code Combat. Dakle, prvi put do sada imaćemo prilike da se borimo protiv drugih ljudi! Naš cilj je da savladamo ovu sobu jako dobro kako bismo pobedili u što vise duela, i dobili što vise zlatnika. Osim toga, prelazićemo i poslednji nivo u pustinji!Idemo da pokažemo šta smo naučili!
+ Nastavićemo naše putovanje kroz planinski svet kako bismo videli šta nas čeka u sledećem nivou. Očigledno ćemo morati da postavimo neke ograde, zamke ili mamce. Pre toga ćemo pogledati šta sve sadrži ovaj Programatikon 4 koji smo dobili kada smo završili sa pustinjskim svetom. Kao što smo ranije napomenuli, ova knjiga će nam omoguciti da pravimo funkcije. Veštine koje smo dobili ovde smo već pominjali, a najbitnije među njima su funkcije. JavaScript funkcije nam omogućuju da napravite kodove za višekratnu upotrebu. Hajde da vidimo o čemu se radi!
+
 

@@ -1,26 +1,26 @@
 {
-"video": "tjz22wx38a",
+"video": "hte4uaki9j",
 "slides": [{
   "type": "question",
-  "time": "2:27",
-  "question": "Ako je tip neprijatelj strelac:",
+  "time": "2:39",
+  "question": "Koju smo funkciju upotrebili, kako bi se naš junak posle 20 sekundi pomerio :",
   "options": [
-    "povlačimo se",
-    "ubijamo ga",
-    "štitimo se"
+    "this.now",
+    "this.time",
+    "this.20sek"
 ],
-  "answer": [1]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "2:17",
+  "time": "1:20",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/clash-of-clones",
+    "url": "https://codecombat.com/play/level/ogre-gorge-gouger",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:27",
+  "time": "2:39",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

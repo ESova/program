@@ -1,9 +1,9 @@
 ---
 {
-  "title": "Code Combat - Vojska Klonova",
-  "duration": "2:30"
+  "title": "Code Combat - Šumska straža",
+  "duration": "2:36"
 }
 ---
 
-U ovoj lekciji susrećemo se sa nečim potpuno drugačijim. Naime, duboko u šumi postoji jedno tajno mesto. U šumi se nalazi arena za borbu, koja je specifična po tome što se u njoj možete boriti protiv drugih igrača koji igraju Code Combat. Dakle, prvi put do sada imaćemo prilike da se borimo protiv drugih ljudi! Naš cilj je da savladamo ovu sobu jako dobro kako bismo pobedili u što vise duela, i dobili što vise zlatnika. Osim toga, prelazićemo i poslednji nivo u pustinji!Idemo da pokažemo šta smo naučili!
+U nivou koji je pred nama prikupljaćemo novčiće i boriti se protiv neprijatelja. Kako bismo ga uspešno prešli naučićemo da koristimo for-loop petlju. Ona je slična while-loop petlji, s tim što ima više različitih podešavanja. Kao i do sada, učimo se kroz igru, i imamo priliku da stečeno znanje odmah primenimo . Lepota Code Combata je u tome što učenje čini interaktivnim, a provere znanja interesantnim. Hajde da osvojimo vrhove JavaScripta zajedno!  
 

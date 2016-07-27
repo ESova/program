@@ -1,9 +1,10 @@
 ---
 {
-  "title": "Code Combat - Vojska Klonova",
-  "duration": "2:30"
+  "title": "Code Combat - Zlatna oluja",
+  "duration": "2:40"
 }
 ---
 
-U ovoj lekciji susrećemo se sa nečim potpuno drugačijim. Naime, duboko u šumi postoji jedno tajno mesto. U šumi se nalazi arena za borbu, koja je specifična po tome što se u njoj možete boriti protiv drugih igrača koji igraju Code Combat. Dakle, prvi put do sada imaćemo prilike da se borimo protiv drugih ljudi! Naš cilj je da savladamo ovu sobu jako dobro kako bismo pobedili u što vise duela, i dobili što vise zlatnika. Osim toga, prelazićemo i poslednji nivo u pustinji!Idemo da pokažemo šta smo naučili!
+Penjemo se na Code Combat planinu, i sve smo bliži njenom vrhu, kao i kraju ove igrice. Mnogo smo toga naučili kroz ove svetove i nivoe, a uskoro ćemo imati priliku da to znanje primenimo i van igre. Na ovom nivou, potrebno je poraziti neprijateljskog junaka za manje od dva minuta. Borićemo se protiv drugog igrača, pa će nam biti potrebno više truda i snalažljivosti nego inače. Imaćemo priliku da isprobamo nove veštine i pokažemo koliko smo moćni. Idemo u nove pobede!
+
 

@@ -1,9 +1,10 @@
 ---
 {
-  "title": "Code Combat - Vojska Klonova",
-  "duration": "2:30"
+  "title": "Code Combat - Čuvar zoološkog vrta",
+  "duration": "1:42"
 }
 ---
 
-U ovoj lekciji susrećemo se sa nečim potpuno drugačijim. Naime, duboko u šumi postoji jedno tajno mesto. U šumi se nalazi arena za borbu, koja je specifična po tome što se u njoj možete boriti protiv drugih igrača koji igraju Code Combat. Dakle, prvi put do sada imaćemo prilike da se borimo protiv drugih ljudi! Naš cilj je da savladamo ovu sobu jako dobro kako bismo pobedili u što vise duela, i dobili što vise zlatnika. Osim toga, prelazićemo i poslednji nivo u pustinji!Idemo da pokažemo šta smo naučili!
+Kroz razne svetove Code Combata borili smo se protiv mnogih neprijatelja, ali su nam najviše glavobolja zadali baš ogari. Legenda kaže da su oni pokušali da nauče programiranje, ali kada  su uvideli da im to neće poći za rukom, rešili su da taj proces otežaju i svima onima koji to pokušaju. Ne smemo dozvoliti da nas njihove zasede i napadi obeshrabre, jer kao što ste i do sada imali prilike da vidite, jači smo od njih. Zajedno smo i lepši i jači i pametniji, pa hajde da ih timski pobedimo!
+
 

@@ -1,9 +1,10 @@
 ---
 {
-  "title": "Code Combat - Vojska Klonova",
-  "duration": "2:30"
+  "title": "Code Combat - Plemenita žrtva",
+  "duration": "2:04"
 }
 ---
 
-U ovoj lekciji susrećemo se sa nečim potpuno drugačijim. Naime, duboko u šumi postoji jedno tajno mesto. U šumi se nalazi arena za borbu, koja je specifična po tome što se u njoj možete boriti protiv drugih igrača koji igraju Code Combat. Dakle, prvi put do sada imaćemo prilike da se borimo protiv drugih ljudi! Naš cilj je da savladamo ovu sobu jako dobro kako bismo pobedili u što vise duela, i dobili što vise zlatnika. Osim toga, prelazićemo i poslednji nivo u pustinji!Idemo da pokažemo šta smo naučili!
+Naš najveći saveznik kroz pustinje i prašume Code Combata bila je naša upornost. Svaki nivo koji smo prešli, svaki kod koji smo iskucali, primicao nas je sve bliže našem cilju - da postanemo programeri. I sve smo bliže ostvarenju tog cilja. Na tom trnovitom putu učili smo nove veštine i borili se protiv raznih neprijatelja, srčano i odlučno. Neprijateljske vojske pokušale su da nas zaustave i sruše ono što smo gradili, ali iz dana u dan naš junak je sve jači, jer naše znanje raste. Nastavljamo hrabro napred u nove pobede!
+
 

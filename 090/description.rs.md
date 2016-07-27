@@ -1,9 +1,10 @@
 ---
 {
-  "title": "Code Combat - Vojska Klonova",
-  "duration": "2:30"
+  "title": "Code Combat - Lovačka žurka",
+  "duration": "2:42"
 }
 ---
 
-U ovoj lekciji susrećemo se sa nečim potpuno drugačijim. Naime, duboko u šumi postoji jedno tajno mesto. U šumi se nalazi arena za borbu, koja je specifična po tome što se u njoj možete boriti protiv drugih igrača koji igraju Code Combat. Dakle, prvi put do sada imaćemo prilike da se borimo protiv drugih ljudi! Naš cilj je da savladamo ovu sobu jako dobro kako bismo pobedili u što vise duela, i dobili što vise zlatnika. Osim toga, prelazićemo i poslednji nivo u pustinji!Idemo da pokažemo šta smo naučili!
+Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+
 

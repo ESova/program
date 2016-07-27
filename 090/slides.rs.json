@@ -1,27 +1,26 @@
 {
-"video": "tjz22wx38a",
+"video": "6tcni54msg",
 "slides": [{
   "type": "question",
-  "time": "2:27",
-  "question": "Ako je tip neprijatelj strelac:",
+  "time": "2:32",
+  "question": "U ovoj lekciji, bonus dobijamo:",
   "options": [
-    "povlačimo se",
-    "ubijamo ga",
-    "štitimo se",
+    "ukoliko ubijemo 20 ogara",
+    "ukoliko sve naše trupe prežive",
+    "ukoliko pronađemo 30 neprijatelja",
 ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "2:17",
+  "time": "0:34",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/clash-of-clones",
-    "url": "https://codecombat.com/play/level/dueling-grounds",
+    "url": "https://codecombat.com/play/level/hunting-party",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:27",
+  "time": "2:32",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

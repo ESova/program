@@ -1,27 +1,26 @@
 {
-"video": "tjz22wx38a",
+"video": "8cyzsv1x92",
 "slides": [{
   "type": "question",
-  "time": "2:27",
-  "question": "Ako je tip neprijatelj strelac:",
+  "time": "2:26",
+  "question": "Ukoliko postoji nerijatelj, naš vojnik:",
   "options": [
-    "povlačimo se",
-    "ubijamo ga",
-    "štitimo se",
+    "napada neprijatelja",
+    "beži u zasedu",
+    "poziva pojačanje",
 ],
-  "answer": [1]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "2:17",
+  "time": "0:30",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/clash-of-clones",
-    "url": "https://codecombat.com/play/level/dueling-grounds",
+    "url": "https://codecombat.com/play/level/timber-guard",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:27",
+  "time": "2:26",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

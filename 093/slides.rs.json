@@ -1,26 +1,26 @@
 {
-"video": "6tcni54msg",
+"video": "g7pg7n68yc",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "5:17",
+  "question": "Koliko argumenata imamo kod kvadrata?",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "jedan",
+    "dva",
+    "tri"
 ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:34",
+  "time": "1:49",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/hunting-party",
+    "url": "https://codecombat.com/play/level/the-geometry-of-flowers",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "5:17",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

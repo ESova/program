@@ -1,26 +1,27 @@
 {
-"video": "6tcni54msg",
+"video": "rt0pnlrsl3",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "2:23",
+  "question": "Koju funkciju ne koristimo U ovoj lekciji?",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "MoveRIght",
+    "MoveLeft",
+    "MoveUp"
+    "MoveDown"
 ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "0:34",
+  "time": "1:11",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/hunting-party",
+    "url": "https://codecombat.com/play/level/kithgard-enchanter",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "2:23",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

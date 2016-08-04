@@ -5,9 +5,9 @@
   "time": "2:23",
   "question": "Koju funkciju ne koristimo U ovoj lekciji?",
   "options": [
-    "MoveRIght",
+    "MoveRight",
     "MoveLeft",
-    "MoveUp"
+    "MoveUp",
     "MoveDown"
 ],
   "answer": [1]

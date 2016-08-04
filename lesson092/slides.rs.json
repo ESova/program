@@ -3,11 +3,11 @@
 "slides": [{
   "type": "question",
   "time": "4:23",
-  "question": "Ko sadi ceveće na ovom nivou?",
+  "question": "Ko sadi cveće na ovom nivou?",
   "options": [
     "heroj",
     "vojnici",
-    "seljaci"
+    "seljaci",
     "cvećari"
 ],
   "answer": [2]

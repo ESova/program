@@ -1,15 +1,16 @@
 {
-"video": "6tcni54msg",
+"video": "g04bzy5mb2",
 "slides": [{
   "type": "question",
   "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "question": "U ovoj lekciji, osim vojnicima i strelcima, komandujemo i:",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "seljacima",
+    "cvećarima",
+    "neprijateljima"
+    "grifinima"
 ],
-  "answer": [1]
+  "answer": [0,3]
 },{
   "type": "challenge",
   "time": "0:34",

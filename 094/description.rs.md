@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Code Combat - Cvetni Planinski Šumarak",
+  "duration": "2:32"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+Postajemo pravi masteri baštovanske veštine, ovoga puta slikamo cvetovima! Dobili smo i novi predmet koji nam pokazuje listu svih jedinica koje smo prizvali. Komandovanje je isto kao i prethodnog puta, ovoga puta imamo opciju građenja i komandujemo ne samo vojnicima i snajperistima, već i grifinima i seljacima. Naš cilj je da nacrtamo nešto sa najmanje 1000 cvetova, ali je zapravo najbitnije da isprobamo nešto novo i zabavimo se. Idemo odmah!
+
 
 

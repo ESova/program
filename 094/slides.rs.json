@@ -2,7 +2,7 @@
 "video": "g04bzy5mb2",
 "slides": [{
   "type": "question",
-  "time": "2:32",
+  "time": "2:22",
   "question": "U ovoj lekciji, osim vojnicima i strelcima, komandujemo i:",
   "options": [
     "seljacima",
@@ -21,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "2:22",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

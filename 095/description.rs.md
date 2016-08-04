@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Code Combat - Lovaci i plen",
+  "duration": "4:25"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+Dobrodošli u novu epizodu! Danas ćemo igrati igru lovca i plena. Do sada smo bili uspešan vojskovođa i čarobnjak, i nastavljamo da stičemo nove veštine i osvajamo nove svetove.Cilj ovog nivoa je da naši irvasi ostanu živi. Imamo strelce i trebalo bi da pokupimo novčiće kako bismo prizvali nove vojnike koji će otići u napad na protivnike. Koristićemo informacije iz Gistova, kako bismo što bolje savladali zadatke koji su pred nama. Zajedno do pobede!
+
 
 

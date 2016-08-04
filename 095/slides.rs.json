@@ -1,26 +1,26 @@
 {
-"video": "6tcni54msg",
+"video": "iia8rr6pka",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "4:15",
+  "question": "Zašto prikupljamo novčiće?",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "da bismo ih stavili na štednu knjižicu",
+    "da bismo kupili novu uniformu",
+    "da bismo prizvali vojnike"
 ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:34",
+  "time": "0:37",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/hunting-party",
+    "url": "https://codecombat.com/play/level/hunters-and-prey",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "4:15",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

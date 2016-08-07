@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Code Combat - Lovaci i plen",
+  "title": "Code Combat - Lovci i plen",
   "duration": "4:25"
 }
 ---

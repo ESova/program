@@ -1,18 +1,19 @@
 {
-"video": "6tcni54msg",
+"video": "z16lo72kxs",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "2:20",
+  "question": "Koju funkciju koristimo za prizivanje vojnika?",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "summonSoldiers",
+    "summonTroops",
+    "callSoldiers",
+    "callTroops"
 ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "0:34",
+  "time": "0:48",
   "text": "Odigrajte nivo i vratite se",
   "link": {
     "url": "https://codecombat.com/play/level/mixed-unit-tactics",
@@ -20,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "2:20",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,7 +1,7 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Code Combat - Taktike jedinica",
+  "duration": "2:29"
 }
 ---
 

@@ -1,26 +1,26 @@
 {
-"video": "6tcni54msg",
+"video": "a9dbgpyhie",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "14:58",
+  "question": "Šta je pozivanje funkcije?",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "davanje imena funkciji",
+    "pokretanje rada funkcije",
+    "dodeljivanje broja funkciji"
 ],
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "0:34",
-  "text": "Odigrajte nivo i vratite se",
+  "time": "14:00",
+  "text": "Otvori Anin Gist",
   "link": {
-    "url": "https://codecombat.com/play/level/hunting-party",
-    "title": "Igrajte sada"
+    "url": "https://gist.github.com/esova-ana/b4d5b39a45e824b78706",
+    "title": "Otvori sada"
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "14:58",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

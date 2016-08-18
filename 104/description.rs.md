@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "JavaScript - Osnove funkcija",
+  "duration": "15:08"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+ Došli smo do kraja Code Combat avantura, i selimo se u realni svet programiranja.
+Kao što već znamo, u JavaScript kodu veoma bitni gradivni elementi jesu funkcije. Možemo  funkcije posmatrati kao male fabrike. U njih nešto ubacujemo - input i dobijamo izlaznu informaciju - Output. U ovoj lekciji saznaćemo više o tome šta se dešava unutar same funkcije: od čega se sastoji, kako radi, kako se može izražavati... Pored toga, bavićemo se pozivanjem i dizanjem funkcija. Hajde da zajedno nastavimo dalje putem znanja!
 
 

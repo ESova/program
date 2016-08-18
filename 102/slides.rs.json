@@ -1,26 +1,26 @@
 {
-"video": "6tcni54msg",
+"video": "g4cjzugwxx",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "2:12",
+  "question": "Koje slovo se sigurno nalazi u imenu špijuna?",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "D",
+    "M",
+    "Z"
 ],
-  "answer": [1]
+  "answer": [2]
 },{
   "type": "challenge",
-  "time": "0:34",
+  "time": "1:06",
   "text": "Odigrajte nivo i vratite se",
   "link": {
-    "url": "https://codecombat.com/play/level/hunting-party",
+    "url": "https://codecombat.com/play/level/the-spy-among-us",
     "title": "Igrajte sada"
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "2:12",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

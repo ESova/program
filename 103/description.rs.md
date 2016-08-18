@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Code Combat - Oblačna opsada",
+  "duration": "6:33"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+Došli smo do poslednjeg nivoa koji ćemo zajedno prelaziti u Code Combatu. Vreme tako brzo prolazi, a mi smo na pragu jednog novog poglavlja našeg kursa. Nakon ovog nivoa imaćete priliku da znanje stečeno kroz igru primenite u stvarnom kodu. Izuzetno nam je drago što smo ovoliko napredovali zajedno, rame uz rame. Nadamo se da ste uživali u avanturama našeg heroja odnosno heroine, i da ćete još više uživati u onome što sledi. Čeka nas jedan malo izazovniji nivo, ali tu smo da pomognemo jedni drugima, pa nam neće teško pasti. Srećno!
+
 
 

@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Code Combat - Dolina straha",
+  "duration": "1:38"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+Dobrodošli, idemo na sledeći nivo pod imenom Dolina straha. Treba da se klonimo ogara i da ih porazimo koristeći minsko polje. Koristićemo petlju koja će prolaziti kroz redove i postavljati vatrene zamke, praveći minsko polje namenjeno našim neprijateljima. Ovo polje biće posebno interesantno, jer će preko njega potpuno bezbedno moći da se kreću naši prijatelji seljani. Sve ćemo ovo imati prilike da posmatramo iz svog zaklona, pa hajde da se igramo!
+
 
 

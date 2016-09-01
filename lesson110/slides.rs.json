@@ -2,25 +2,18 @@
 "video": "55xer1eros",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "5:21",
+  "question": "Koji NPM modul nam omogućava da koristimo CSS u našem JavaScript kodu?",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "yo-yo",
+    "csjs-inject",
+    "minixhr",
+    "chart.js"
 ],
   "answer": [1]
 },{
-  "type": "challenge",
-  "time": "5:20",
-  "text": "",
-  "link": {
-    "url": "",
-    "title": ""
-  }
-},{
   "type": "solution",
-  "time": "2:32",
+  "time": "5:21",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

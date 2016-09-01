@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Portfolio aplikacija",
+  "duration": "5:29"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+U prethodnoj lekciji smo napisali prvu verziju našeg koda za portfolio aplikaciju, a sada je vreme da ga uredimo. U ovoj lekciji potrudićemo se da što bolje struktuiramo svoj kod i učinimo ga čitljivijim, što će nam mnogo značiti kakda se budemo vraćali da ga dorađujemo ili menjamo. Naša aplikacija imaće sliku, naslov i opis, i bitno nam je da sve to bude pregledno uneseno. Snalaženje u kodu je jedna od veština koje se stiču, a bitno je da sebi samima olakšamo taj proces. Hajde da se bacimo na posao!
 
 

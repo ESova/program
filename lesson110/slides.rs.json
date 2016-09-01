@@ -1,5 +1,5 @@
 {
-"video": "6tcni54msg",
+"video": "55xer1eros",
 "slides": [{
   "type": "question",
   "time": "2:32",
@@ -12,11 +12,11 @@
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "0:34",
-  "text": "Odigrajte nivo i vratite se",
+  "time": "5:20",
+  "text": "",
   "link": {
-    "url": "https://codecombat.com/play/level/hunting-party",
-    "title": "Igrajte sada"
+    "url": "",
+    "title": ""
   }
 },{
   "type": "solution",

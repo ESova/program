@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Code Combat - Poslednji nivo",
+  "duration": "1:20"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+Sada smo stvarno stigli do našeg poslednjeg nivoa u Code Combatu. Možda je bolje reći - vašeg - jer ovoga puta svako bira jedan nivo koji će potpuno samostalno preći i na taj način završiti svoju Code Combat avanturu! U ovoj lekciji nećete imati pomoć od nas - ali imate svoje znanje i jedni druge, verujemo da vam je to i više nego dovoljno! Podelite sa nama na chatu koji ste nivo izabrali i kako ste ga prešli! Srećno!
 
 

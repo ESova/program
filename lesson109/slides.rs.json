@@ -2,17 +2,16 @@
 "video": "spbg4dlbci",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "18:41",
+  "question": "Za koja 2 nova jezika trebamo pre nego sto nastavimo dalje, sada sami da naučimo osnove pomoću www.devdocs.io",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "HTML",
+    "CSS"
 ],
-  "answer": [1]
+  "answer": [0,1]
 },{
   "type": "challenge",
-  "time": "0:45",
+  "time": "18:41",
   "text": "Otvorite requirebin",
   "link": {
     "url": "http://requirebin.com/",
@@ -20,7 +19,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "18:41",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Modulo",
+  "duration": "4:57"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+Danas ćemo se podsetiti šta je to ostatak, odnosno Modulo. Već smo ga koristili, ali je sada vreme da to ponovimo, pokažemo još neke njegove upotrebe i dodatno ga pojasnimo. Operacija ostatka vraća ostatak koji je ostao prilikom deljenja dva operanda. U Google Chrome konzoli ćemo na primerima isprobati ono što smo naučili, i videti kako modulo zapravo funkcioniše. Ostanite uz nas, zajedno smo pametniji i bolji!
 
 

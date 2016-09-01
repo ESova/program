@@ -1,5 +1,5 @@
 {
-"video": "6tcni54msg",
+"video": "vy03m6h8du",
 "slides": [{
   "type": "question",
   "time": "2:32",
@@ -12,11 +12,11 @@
   "answer": [1]
 },{
   "type": "challenge",
-  "time": "0:34",
-  "text": "Odigrajte nivo i vratite se",
+  "time": "4:47",
+  "text": "Napravite novi Gist",
   "link": {
-    "url": "https://codecombat.com/play/level/hunting-party",
-    "title": "Igrajte sada"
+    "url": "https://gist.github.com/",
+    "title": "Napravi sada"
   }
 },{
   "type": "solution",

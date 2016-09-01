@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Vraćanje objekata sa funkcijama",
+  "duration": "5:15"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+Ponovo se igramo funkcijama. Ovoga puta pričamo o vraćanju objekata sa funkcijama. Koristićemo uobičajeni šablon za vraćanje objekata sa funkcijama kao vrednostima i na konkretnim primerima videti kako sve to funkcioniše. Koristićemo konzolu u Google Chromu kako bismo praktično isprobali ono što prelazimo. Napunićemo svoj gist novim informacijama, a glave znanjem! Učimo zajedno! 
 
 

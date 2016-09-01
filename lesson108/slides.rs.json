@@ -2,17 +2,18 @@
 "video": "nga3kk92f2",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "1:04",
+  "question": "Koji je bio poslednji svet koji smo zajedno igrali u Code Combatu",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "Cloudrip Mountain",
+    "Web development",
+    "Game development",
+    "Kithgard Dungeon"
 ],
-  "answer": [1]
+  "answer": [0]
 },{
   "type": "challenge",
-  "time": "0:57",
+  "time": "1:04",
   "text": "Odigrajte nivo",
   "link": {
     "url": "https://codecombat.com/play/",
@@ -20,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "1:04",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

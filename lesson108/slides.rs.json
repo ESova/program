@@ -2,7 +2,7 @@
 "video": "nga3kk92f2",
 "slides": [{
   "type": "question",
-  "time": "1:04",
+  "time": "1:02",
   "question": "Koji je bio poslednji svet koji smo zajedno igrali u Code Combatu",
   "options": [
     "Cloudrip Mountain",
@@ -13,7 +13,7 @@
   "answer": [0]
 },{
   "type": "challenge",
-  "time": "1:04",
+  "time": "1:02",
   "text": "Odigrajte nivo",
   "link": {
     "url": "https://codecombat.com/play/",
@@ -21,7 +21,7 @@
   }
 },{
   "type": "solution",
-  "time": "1:04",
+  "time": "1:02",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

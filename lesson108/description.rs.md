@@ -1,7 +1,7 @@
 ---
 {
   "title": "Code Combat - Poslednji nivo",
-  "duration": "1:20"
+  "duration": "1:11"
 }
 ---
 

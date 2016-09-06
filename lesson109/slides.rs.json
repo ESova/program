@@ -2,8 +2,8 @@
 "video": "spbg4dlbci",
 "slides": [{
   "type": "question",
-  "time": "18:41",
-  "question": "Za koja 2 nova jezika trebamo pre nego sto nastavimo dalje, sada sami da naučimo osnove pomoću www.devdocs.io",
+  "time": "18:40",
+  "question": "Koja 2 nova jezika trebamo pre nego sto nastavimo dalje, sada sami da naučimo osnove pomoću www.devdocs.io",
   "options": [
     "HTML",
     "CSS"
@@ -11,7 +11,7 @@
   "answer": [0,1]
 },{
   "type": "challenge",
-  "time": "18:41",
+  "time": "18:40",
   "text": "Otvorite requirebin",
   "link": {
     "url": "http://requirebin.com/",
@@ -19,7 +19,7 @@
   }
 },{
   "type": "solution",
-  "time": "18:41",
+  "time": "18:40",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Portfolio aplikacija",
+  "duration": "4:28"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+Dobrodošli nazad! Ovoga puta ćemo se igrati bojom pozadine, odnosno pokušaćemo da napravimo tako da se boja pozadine menja dok listamo stranicu.  Biće potrebno da napravimo promenljive boja koje želimo da koristimo, a zatim i da unesemo funkciju koja će ih menjati. Ova funkcija zapravo nije komponenta, pa ćemo naučiti kako da koritimo posebnu oblast pomagača u koju možemo da stavimo sve ostale funkcije koje rade određene stvari na stranici. Srećno!
+
 
 

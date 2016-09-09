@@ -3,7 +3,7 @@
 "slides": [{
   "type": "question",
   "time": "6:43",
-  "question": "Kojim alatom (properties) u CSS-u modifikujemo veličinu slova'?",
+  "question": "Kojim alatom u CSS-u (property) modifikujemo veličinu slova?",
   "options": [
     "font-size",
     "letter-size",

@@ -1,26 +1,17 @@
 {
-"video": "6tcni54msg",
+"video": "krutq0pq37",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "6:43",
+  "question": "Kojim alatom (properties) u CSS-u modifikujemo veličinu slova'?",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "font-size",
+    "letter-size",
 ],
-  "answer": [1]
-},{
-  "type": "challenge",
-  "time": "0:34",
-  "text": "Odigrajte nivo i vratite se",
-  "link": {
-    "url": "https://codecombat.com/play/level/hunting-party",
-    "title": "Igrajte sada"
-  }
+  "answer": [0]
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "6:43",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

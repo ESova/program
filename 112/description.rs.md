@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Profolio aplikacija",
+  "duration": "9:37"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+ U današnjoj lekciji ćemo se baviti stavljanjem i pozicioniranjem podnožja na stranici i upoznati se sa nekim veoma korisnim alatkama. Ono čime ćemo se pozabaviti su 3 male ikonice na dnu stranice. Jedna će voditi do Github-a, druga do e-mail adrese i treća do fejsbuk naloga. U ove svrhe koristićemo stranicu FontAwesome, gde imamo veliki izbor različitih ikonica koje možemo iskoristiti. Do sada smo već uspeli da ubacimo nekoliko komponenti i opciju skrolovanja u naš kod, tako da ćemo bez problema savladati i ovu lekciju. Srećno!
+
 
 

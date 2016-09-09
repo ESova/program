@@ -3,13 +3,13 @@
 "slides": [{
   "type": "question",
   "time": "10:54",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "question": "Koji je pravi format za primenu klasa u CSS-u?",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "<div="my_class"></div>",
+    "<div class"my_class"></div>",
+    "<div class='my_class'></div>"
 ],
-  "answer": [1]
+  "answer": [2]
 
 },{
   "type": "solution",

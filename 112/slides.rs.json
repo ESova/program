@@ -1,26 +1,19 @@
 {
-"video": "6tcni54msg",
+"video": "hv1mlj9jxm",
 "slides": [{
   "type": "question",
-  "time": "2:32",
-  "question": "U ovoj lekciji, bonus dobijamo:",
+  "time": "9:27",
+  "question": "Kako u html pozovemo JavaScript variablu var GREY = 'hsla(30,100%,99%,1)'?",
   "options": [
-    "ukoliko ubijemo 20 ogara",
-    "ukoliko sve naše trupe prežive",
-    "ukoliko pronađemo 30 neprijatelja"
+    "@{GREY}",
+    "${GREY}",
+    "%{GREY}",
+    "!{GREY}"
 ],
   "answer": [1]
 },{
-  "type": "challenge",
-  "time": "0:34",
-  "text": "Odigrajte nivo i vratite se",
-  "link": {
-    "url": "https://codecombat.com/play/level/hunting-party",
-    "title": "Igrajte sada"
-  }
-},{
   "type": "solution",
-  "time": "2:32",
+  "time": "9:27",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

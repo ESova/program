@@ -1,8 +1,8 @@
 {
-"video": "6tcni54msg",
+"video": "4p6jgckd09",
 "slides": [{
   "type": "question",
-  "time": "2:32",
+  "time": "10:54",
   "question": "U ovoj lekciji, bonus dobijamo:",
   "options": [
     "ukoliko ubijemo 20 ogara",
@@ -10,17 +10,10 @@
     "ukoliko pronađemo 30 neprijatelja"
 ],
   "answer": [1]
-},{
-  "type": "challenge",
-  "time": "0:34",
-  "text": "Odigrajte nivo i vratite se",
-  "link": {
-    "url": "https://codecombat.com/play/level/hunting-party",
-    "title": "Igrajte sada"
-  }
+
 },{
   "type": "solution",
-  "time": "2:32",
+  "time": "10:54",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

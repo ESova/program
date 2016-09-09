@@ -1,8 +1,8 @@
 {
-"video": "hv1mlj9jxm",
+"video": "55xer1eros",
 "slides": [{
   "type": "question",
-  "time": "9:27",
+  "time": "5:20",
   "question": "Kako u html pozovemo JavaScript variablu var GREY = 'hsla(30,100%,99%,1)'?",
   "options": [
     "@{GREY}",
@@ -13,7 +13,7 @@
   "answer": [1]
 },{
   "type": "solution",
-  "time": "9:27",
+  "time": "5:20",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

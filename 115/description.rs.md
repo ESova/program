@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Portfolio aplikacija",
+  "duration": "5:00"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+U današnjoj lekciji ćemo sređivati naš portfolio i napraviti animaciju menjanja boje i teksta. Na početku smo pokazali primer gde ako mišem listamo komponentu portfolija, ona se menja, naslov se pomera, menjaju se boje u pozadini i prikazuje se mali opis. Sve je ovo u animiranoj formi, i ovoga puta ćemo naučiti kako to da napišemo u samom kodu. Lepo, korisno i zabavno, upadajte!
 
 

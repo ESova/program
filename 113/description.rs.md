@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Portfolio aplikacija",
+  "duration": "6:53"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+U ovoj lekciji učimo kako da komuniciramo sa GitHubom i kako da koristimo “žive” podatke koji će se automatski menjati na našoj stranici. Danas ćemo se baviti time kako da prenesemo podatke sa naših GitHub profila na stranicu.  GitHub ima jednu odličnu stvar koja se zove API zbog koje svi oni koji stvaraju aplikacije mogu da pristupe podacima iz GitHub baze podataka, a ako želite da naučite kako, na pravom ste mestu!
+
 
 

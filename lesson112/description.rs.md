@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Profolio aplikacija",
+  "title": "Portfolio aplikacija",
   "duration": "9:37"
 }
 ---

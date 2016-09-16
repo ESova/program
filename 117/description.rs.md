@@ -1,10 +1,10 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Kviz aplikacija",
+  "duration": "5:50"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+U delu eSova kursa koji sledi naučićemo kako da napravimo svoju kviz aplikaciju. Zajedno ćemo napraviti kviz gde će korisnik moći da odgovori na pitanja tako što nam kaže koliko se slaže sa nekom izjavom. Koristićemo skalu od 1 do 6 kako bismo omogućili onome ko odgovara na pitanje da nam priliži svoj stav o nekoj temi. Na kraju kviza, korisnik će moći da vidi i uporedi svoje odgovore sa prosečnim odgovorima ostalih ispitanika. Hajde da sastavimo kod za ovu aplikaciju!
 
 

@@ -1,10 +1,12 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Portfolio aplikacija",
+  "duration": "4:36"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+ U ovoj lekciji ćemo dopuniti kod kako bi naš portfolio bio još lepši i sadržajniji. Ovoga puta ćemo uneti još jednu funkciju u našu komponentu portfolia i ova funkcija će se zvati otvaranje novog jezička. Kada god neko klikne na ovu površinu, biće preusmeren na novi jezičak koji će otvoriti naš kviz. Osim toga dodaćemo i strelicu koja će pokazati da se nešto nalazi ispod početne strane. Naučićemo kako da je animiramo kako bi naša aplikacija bila još interesantnija. Hajde da zajedno ulepšamo svoju aplikaciju i učinimo je još zanimljivijom!
+
+
 
 

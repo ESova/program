@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Kviz aplikacija",
+  "duration": "3:52"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+ Danas ćete imati priliku da vidite kako se pravi baza podataka u koju će ići rezultati svih takmičara koji pokrenu naš kviz. U novoj lekciji  ćemo vam pokazati kako da šaljete podatke u bazu podataka. Kao što znate u našem kvizu imamo ponuđene odgovore, i kada korisnik odgovori na pitanja, potrebno je da sačuvamo te podatke negde. Želimo da aktiviramo funkciju slanja podataka i puštanja rezultata, kako bismo uspeli pošaljemo podatke u bazu podataka. Idemo na pisanje koda, srećno!
+
 
 

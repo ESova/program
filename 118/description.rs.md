@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Kvzi aplikacija",
+  "title": "Kviz aplikacija",
   "duration": "10:59"
 }
 ---

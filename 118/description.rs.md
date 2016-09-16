@@ -1,10 +1,11 @@
 ---
 {
-  "title": "Code Combat - Lovačka žurka",
-  "duration": "2:42"
+  "title": "Kvzi aplikacija",
+  "duration": "10:59"
 }
 ---
 
-Ponovo komandujemo trupama, i eto prilike da još jednom pokažemo kakav smo vrsni vojskovođa. Još iz doba pre koda i simbola, na muci su se poznavali junaci. Sve ono što smo naučili primenićemo bez straha i ponosne glave, kako bismo odneli pobedu nad ljutim neprijateljima. Setićemo se drevnih učenja, i ono što smo u drugim svetovima saznavali, utkaćemo u kod budućnosti. Svi za jednog, eSova za sve!
+U ovoj lekciji dodaćemo pitanja u svoj kviz. Do sada smo u kod uneli samo prvo pitanje, ali naravno želimo da ih kasnije bude više. Takođe, želimo da osposobimo dugmiće tako da se, kada korisnik klikne i izabere odgovor, automatski pojavi sledeće pitanje. Kada korisnik prelazi na sledeće, neophodno je da se njegov odgovor na prethodno pitanje sačuva. Kako bismo ovo postigli potrebno je da unesemo niz pitanja i nekoliko promenljivih. Danas se pitamo i odgovaramo u kodu!
+
 
 

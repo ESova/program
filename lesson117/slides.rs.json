@@ -4,7 +4,7 @@
 "slides": [{
   "type": "question",
   "time": "5:40",
-  "question": "Čemu služi minihr?",
+  "question": "Čemu služi miniXHR?",
   "options": [
     "za prikupljanje podataka",
     "za predstavljanje podataka",

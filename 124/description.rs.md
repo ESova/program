@@ -1,11 +1,12 @@
 ---
 {
-  "title": "Kviz aplikacija",
-  "duration": "3:52"
+  "title": "Skladištenje projekata na kompjuteru",
+  "duration": "10:35"
 }
 ---
 
- Danas ćete imati priliku da vidite kako se pravi baza podataka u koju će ići rezultati svih takmičara koji pokrenu naš kviz. U novoj lekciji  ćemo vam pokazati kako da šaljete podatke u bazu podataka. Kao što znate u našem kvizu imamo ponuđene odgovore, i kada korisnik odgovori na pitanja, potrebno je da sačuvamo te podatke negde. Želimo da aktiviramo funkciju slanja podataka i puštanja rezultata, kako bismo uspeli da pošaljemo podatke u bazu. Bacamo se na pisanje koda, srećno!
+U prehodnoj lekicji smo uz pomoć terminala naučili kako da podesimo svoje programersko okruženje koje ćemo u budućnosti koristiti. Pre nego što pređemo na GitHub i napravimo skladište za naš novi projekat, moramo ga napraviti na svom kompjuteru. Kreiraćemo direktorijum moj projekat, i unutar njega portfolio i kviz direktorijum, kako bismo tu smestili svoje aplikacije. Kada završimo sa ovim procesom, one će raditi na kompjuteru, a u sledećoj lekciji ćemo naučiti i kako da ih postavimo na internet.
+
 
 
 

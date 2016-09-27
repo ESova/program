@@ -1,11 +1,11 @@
 ---
 {
   "title": "Kviz aplikacija",
-  "duration": "3:52"
+  "duration": "7:06"
 }
 ---
 
- Danas ćete imati priliku da vidite kako se pravi baza podataka u koju će ići rezultati svih takmičara koji pokrenu naš kviz. U novoj lekciji  ćemo vam pokazati kako da šaljete podatke u bazu podataka. Kao što znate u našem kvizu imamo ponuđene odgovore, i kada korisnik odgovori na pitanja, potrebno je da sačuvamo te podatke negde. Želimo da aktiviramo funkciju slanja podataka i puštanja rezultata, kako bismo uspeli da pošaljemo podatke u bazu. Bacamo se na pisanje koda, srećno!
+U ovoj lekciji naučićemo kako da vizuelno predstavimo odgovore ispitanika na pitanja u našoj kviz aplikaciji. Osim toga, naučićemo kako da uporedimo trenutne sa odgovorima prethodnih ispitanika, i to unesemo u grafikon. Imaćemo priliku da biramo između više tipova grafikona, u odnosu na to koji najviše odgovara našim potrebama. U te svrhe koristićemo modul Chart.js koji ćemo dodati našem projektu i naučiti kako da ga koristimo korak po korak. 
 
 
 

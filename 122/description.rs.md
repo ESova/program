@@ -1,11 +1,12 @@
 ---
 {
   "title": "Kviz aplikacija",
-  "duration": "3:52"
+  "duration": "10:13"
 }
 ---
 
- Danas ćete imati priliku da vidite kako se pravi baza podataka u koju će ići rezultati svih takmičara koji pokrenu naš kviz. U novoj lekciji  ćemo vam pokazati kako da šaljete podatke u bazu podataka. Kao što znate u našem kvizu imamo ponuđene odgovore, i kada korisnik odgovori na pitanja, potrebno je da sačuvamo te podatke negde. Želimo da aktiviramo funkciju slanja podataka i puštanja rezultata, kako bismo uspeli da pošaljemo podatke u bazu. Bacamo se na pisanje koda, srećno!
+U ovoj lekciji detaljnije ćemo proći kroz deo našeg koda odakle vučemo podatke iz baze podataka i šaljemo ih u Chart.js kako bi bili prikazani na grafikonu. Obajsnićemo šta tačno koja funkcija radi i kako je primeniti na konkretne odgovore ispitanika. Bližimo se kraju eSova kursa, kviz aplikaciju završavamo u ovoj lekciji  i ostaje nam da vidimo kako da je postavimo online jer trenutno sve razvijamo u requirebin-u. Sledeći korak je da ovaj kod postavimo na github, kako bi drugi korisnici mogli da ga vide i koriste.
+
 
 
 

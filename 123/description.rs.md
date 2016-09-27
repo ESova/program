@@ -1,11 +1,12 @@
 ---
 {
-  "title": "Kviz aplikacija",
-  "duration": "3:52"
+  "title": "Programersko okruženje",
+  "duration": "6:35"
 }
 ---
 
- Danas ćete imati priliku da vidite kako se pravi baza podataka u koju će ići rezultati svih takmičara koji pokrenu naš kviz. U novoj lekciji  ćemo vam pokazati kako da šaljete podatke u bazu podataka. Kao što znate u našem kvizu imamo ponuđene odgovore, i kada korisnik odgovori na pitanja, potrebno je da sačuvamo te podatke negde. Želimo da aktiviramo funkciju slanja podataka i puštanja rezultata, kako bismo uspeli da pošaljemo podatke u bazu. Bacamo se na pisanje koda, srećno!
+ Danas ćemo naučiti kako da podesimo svoje programersko okruženje. U njega spadaju alati kao što su Git koji nam pomaže da sačuvamo različite verzije naših programa, zatim Atom koji je alat za unos teksta i Node.js koji nam pomaže sa JavaScript datotekama na našem kompjuteru. Kako bismo podesili okruženje koristićemo terminal, koji je integralni deo svakog kompjuterskog sistema. Uređivanje programerskog okruženja obavićemo samo jednom, i nakon toga ćemo ga koristiti, pa hajde da prionemo na posao!
+
 
 
 

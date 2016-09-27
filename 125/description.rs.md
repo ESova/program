@@ -1,7 +1,7 @@
 ---
 {
   "title": "Postavljanje projekata na GitHub",
-  "duration": "3:52"
+  "duration": "11:37"
 }
 ---
 

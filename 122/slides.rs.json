@@ -1,18 +1,18 @@
 {
-"video": "0x2whrmm8c",
+"video": "3yluqsf0mj",
 "slides": [{
   "type": "question",
-  "time": "3:43",
-  "question": "Koji metod koristimo kako bi baza podataka mogla da dobije informacije iz aplikacije?",
+  "time": "10:04",
+  "question": "Za prevođenje dolaznih podataka u JavaScript jezik koirstimo metod:",
   "options": [
     "JSON.magnify(results)",
-    "JSON.sendify(results)",
+    "JSON.parse(results)",
     "JSON.stringify(results)"
 ],
-  "answer": [2]
+  "answer": [1]
 },{
   "type": "solution",
-  "time": "3:43",
+  "time": "10:04",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

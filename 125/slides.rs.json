@@ -1,18 +1,18 @@
 {
-"video": "0x2whrmm8c",
+"video": "abrg293gc5",
 "slides": [{
   "type": "question",
-  "time": "3:43",
-  "question": "Koji metod koristimo kako bi baza podataka mogla da dobije informacije iz aplikacije?",
+  "time": "11:27",
+  "question": "Git skladište čuva:",
   "options": [
-    "JSON.magnify(results)",
-    "JSON.sendify(results)",
-    "JSON.stringify(results)"
+    "Sve prethodne verzije koda",
+    "Poslednje 3 verzije koda",
+    "Samo poslednju verziju koda"
 ],
-  "answer": [2]
+  "answer": [0]
 },{
   "type": "solution",
-  "time": "3:43",
+  "time": "11:27",
   "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
   "button": "Završite lekciju"
 }]

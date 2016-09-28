@@ -1,19 +1,15 @@
 {
-"video": "0x2whrmm8c",
-"slides": [{
-  "type": "question",
-  "time": "3:43",
-  "question": "Koji metod koristimo kako bi baza podataka mogla da dobije informacije iz aplikacije?",
-  "options": [
-    "JSON.magnify(results)",
-    "JSON.sendify(results)",
-    "JSON.stringify(results)"
-],
-  "answer": [2]
+  "type": "challenge",
+  "time": "0:45",
+  "text": "Ostavite nam svoje podatke kako bismo vam priprmili eSova sertifikat",
+  "link": {
+    "url": "http://www.esova.rs/cestitamo/",
+    "title": "Unesite podatke"
+  }
 },{
   "type": "solution",
-  "time": "3:43",
-  "text": "Ukoliko ste uspešno završili zadatke, kliknite da završite lekciju",
-  "button": "Završite lekciju"
+  "time": "0:45",
+  "text": "Hvala što ste sa nama učili da programirate u JavasCript-u!",
+  "button": "Završite eSova kurs"
 }]
 }

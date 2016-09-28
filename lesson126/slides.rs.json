@@ -1,8 +1,9 @@
 {
-  "video": "qqhz0s7wj1",
+"video": "qqhz0s7wj1",
+"slides": [{
   "type": "challenge",
   "time": "0:45",
-  "text": "Ostavite nam svoje podatke kako bismo vam priprmili eSova sertifikat",
+  "text": "Ostavite nam svoje podatke kako bismo vam pripremili eSova sertifikat",
   "link": {
     "url": "http://www.esova.rs/cestitamo/",
     "title": "Unesite podatke"
